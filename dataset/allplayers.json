@@ -1,0 +1,4727 @@
+[
+  {
+    "id": "29903",
+    "url": "https://www.vlr.gg/player/29903/madv",
+    "name": "madv",
+    "teamTag": "FLCV",
+    "country": "sa"
+  },
+  {
+    "id": "31476",
+    "url": "https://www.vlr.gg/player/31476/mephisto",
+    "name": "Mephisto",
+    "teamTag": "6K",
+    "country": "mx"
+  },
+  {
+    "id": "2818",
+    "url": "https://www.vlr.gg/player/2818/neto",
+    "name": "neto",
+    "teamTag": "ZEN",
+    "country": "ar"
+  },
+  {
+    "id": "16018",
+    "url": "https://www.vlr.gg/player/16018/babytz",
+    "name": "babytz",
+    "teamTag": "BOBA",
+    "country": "th"
+  },
+  {
+    "id": "42901",
+    "url": "https://www.vlr.gg/player/42901/thyy",
+    "name": "thyy",
+    "teamTag": "TLN",
+    "country": "th"
+  },
+  {
+    "id": "8480",
+    "url": "https://www.vlr.gg/player/8480/aspas",
+    "name": "aspas",
+    "teamTag": "MIBR",
+    "country": "br"
+  },
+  {
+    "id": "40591",
+    "url": "https://www.vlr.gg/player/40591/comeback",
+    "name": "ComeBack",
+    "teamTag": "BCF",
+    "country": "tr"
+  },
+  {
+    "id": "8329",
+    "url": "https://www.vlr.gg/player/8329/starbound",
+    "name": "StarBound",
+    "teamTag": "WADA",
+    "country": "ca"
+  },
+  {
+    "id": "8422",
+    "url": "https://www.vlr.gg/player/8422/spaz",
+    "name": "Spaz",
+    "teamTag": "SRB",
+    "country": "us"
+  },
+  {
+    "id": "15500",
+    "url": "https://www.vlr.gg/player/15500/trent",
+    "name": "trent",
+    "teamTag": "G2",
+    "country": "us"
+  },
+  {
+    "id": "13258",
+    "url": "https://www.vlr.gg/player/13258/cyvoph",
+    "name": "CyvOph",
+    "teamTag": "MDR",
+    "country": "fr"
+  },
+  {
+    "id": "31305",
+    "url": "https://www.vlr.gg/player/31305/lar0k",
+    "name": "Lar0k",
+    "teamTag": "BCF",
+    "country": "tr"
+  },
+  {
+    "id": "15559",
+    "url": "https://www.vlr.gg/player/15559/chichoo",
+    "name": "CHICHOO",
+    "teamTag": "EDG",
+    "country": "cn"
+  },
+  {
+    "id": "17332",
+    "url": "https://www.vlr.gg/player/17332/jduh",
+    "name": "jduh",
+    "teamTag": "QAD.GC",
+    "country": "tr"
+  },
+  {
+    "id": "26632",
+    "url": "https://www.vlr.gg/player/26632/joliinaa",
+    "name": "Joliinaa",
+    "teamTag": "SK.N",
+    "country": "se"
+  },
+  {
+    "id": "20064",
+    "url": "https://www.vlr.gg/player/20064/vania",
+    "name": "Vania",
+    "teamTag": "G2.G",
+    "country": "tr"
+  },
+  {
+    "id": "39027",
+    "url": "https://www.vlr.gg/player/39027/leen",
+    "name": "Leen",
+    "teamTag": "",
+    "country": "sa"
+  },
+  {
+    "id": "45962",
+    "url": "https://www.vlr.gg/player/45962/ken",
+    "name": "KEN",
+    "teamTag": "CGZ",
+    "country": "kr"
+  },
+  {
+    "id": "16209",
+    "url": "https://www.vlr.gg/player/16209/famsii",
+    "name": "Famsii",
+    "teamTag": "HGE",
+    "country": "fi"
+  },
+  {
+    "id": "8176",
+    "url": "https://www.vlr.gg/player/8176/enerii",
+    "name": "enerii",
+    "teamTag": "FLCV",
+    "country": "id"
+  },
+  {
+    "id": "48575",
+    "url": "https://www.vlr.gg/player/48575/bucute",
+    "name": "bucute",
+    "teamTag": "",
+    "country": "vn"
+  },
+  {
+    "id": "39682",
+    "url": "https://www.vlr.gg/player/39682/wanzeru",
+    "name": "WanZeru",
+    "teamTag": "B8",
+    "country": "cz"
+  },
+  {
+    "id": "11183",
+    "url": "https://www.vlr.gg/player/11183/glance",
+    "name": "Glance",
+    "teamTag": "KC.GC",
+    "country": "ru"
+  },
+  {
+    "id": "8419",
+    "url": "https://www.vlr.gg/player/8419/reduxx",
+    "name": "Reduxx",
+    "teamTag": "CUBE",
+    "country": "us"
+  },
+  {
+    "id": "7754",
+    "url": "https://www.vlr.gg/player/7754/xavi8k",
+    "name": "xavi8k",
+    "teamTag": "DLSU",
+    "country": "ph"
+  },
+  {
+    "id": "44842",
+    "url": "https://www.vlr.gg/player/44842/jackk",
+    "name": "Jackk",
+    "teamTag": "Over",
+    "country": "us"
+  },
+  {
+    "id": "18655",
+    "url": "https://www.vlr.gg/player/18655/best",
+    "name": "Best",
+    "teamTag": "FB",
+    "country": "tr"
+  },
+  {
+    "id": "8375",
+    "url": "https://www.vlr.gg/player/8375/bones",
+    "name": "bones",
+    "teamTag": "Land",
+    "country": "us"
+  },
+  {
+    "id": "47911",
+    "url": "https://www.vlr.gg/player/47911/berryx",
+    "name": "berryx",
+    "teamTag": "HVND",
+    "country": "tr"
+  },
+  {
+    "id": "34974",
+    "url": "https://www.vlr.gg/player/34974/karon",
+    "name": "Karon",
+    "teamTag": "GEN",
+    "country": "kr"
+  },
+  {
+    "id": "24895",
+    "url": "https://www.vlr.gg/player/24895/jemkin",
+    "name": "Jemkin",
+    "teamTag": "RRQ",
+    "country": "ru"
+  },
+  {
+    "id": "24007",
+    "url": "https://www.vlr.gg/player/24007/shyy",
+    "name": "Shyy",
+    "teamTag": "KRÜ",
+    "country": "cl"
+  },
+  {
+    "id": "1960",
+    "url": "https://www.vlr.gg/player/1960/eko",
+    "name": "eKo",
+    "teamTag": "NFX",
+    "country": "kr"
+  },
+  {
+    "id": "8873",
+    "url": "https://www.vlr.gg/player/8873/dgzin",
+    "name": "dgzin",
+    "teamTag": "LOUD",
+    "country": "br"
+  },
+  {
+    "id": "11494",
+    "url": "https://www.vlr.gg/player/11494/keiko",
+    "name": "Keiko",
+    "teamTag": "TL",
+    "country": "gb"
+  },
+  {
+    "id": "28892",
+    "url": "https://www.vlr.gg/player/28892/muddy",
+    "name": "Muddy",
+    "teamTag": "YDZ",
+    "country": "la"
+  },
+  {
+    "id": "33732",
+    "url": "https://www.vlr.gg/player/33732/nunmeister",
+    "name": "Nunmeister",
+    "teamTag": "B8",
+    "country": "cz"
+  },
+  {
+    "id": "25388",
+    "url": "https://www.vlr.gg/player/25388/kon",
+    "name": "Kon",
+    "teamTag": "ASND",
+    "country": "ph"
+  },
+  {
+    "id": "37639",
+    "url": "https://www.vlr.gg/player/37639/hyuse",
+    "name": "Hyuse",
+    "teamTag": "FCY",
+    "country": "vn"
+  },
+  {
+    "id": "13232",
+    "url": "https://www.vlr.gg/player/13232/muffyn",
+    "name": "Muffyn",
+    "teamTag": "ALG.GC",
+    "country": "th"
+  },
+  {
+    "id": "2848",
+    "url": "https://www.vlr.gg/player/2848/sh0twell",
+    "name": "sh0twell",
+    "teamTag": "TXR",
+    "country": "cl"
+  },
+  {
+    "id": "24553",
+    "url": "https://www.vlr.gg/player/24553/boni",
+    "name": "Boni",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "36560",
+    "url": "https://www.vlr.gg/player/36560/canezerra",
+    "name": "canezerra",
+    "teamTag": "NV",
+    "country": "us"
+  },
+  {
+    "id": "50813",
+    "url": "https://www.vlr.gg/player/50813/gsr",
+    "name": "GSR",
+    "teamTag": "TL.AC",
+    "country": "rs"
+  },
+  {
+    "id": "38881",
+    "url": "https://www.vlr.gg/player/38881/wetysao",
+    "name": "wetysao",
+    "teamTag": "505",
+    "country": "br"
+  },
+  {
+    "id": "31574",
+    "url": "https://www.vlr.gg/player/31574/srn",
+    "name": "srN",
+    "teamTag": "MIBR.GC",
+    "country": "br"
+  },
+  {
+    "id": "252",
+    "url": "https://www.vlr.gg/player/252/d3ffo",
+    "name": "d3ffo",
+    "teamTag": "SNS",
+    "country": "ru"
+  },
+  {
+    "id": "17323",
+    "url": "https://www.vlr.gg/player/17323/mimi",
+    "name": "mimi",
+    "teamTag": "G2.G",
+    "country": "dk"
+  },
+  {
+    "id": "6676",
+    "url": "https://www.vlr.gg/player/6676/thiefy",
+    "name": "thiefy",
+    "teamTag": "NFX",
+    "country": "jp"
+  },
+  {
+    "id": "4917",
+    "url": "https://www.vlr.gg/player/4917/kaoticcc",
+    "name": "Kaoticcc",
+    "teamTag": "PLUG",
+    "country": "vn"
+  },
+  {
+    "id": "13831",
+    "url": "https://www.vlr.gg/player/13831/zeldris",
+    "name": "zeldris",
+    "teamTag": "BLUE",
+    "country": "us"
+  },
+  {
+    "id": "41207",
+    "url": "https://www.vlr.gg/player/41207/jade",
+    "name": "Jade",
+    "teamTag": "",
+    "country": "de"
+  },
+  {
+    "id": "13744",
+    "url": "https://www.vlr.gg/player/13744/patmen",
+    "name": "PatMen",
+    "teamTag": "PRX",
+    "country": "ph"
+  },
+  {
+    "id": "16621",
+    "url": "https://www.vlr.gg/player/16621/alexy",
+    "name": "Alexy",
+    "teamTag": "FLCV",
+    "country": "ph"
+  },
+  {
+    "id": "7716",
+    "url": "https://www.vlr.gg/player/7716/penny",
+    "name": "penny",
+    "teamTag": "YFP",
+    "country": "ca"
+  },
+  {
+    "id": "15003",
+    "url": "https://www.vlr.gg/player/15003/miyara",
+    "name": "miyara",
+    "teamTag": "SaD",
+    "country": "us"
+  },
+  {
+    "id": "1909",
+    "url": "https://www.vlr.gg/player/1909/jinny",
+    "name": "JinNy",
+    "teamTag": "ALG.GC",
+    "country": "th"
+  },
+  {
+    "id": "13784",
+    "url": "https://www.vlr.gg/player/13784/killua",
+    "name": "Killua",
+    "teamTag": "TLN",
+    "country": "th"
+  },
+  {
+    "id": "24344",
+    "url": "https://www.vlr.gg/player/24344/loita",
+    "name": "Loita",
+    "teamTag": "BCF",
+    "country": "tr"
+  },
+  {
+    "id": "24071",
+    "url": "https://www.vlr.gg/player/24071/liza",
+    "name": "LizA",
+    "teamTag": "VLNT",
+    "country": "un"
+  },
+  {
+    "id": "42702",
+    "url": "https://www.vlr.gg/player/42702/krizz",
+    "name": "Krizz",
+    "teamTag": "Z10",
+    "country": "pl"
+  },
+  {
+    "id": "48025",
+    "url": "https://www.vlr.gg/player/48025/alym",
+    "name": "alym",
+    "teamTag": "NBG",
+    "country": "us"
+  },
+  {
+    "id": "873",
+    "url": "https://www.vlr.gg/player/873/bob",
+    "name": "Bob",
+    "teamTag": "FLY",
+    "country": "au"
+  },
+  {
+    "id": "1291",
+    "url": "https://www.vlr.gg/player/1291/bnj",
+    "name": "bnj",
+    "teamTag": "NOTT",
+    "country": "ar"
+  },
+  {
+    "id": "29547",
+    "url": "https://www.vlr.gg/player/29547/ion2x",
+    "name": "ion2x",
+    "teamTag": "NV",
+    "country": "us"
+  },
+  {
+    "id": "114",
+    "url": "https://www.vlr.gg/player/114/enzo",
+    "name": "Enzo",
+    "teamTag": "MDR",
+    "country": "fr"
+  },
+  {
+    "id": "27244",
+    "url": "https://www.vlr.gg/player/27244/seph1roth",
+    "name": "seph1roth",
+    "teamTag": "FS",
+    "country": "th"
+  },
+  {
+    "id": "30901",
+    "url": "https://www.vlr.gg/player/30901/ianto",
+    "name": "ianto",
+    "teamTag": "EGN",
+    "country": "wa"
+  },
+  {
+    "id": "1311",
+    "url": "https://www.vlr.gg/player/1311/melser",
+    "name": "Melser",
+    "teamTag": "KRÜ",
+    "country": "cl"
+  },
+  {
+    "id": "21791",
+    "url": "https://www.vlr.gg/player/21791/vyx",
+    "name": "VYX",
+    "teamTag": "curs",
+    "country": "us"
+  },
+  {
+    "id": "5022",
+    "url": "https://www.vlr.gg/player/5022/derke",
+    "name": "Derke",
+    "teamTag": "VIT",
+    "country": "fi"
+  },
+  {
+    "id": "43744",
+    "url": "https://www.vlr.gg/player/43744/akita",
+    "name": "Akita",
+    "teamTag": "ZER.M",
+    "country": "fr"
+  },
+  {
+    "id": "17343",
+    "url": "https://www.vlr.gg/player/17343/ness",
+    "name": "ness",
+    "teamTag": "GX.GC",
+    "country": "tr"
+  },
+  {
+    "id": "4866",
+    "url": "https://www.vlr.gg/player/4866/kushy",
+    "name": "Kushy",
+    "teamTag": "RRQ",
+    "country": "id"
+  },
+  {
+    "id": "1916",
+    "url": "https://www.vlr.gg/player/1916/free1ng",
+    "name": "free1ng",
+    "teamTag": "DRX",
+    "country": "kr"
+  },
+  {
+    "id": "11964",
+    "url": "https://www.vlr.gg/player/11964/maryna",
+    "name": "maryna",
+    "teamTag": ":3",
+    "country": "us"
+  },
+  {
+    "id": "18162",
+    "url": "https://www.vlr.gg/player/18162/serial",
+    "name": "Serial",
+    "teamTag": "HGE",
+    "country": "lv"
+  },
+  {
+    "id": "28750",
+    "url": "https://www.vlr.gg/player/28750/ariel",
+    "name": "ariel",
+    "teamTag": "OVK",
+    "country": "us"
+  },
+  {
+    "id": "20055",
+    "url": "https://www.vlr.gg/player/20055/toki",
+    "name": "Toki",
+    "teamTag": "DVM.MI",
+    "country": "es"
+  },
+  {
+    "id": "4828",
+    "url": "https://www.vlr.gg/player/4828/nismo",
+    "name": "NiSMO",
+    "teamTag": "CUBE",
+    "country": "lb"
+  },
+  {
+    "id": "23930",
+    "url": "https://www.vlr.gg/player/23930/potter",
+    "name": "Potter",
+    "teamTag": "FS",
+    "country": "th"
+  },
+  {
+    "id": "53",
+    "url": "https://www.vlr.gg/player/53/inspire",
+    "name": "Inspire",
+    "teamTag": "NV",
+    "country": "us"
+  },
+  {
+    "id": "40511",
+    "url": "https://www.vlr.gg/player/40511/niz",
+    "name": "NIZ",
+    "teamTag": "SG",
+    "country": "th"
+  },
+  {
+    "id": "36180",
+    "url": "https://www.vlr.gg/player/36180/mihlog",
+    "name": "Mihlog",
+    "teamTag": "FCY",
+    "country": "vn"
+  },
+  {
+    "id": "29139",
+    "url": "https://www.vlr.gg/player/29139/datakiller",
+    "name": "DataKiller",
+    "teamTag": "ROSE",
+    "country": "ma"
+  },
+  {
+    "id": "31298",
+    "url": "https://www.vlr.gg/player/31298/luca",
+    "name": "Luca",
+    "teamTag": "EXO",
+    "country": "gb"
+  },
+  {
+    "id": "766",
+    "url": "https://www.vlr.gg/player/766/ange",
+    "name": "Ange",
+    "teamTag": "MU",
+    "country": "ca"
+  },
+  {
+    "id": "19791",
+    "url": "https://www.vlr.gg/player/19791/mel",
+    "name": "Mel",
+    "teamTag": "MIBR.GC",
+    "country": "br"
+  },
+  {
+    "id": "4475",
+    "url": "https://www.vlr.gg/player/4475/benecia",
+    "name": "BENECIA",
+    "teamTag": "GGA",
+    "country": "kr"
+  },
+  {
+    "id": "12143",
+    "url": "https://www.vlr.gg/player/12143/bizerra",
+    "name": "Bizerra",
+    "teamTag": "TL",
+    "country": "br"
+  },
+  {
+    "id": "41135",
+    "url": "https://www.vlr.gg/player/41135/dantedeu5",
+    "name": "Dantedeu5",
+    "teamTag": "OXÜ",
+    "country": "ar"
+  },
+  {
+    "id": "19371",
+    "url": "https://www.vlr.gg/player/19371/eva",
+    "name": "eva",
+    "teamTag": "GX.GC",
+    "country": "tr"
+  },
+  {
+    "id": "35567",
+    "url": "https://www.vlr.gg/player/35567/toro",
+    "name": "Toro",
+    "teamTag": "AB3",
+    "country": "mx"
+  },
+  {
+    "id": "9063",
+    "url": "https://www.vlr.gg/player/9063/infiltrator",
+    "name": "infiltrator",
+    "teamTag": "WU",
+    "country": "vn"
+  },
+  {
+    "id": "1850",
+    "url": "https://www.vlr.gg/player/1850/shot-up",
+    "name": "ShoT_UP",
+    "teamTag": "Land",
+    "country": "us"
+  },
+  {
+    "id": "7106",
+    "url": "https://www.vlr.gg/player/7106/diseased",
+    "name": "diseased",
+    "teamTag": "SNS",
+    "country": "by"
+  },
+  {
+    "id": "17225",
+    "url": "https://www.vlr.gg/player/17225/zhen",
+    "name": "zhen",
+    "teamTag": "S2",
+    "country": "tw"
+  },
+  {
+    "id": "15051",
+    "url": "https://www.vlr.gg/player/15051/sacred",
+    "name": "sacred",
+    "teamTag": "PLUG",
+    "country": "in"
+  },
+  {
+    "id": "46463",
+    "url": "https://www.vlr.gg/player/46463/twilight",
+    "name": "twilight",
+    "teamTag": "",
+    "country": "vn"
+  },
+  {
+    "id": "7745",
+    "url": "https://www.vlr.gg/player/7745/yoshiii",
+    "name": "Yoshiii",
+    "teamTag": "SZ",
+    "country": "ph"
+  },
+  {
+    "id": "17214",
+    "url": "https://www.vlr.gg/player/17214/moon",
+    "name": "moon",
+    "teamTag": "",
+    "country": "my"
+  },
+  {
+    "id": "49001",
+    "url": "https://www.vlr.gg/player/49001/secre",
+    "name": "Secre",
+    "teamTag": "TS.AC",
+    "country": "ph"
+  },
+  {
+    "id": "7873",
+    "url": "https://www.vlr.gg/player/7873/leaf",
+    "name": "leaf",
+    "teamTag": "G2",
+    "country": "us"
+  },
+  {
+    "id": "9837",
+    "url": "https://www.vlr.gg/player/9837/flare",
+    "name": "flare",
+    "teamTag": "WU",
+    "country": "vn"
+  },
+  {
+    "id": "10160",
+    "url": "https://www.vlr.gg/player/10160/izzy",
+    "name": "Izzy",
+    "teamTag": "EF",
+    "country": "tr"
+  },
+  {
+    "id": "41225",
+    "url": "https://www.vlr.gg/player/41225/kramarick",
+    "name": "kramarick",
+    "teamTag": "DBM",
+    "country": "br"
+  },
+  {
+    "id": "24237",
+    "url": "https://www.vlr.gg/player/24237/powerpixele",
+    "name": "PowerPixele",
+    "teamTag": "PP",
+    "country": "us"
+  },
+  {
+    "id": "31829",
+    "url": "https://www.vlr.gg/player/31829/ivy",
+    "name": "Ivy",
+    "teamTag": "NS",
+    "country": "kr"
+  },
+  {
+    "id": "17333",
+    "url": "https://www.vlr.gg/player/17333/mary",
+    "name": "Mary",
+    "teamTag": "FLCV",
+    "country": "bh"
+  },
+  {
+    "id": "30395",
+    "url": "https://www.vlr.gg/player/30395/edith",
+    "name": "edith",
+    "teamTag": "YDZ.M",
+    "country": "us"
+  },
+  {
+    "id": "25745",
+    "url": "https://www.vlr.gg/player/25745/kumi",
+    "name": "kumi",
+    "teamTag": "FOE",
+    "country": "us"
+  },
+  {
+    "id": "17303",
+    "url": "https://www.vlr.gg/player/17303/fontuz",
+    "name": "FonTuz",
+    "teamTag": "Z11",
+    "country": "th"
+  },
+  {
+    "id": "10885",
+    "url": "https://www.vlr.gg/player/10885/davih",
+    "name": "DaviH",
+    "teamTag": "CGN",
+    "country": "pt"
+  },
+  {
+    "id": "45029",
+    "url": "https://www.vlr.gg/player/45029/grahams",
+    "name": "grahams",
+    "teamTag": "ASND",
+    "country": "ph"
+  },
+  {
+    "id": "3401",
+    "url": "https://www.vlr.gg/player/3401/ptc",
+    "name": "PTC",
+    "teamTag": "NAOS",
+    "country": "th"
+  },
+  {
+    "id": "12795",
+    "url": "https://www.vlr.gg/player/12795/crewen",
+    "name": "Crewen",
+    "teamTag": "BCF",
+    "country": "tr"
+  },
+  {
+    "id": "18093",
+    "url": "https://www.vlr.gg/player/18093/kamiyu",
+    "name": "Kamiyu",
+    "teamTag": "FLCV",
+    "country": "ph"
+  },
+  {
+    "id": "12774",
+    "url": "https://www.vlr.gg/player/12774/anima",
+    "name": "Anima",
+    "teamTag": "EF",
+    "country": "tr"
+  },
+  {
+    "id": "1430",
+    "url": "https://www.vlr.gg/player/1430/crazyguy",
+    "name": "crazyguy",
+    "teamTag": "KK",
+    "country": "vn"
+  },
+  {
+    "id": "45358",
+    "url": "https://www.vlr.gg/player/45358/yearn",
+    "name": "yearn",
+    "teamTag": "Land",
+    "country": "in"
+  },
+  {
+    "id": "19383",
+    "url": "https://www.vlr.gg/player/19383/schnell",
+    "name": "schnellÆ",
+    "teamTag": "QAD.GC",
+    "country": "tr"
+  },
+  {
+    "id": "31828",
+    "url": "https://www.vlr.gg/player/31828/francis",
+    "name": "Francis",
+    "teamTag": "NS",
+    "country": "kr"
+  },
+  {
+    "id": "36175",
+    "url": "https://www.vlr.gg/player/36175/rezq",
+    "name": "rezq",
+    "teamTag": "DVM.MI",
+    "country": "tr"
+  },
+  {
+    "id": "24149",
+    "url": "https://www.vlr.gg/player/24149/amy",
+    "name": "amy",
+    "teamTag": "G2.G",
+    "country": "nl"
+  },
+  {
+    "id": "9094",
+    "url": "https://www.vlr.gg/player/9094/kess",
+    "name": "Kess",
+    "teamTag": "UT",
+    "country": "kr"
+  },
+  {
+    "id": "17982",
+    "url": "https://www.vlr.gg/player/17982/lunafox",
+    "name": "LunaFox",
+    "teamTag": "KS",
+    "country": "us"
+  },
+  {
+    "id": "30107",
+    "url": "https://www.vlr.gg/player/30107/fluxxy",
+    "name": "fluxxy",
+    "teamTag": "HERO",
+    "country": "sx"
+  },
+  {
+    "id": "38840",
+    "url": "https://www.vlr.gg/player/38840/lamelly",
+    "name": "lamelly",
+    "teamTag": "Venn",
+    "country": "no"
+  },
+  {
+    "id": "64",
+    "url": "https://www.vlr.gg/player/64/gmd",
+    "name": "gMd",
+    "teamTag": "TSM",
+    "country": "ca"
+  },
+  {
+    "id": "34785",
+    "url": "https://www.vlr.gg/player/34785/yowamu",
+    "name": "YoWamu",
+    "teamTag": "NFX",
+    "country": "jp"
+  },
+  {
+    "id": "33358",
+    "url": "https://www.vlr.gg/player/33358/shinnok",
+    "name": "shinnok",
+    "teamTag": "MZP",
+    "country": "hu"
+  },
+  {
+    "id": "27254",
+    "url": "https://www.vlr.gg/player/27254/leviathan",
+    "name": "Leviathan",
+    "teamTag": "FS",
+    "country": "th"
+  },
+  {
+    "id": "23407",
+    "url": "https://www.vlr.gg/player/23407/pa1nt",
+    "name": "Pa1nt",
+    "teamTag": "SRB",
+    "country": "us"
+  },
+  {
+    "id": "39057",
+    "url": "https://www.vlr.gg/player/39057/safiaa",
+    "name": "safiaa",
+    "teamTag": "KC.GC",
+    "country": "fr"
+  },
+  {
+    "id": "35665",
+    "url": "https://www.vlr.gg/player/35665/miyeon",
+    "name": "Miyeon",
+    "teamTag": "ZEN",
+    "country": "cl"
+  },
+  {
+    "id": "39021",
+    "url": "https://www.vlr.gg/player/39021/notexxd",
+    "name": "Notexxd",
+    "teamTag": "LS",
+    "country": "bm"
+  },
+  {
+    "id": "4122",
+    "url": "https://www.vlr.gg/player/4122/persia",
+    "name": "Persia",
+    "teamTag": "NS",
+    "country": "kr"
+  },
+  {
+    "id": "16684",
+    "url": "https://www.vlr.gg/player/16684/chqse",
+    "name": "chqse",
+    "teamTag": "Cumb",
+    "country": "us"
+  },
+  {
+    "id": "44348",
+    "url": "https://www.vlr.gg/player/44348/ducq",
+    "name": "ducq",
+    "teamTag": "5 BI",
+    "country": "mx"
+  },
+  {
+    "id": "46017",
+    "url": "https://www.vlr.gg/player/46017/manny",
+    "name": "Manny",
+    "teamTag": "Pros",
+    "country": "us"
+  },
+  {
+    "id": "19940",
+    "url": "https://www.vlr.gg/player/19940/amaya",
+    "name": "Amaya",
+    "teamTag": "HALO",
+    "country": "ph"
+  },
+  {
+    "id": "8036",
+    "url": "https://www.vlr.gg/player/8036/k1llers",
+    "name": "K1LLERS",
+    "teamTag": "FPT",
+    "country": "vn"
+  },
+  {
+    "id": "2190",
+    "url": "https://www.vlr.gg/player/2190/baddyg",
+    "name": "baddyG",
+    "teamTag": "DSY",
+    "country": "pl"
+  },
+  {
+    "id": "6450",
+    "url": "https://www.vlr.gg/player/6450/korsonix",
+    "name": "Korsonix",
+    "teamTag": "FSN",
+    "country": "us"
+  },
+  {
+    "id": "17397",
+    "url": "https://www.vlr.gg/player/17397/noia",
+    "name": "Noia",
+    "teamTag": "SRG",
+    "country": "dk"
+  },
+  {
+    "id": "683",
+    "url": "https://www.vlr.gg/player/683/pancada",
+    "name": "pANcada",
+    "teamTag": "LOUD",
+    "country": "br"
+  },
+  {
+    "id": "20140",
+    "url": "https://www.vlr.gg/player/20140/vora",
+    "name": "vora",
+    "teamTag": "TSM",
+    "country": "us"
+  },
+  {
+    "id": "7588",
+    "url": "https://www.vlr.gg/player/7588/ligasa",
+    "name": "ligasa",
+    "teamTag": "KLG",
+    "country": "cl"
+  },
+  {
+    "id": "20761",
+    "url": "https://www.vlr.gg/player/20761/looxie",
+    "name": "Looxie",
+    "teamTag": "DVM.MI",
+    "country": "fr"
+  },
+  {
+    "id": "20351",
+    "url": "https://www.vlr.gg/player/20351/addison",
+    "name": "addison",
+    "teamTag": "Gekk",
+    "country": "us"
+  },
+  {
+    "id": "8447",
+    "url": "https://www.vlr.gg/player/8447/less",
+    "name": "Less",
+    "teamTag": "VIT",
+    "country": "br"
+  },
+  {
+    "id": "25025",
+    "url": "https://www.vlr.gg/player/25025/estrella",
+    "name": "Estrella",
+    "teamTag": "RRQ",
+    "country": "kr"
+  },
+  {
+    "id": "7458",
+    "url": "https://www.vlr.gg/player/7458/moose",
+    "name": "moose",
+    "teamTag": "Land",
+    "country": "ca"
+  },
+  {
+    "id": "45174",
+    "url": "https://www.vlr.gg/player/45174/purity",
+    "name": "PuriTy",
+    "teamTag": "SK.N",
+    "country": "de"
+  },
+  {
+    "id": "21158",
+    "url": "https://www.vlr.gg/player/21158/marti",
+    "name": "Marti",
+    "teamTag": "DVM.MI",
+    "country": "pl"
+  },
+  {
+    "id": "15916",
+    "url": "https://www.vlr.gg/player/15916/jotinha",
+    "name": "jotinha",
+    "teamTag": "NOTT",
+    "country": "ar"
+  },
+  {
+    "id": "40768",
+    "url": "https://www.vlr.gg/player/40768/nmsrlm",
+    "name": "NMSRLM",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "16321",
+    "url": "https://www.vlr.gg/player/16321/nelo",
+    "name": "Nelo",
+    "teamTag": "G2.G",
+    "country": "fr"
+  },
+  {
+    "id": "9263",
+    "url": "https://www.vlr.gg/player/9263/sayoo",
+    "name": "sayoo",
+    "teamTag": "AE",
+    "country": "id"
+  },
+  {
+    "id": "4521",
+    "url": "https://www.vlr.gg/player/4521/unfake",
+    "name": "UNFAKE",
+    "teamTag": "JL",
+    "country": "pl"
+  },
+  {
+    "id": "11239",
+    "url": "https://www.vlr.gg/player/11239/sayuri",
+    "name": "sayuri",
+    "teamTag": "MIBR.GC",
+    "country": "br"
+  },
+  {
+    "id": "20116",
+    "url": "https://www.vlr.gg/player/20116/jademwah",
+    "name": "jademwah",
+    "teamTag": "SK.N",
+    "country": "sx"
+  },
+  {
+    "id": "4807",
+    "url": "https://www.vlr.gg/player/4807/bstrdd",
+    "name": "bstrdd",
+    "teamTag": "TL",
+    "country": "cl"
+  },
+  {
+    "id": "12932",
+    "url": "https://www.vlr.gg/player/12932/geeza",
+    "name": "geeza",
+    "teamTag": "MU",
+    "country": "us"
+  },
+  {
+    "id": "41873",
+    "url": "https://www.vlr.gg/player/41873/izo",
+    "name": "Izo",
+    "teamTag": "Pros",
+    "country": "vn"
+  },
+  {
+    "id": "29893",
+    "url": "https://www.vlr.gg/player/29893/timotino",
+    "name": "Timotino",
+    "teamTag": "QOR",
+    "country": "ca"
+  },
+  {
+    "id": "18035",
+    "url": "https://www.vlr.gg/player/18035/garnets",
+    "name": "garnetS",
+    "teamTag": "NKT",
+    "country": "th"
+  },
+  {
+    "id": "24628",
+    "url": "https://www.vlr.gg/player/24628/wayne",
+    "name": "wayne",
+    "teamTag": "KK",
+    "country": "sg"
+  },
+  {
+    "id": "7371",
+    "url": "https://www.vlr.gg/player/7371/fishball",
+    "name": "fishball",
+    "teamTag": "OPY",
+    "country": "my"
+  },
+  {
+    "id": "4931",
+    "url": "https://www.vlr.gg/player/4931/add3r",
+    "name": "Add3r",
+    "teamTag": "TTR",
+    "country": "us"
+  },
+  {
+    "id": "1437",
+    "url": "https://www.vlr.gg/player/1437/yesican",
+    "name": "YESicaN",
+    "teamTag": "FCY",
+    "country": "vn"
+  },
+  {
+    "id": "8041",
+    "url": "https://www.vlr.gg/player/8041/brave",
+    "name": "Brave",
+    "teamTag": "EF",
+    "country": "tr"
+  },
+  {
+    "id": "36748",
+    "url": "https://www.vlr.gg/player/36748/czester",
+    "name": "Czester",
+    "teamTag": "GN",
+    "country": "pl"
+  },
+  {
+    "id": "44770",
+    "url": "https://www.vlr.gg/player/44770/cxix666",
+    "name": "CXIX666",
+    "teamTag": "MGLZ",
+    "country": "mn"
+  },
+  {
+    "id": "804",
+    "url": "https://www.vlr.gg/player/804/buzz",
+    "name": "BuZz",
+    "teamTag": "T1",
+    "country": "kr"
+  },
+  {
+    "id": "9835",
+    "url": "https://www.vlr.gg/player/9835/ali",
+    "name": "Ali",
+    "teamTag": "WU",
+    "country": "ps"
+  },
+  {
+    "id": "1524",
+    "url": "https://www.vlr.gg/player/1524/h1ber",
+    "name": "H1ber",
+    "teamTag": "HGE",
+    "country": "fi"
+  },
+  {
+    "id": "6437",
+    "url": "https://www.vlr.gg/player/6437/dark3st",
+    "name": "Dark3st",
+    "teamTag": "QOR",
+    "country": "us"
+  },
+  {
+    "id": "44930",
+    "url": "https://www.vlr.gg/player/44930/nex1sphix",
+    "name": "nex1SphiX",
+    "teamTag": "MGLZ",
+    "country": "mn"
+  },
+  {
+    "id": "29793",
+    "url": "https://www.vlr.gg/player/29793/moshieroo",
+    "name": "moshieroo",
+    "teamTag": "TWIS.O",
+    "country": "se"
+  },
+  {
+    "id": "13220",
+    "url": "https://www.vlr.gg/player/13220/ja",
+    "name": "JA",
+    "teamTag": "XIP",
+    "country": "ph"
+  },
+  {
+    "id": "51100",
+    "url": "https://www.vlr.gg/player/51100/flicker",
+    "name": "Flicker",
+    "teamTag": "DRX.AC",
+    "country": "kr"
+  },
+  {
+    "id": "24203",
+    "url": "https://www.vlr.gg/player/24203/neat",
+    "name": "Neat",
+    "teamTag": "AOE",
+    "country": "us"
+  },
+  {
+    "id": "43997",
+    "url": "https://www.vlr.gg/player/43997/ryker",
+    "name": "RYKER",
+    "teamTag": "5 BI",
+    "country": "un"
+  },
+  {
+    "id": "36904",
+    "url": "https://www.vlr.gg/player/36904/sampphire",
+    "name": "Sampphire",
+    "teamTag": "CBD",
+    "country": "id"
+  },
+  {
+    "id": "29833",
+    "url": "https://www.vlr.gg/player/29833/izu",
+    "name": "iZu",
+    "teamTag": "T1",
+    "country": "kr"
+  },
+  {
+    "id": "3885",
+    "url": "https://www.vlr.gg/player/3885/valyn",
+    "name": "valyn",
+    "teamTag": "G2",
+    "country": "us"
+  },
+  {
+    "id": "41872",
+    "url": "https://www.vlr.gg/player/41872/magic",
+    "name": "magic",
+    "teamTag": "Pros",
+    "country": "ca"
+  },
+  {
+    "id": "19408",
+    "url": "https://www.vlr.gg/player/19408/cass",
+    "name": "cass",
+    "teamTag": "N2F",
+    "country": "id"
+  },
+  {
+    "id": "3687",
+    "url": "https://www.vlr.gg/player/3687/jonaaa6",
+    "name": "Jonaaa6",
+    "teamTag": "Land",
+    "country": "us"
+  },
+  {
+    "id": "9558",
+    "url": "https://www.vlr.gg/player/9558/wolfen",
+    "name": "Wolfen",
+    "teamTag": "CGN",
+    "country": "bg"
+  },
+  {
+    "id": "24107",
+    "url": "https://www.vlr.gg/player/24107/sarah",
+    "name": "sarah",
+    "teamTag": "GX.GC",
+    "country": "gb"
+  },
+  {
+    "id": "16196",
+    "url": "https://www.vlr.gg/player/16196/annie",
+    "name": "Annie",
+    "teamTag": "DVM.MI",
+    "country": "es"
+  },
+  {
+    "id": "4214",
+    "url": "https://www.vlr.gg/player/4214/eso177",
+    "name": "Eso177",
+    "teamTag": "EXO",
+    "country": "bg"
+  },
+  {
+    "id": "34982",
+    "url": "https://www.vlr.gg/player/34982/athan",
+    "name": "Athan",
+    "teamTag": "DRX.AC",
+    "country": "kr"
+  },
+  {
+    "id": "10161",
+    "url": "https://www.vlr.gg/player/10161/qutionerx",
+    "name": "QutionerX",
+    "teamTag": "EF",
+    "country": "tr"
+  },
+  {
+    "id": "11516",
+    "url": "https://www.vlr.gg/player/11516/drky",
+    "name": "dRKY",
+    "teamTag": "IW",
+    "country": "tr"
+  },
+  {
+    "id": "7746",
+    "url": "https://www.vlr.gg/player/7746/kevzii",
+    "name": "Kevzii",
+    "teamTag": "ZOL",
+    "country": "ph"
+  },
+  {
+    "id": "39718",
+    "url": "https://www.vlr.gg/player/39718/rouss",
+    "name": "Rouss",
+    "teamTag": "SUP",
+    "country": "tr"
+  },
+  {
+    "id": "11578",
+    "url": "https://www.vlr.gg/player/11578/hotsauz",
+    "name": "Hotsauz",
+    "teamTag": "XIP",
+    "country": "ph"
+  },
+  {
+    "id": "10448",
+    "url": "https://www.vlr.gg/player/10448/kozok",
+    "name": "Kozok",
+    "teamTag": "GN",
+    "country": "pl"
+  },
+  {
+    "id": "12979",
+    "url": "https://www.vlr.gg/player/12979/mrtenzouez",
+    "name": "MrTenzouEz",
+    "teamTag": "FL",
+    "country": "jp"
+  },
+  {
+    "id": "41702",
+    "url": "https://www.vlr.gg/player/41702/canady",
+    "name": "canady",
+    "teamTag": "TLN.AC",
+    "country": "th"
+  },
+  {
+    "id": "11118",
+    "url": "https://www.vlr.gg/player/11118/skuba",
+    "name": "skuba",
+    "teamTag": "CUBE",
+    "country": "us"
+  },
+  {
+    "id": "4462",
+    "url": "https://www.vlr.gg/player/4462/mako",
+    "name": "MaKo",
+    "teamTag": "DRX",
+    "country": "kr"
+  },
+  {
+    "id": "34431",
+    "url": "https://www.vlr.gg/player/34431/sueiy",
+    "name": "Sueiy",
+    "teamTag": "LAG",
+    "country": "us"
+  },
+  {
+    "id": "40209",
+    "url": "https://www.vlr.gg/player/40209/sgrap",
+    "name": "SGrap",
+    "teamTag": "DT",
+    "country": "tw"
+  },
+  {
+    "id": "21886",
+    "url": "https://www.vlr.gg/player/21886/furbsa",
+    "name": "furbsa",
+    "teamTag": "SAD",
+    "country": "us"
+  },
+  {
+    "id": "562",
+    "url": "https://www.vlr.gg/player/562/zeek",
+    "name": "zeek",
+    "teamTag": "EP",
+    "country": "pl"
+  },
+  {
+    "id": "28948",
+    "url": "https://www.vlr.gg/player/28948/ninja",
+    "name": "NINJA",
+    "teamTag": "TL.AC",
+    "country": "pl"
+  },
+  {
+    "id": "893",
+    "url": "https://www.vlr.gg/player/893/retrq",
+    "name": "RetrQ",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "50186",
+    "url": "https://www.vlr.gg/player/50186/qu1ckz",
+    "name": "qu1ckz",
+    "teamTag": "",
+    "country": "ru"
+  },
+  {
+    "id": "37901",
+    "url": "https://www.vlr.gg/player/37901/aluvily",
+    "name": "aluvily",
+    "teamTag": "FLY",
+    "country": "us"
+  },
+  {
+    "id": "4307",
+    "url": "https://www.vlr.gg/player/4307/hyperzxz",
+    "name": "Hyperzxz",
+    "teamTag": "Frui",
+    "country": "wa"
+  },
+  {
+    "id": "34776",
+    "url": "https://www.vlr.gg/player/34776/absol",
+    "name": "Absol",
+    "teamTag": "MRSH",
+    "country": "jp"
+  },
+  {
+    "id": "43064",
+    "url": "https://www.vlr.gg/player/43064/aace",
+    "name": "Aace",
+    "teamTag": "FL",
+    "country": "jp"
+  },
+  {
+    "id": "17950",
+    "url": "https://www.vlr.gg/player/17950/avery",
+    "name": "avery",
+    "teamTag": "BNG",
+    "country": "se"
+  },
+  {
+    "id": "10642",
+    "url": "https://www.vlr.gg/player/10642/jan",
+    "name": "Jan",
+    "teamTag": "CGZ",
+    "country": "kr"
+  },
+  {
+    "id": "31537",
+    "url": "https://www.vlr.gg/player/31537/basbabe",
+    "name": "basbabe",
+    "teamTag": "Z11",
+    "country": "th"
+  },
+  {
+    "id": "22792",
+    "url": "https://www.vlr.gg/player/22792/jiex",
+    "name": "Jiex",
+    "teamTag": "KC.GC",
+    "country": "tr"
+  },
+  {
+    "id": "28400",
+    "url": "https://www.vlr.gg/player/28400/hyunmin",
+    "name": "HYUNMIN",
+    "teamTag": "DRX",
+    "country": "kr"
+  },
+  {
+    "id": "19366",
+    "url": "https://www.vlr.gg/player/19366/lexa",
+    "name": "lexa",
+    "teamTag": "TWIS.O",
+    "country": "se"
+  },
+  {
+    "id": "15080",
+    "url": "https://www.vlr.gg/player/15080/f1co",
+    "name": "f1co",
+    "teamTag": "LMX",
+    "country": "se"
+  },
+  {
+    "id": "40294",
+    "url": "https://www.vlr.gg/player/40294/arki",
+    "name": "Arki",
+    "teamTag": "AVN.GC",
+    "country": "ph"
+  },
+  {
+    "id": "24101",
+    "url": "https://www.vlr.gg/player/24101/miyori",
+    "name": "Miyori",
+    "teamTag": "HERO",
+    "country": "tr"
+  },
+  {
+    "id": "20240",
+    "url": "https://www.vlr.gg/player/20240/xenom",
+    "name": "xenom",
+    "teamTag": "MIBR",
+    "country": "br"
+  },
+  {
+    "id": "16671",
+    "url": "https://www.vlr.gg/player/16671/welyy",
+    "name": "welyy",
+    "teamTag": "BLUE",
+    "country": "no"
+  },
+  {
+    "id": "4545",
+    "url": "https://www.vlr.gg/player/4545/sayaplayer",
+    "name": "Sayaplayer",
+    "teamTag": "RC",
+    "country": "kr"
+  },
+  {
+    "id": "49605",
+    "url": "https://www.vlr.gg/player/49605/leamer",
+    "name": "Leamer",
+    "teamTag": "",
+    "country": "un"
+  },
+  {
+    "id": "20058",
+    "url": "https://www.vlr.gg/player/20058/devilasxa",
+    "name": "devilasxa",
+    "teamTag": "SK.N",
+    "country": "es"
+  },
+  {
+    "id": "457",
+    "url": "https://www.vlr.gg/player/457/nats",
+    "name": "nAts",
+    "teamTag": "TL",
+    "country": "ru"
+  },
+  {
+    "id": "8742",
+    "url": "https://www.vlr.gg/player/8742/jakee",
+    "name": "jakee",
+    "teamTag": "YFP",
+    "country": "us"
+  },
+  {
+    "id": "21887",
+    "url": "https://www.vlr.gg/player/21887/stallion",
+    "name": "stallion",
+    "teamTag": "Berz",
+    "country": "ca"
+  },
+  {
+    "id": "29076",
+    "url": "https://www.vlr.gg/player/29076/satellite",
+    "name": "satellite",
+    "teamTag": "VLYN",
+    "country": "ca"
+  },
+  {
+    "id": "50826",
+    "url": "https://www.vlr.gg/player/50826/ramgi",
+    "name": "Ramgi",
+    "teamTag": "GGA",
+    "country": "kr"
+  },
+  {
+    "id": "8226",
+    "url": "https://www.vlr.gg/player/8226/waddle",
+    "name": "waddle",
+    "teamTag": "DSY",
+    "country": "gb"
+  },
+  {
+    "id": "27884",
+    "url": "https://www.vlr.gg/player/27884/unstable",
+    "name": "unstable",
+    "teamTag": "FLY",
+    "country": "kr"
+  },
+  {
+    "id": "25477",
+    "url": "https://www.vlr.gg/player/25477/sleepycakey",
+    "name": "Sleepycakey",
+    "teamTag": "RIMA",
+    "country": "id"
+  },
+  {
+    "id": "39506",
+    "url": "https://www.vlr.gg/player/39506/cabbit",
+    "name": "cabbit",
+    "teamTag": "SK.N",
+    "country": "gb"
+  },
+  {
+    "id": "2168",
+    "url": "https://www.vlr.gg/player/2168/trexx",
+    "name": "trexx",
+    "teamTag": "VIT",
+    "country": "ru"
+  },
+  {
+    "id": "23710",
+    "url": "https://www.vlr.gg/player/23710/gotten",
+    "name": "gotten",
+    "teamTag": "AE",
+    "country": "id"
+  },
+  {
+    "id": "1475",
+    "url": "https://www.vlr.gg/player/1475/kamyk",
+    "name": "kamyk",
+    "teamTag": "TL",
+    "country": "pl"
+  },
+  {
+    "id": "2489",
+    "url": "https://www.vlr.gg/player/2489/munchkin",
+    "name": "Munchkin",
+    "teamTag": "GEN",
+    "country": "kr"
+  },
+  {
+    "id": "2164",
+    "url": "https://www.vlr.gg/player/2164/paincakes",
+    "name": "Paincakes",
+    "teamTag": "SRB",
+    "country": "us"
+  },
+  {
+    "id": "34057",
+    "url": "https://www.vlr.gg/player/34057/jerrwin",
+    "name": "Jerrwin",
+    "teamTag": "PLUG",
+    "country": "in"
+  },
+  {
+    "id": "2700",
+    "url": "https://www.vlr.gg/player/2700/jas",
+    "name": "jas",
+    "teamTag": "EP",
+    "country": "pl"
+  },
+  {
+    "id": "36473",
+    "url": "https://www.vlr.gg/player/36473/jvoh",
+    "name": "jvoh",
+    "teamTag": "Wook",
+    "country": "us"
+  },
+  {
+    "id": "7490",
+    "url": "https://www.vlr.gg/player/7490/anguist",
+    "name": "aNguiSt",
+    "teamTag": "MZP",
+    "country": "gb"
+  },
+  {
+    "id": "754",
+    "url": "https://www.vlr.gg/player/754/nerve",
+    "name": "nerve",
+    "teamTag": "QOR",
+    "country": "us"
+  },
+  {
+    "id": "31058",
+    "url": "https://www.vlr.gg/player/31058/kpro",
+    "name": "kpro",
+    "teamTag": "Igni",
+    "country": "nl"
+  },
+  {
+    "id": "41701",
+    "url": "https://www.vlr.gg/player/41701/ki1wsy",
+    "name": "ki1wsy",
+    "teamTag": "Z11",
+    "country": "th"
+  },
+  {
+    "id": "46277",
+    "url": "https://www.vlr.gg/player/46277/huphh",
+    "name": "huphh",
+    "teamTag": "",
+    "country": "un"
+  },
+  {
+    "id": "51238",
+    "url": "https://www.vlr.gg/player/51238/yong",
+    "name": "yong",
+    "teamTag": "DRX.AC",
+    "country": "kr"
+  },
+  {
+    "id": "46241",
+    "url": "https://www.vlr.gg/player/46241/demi",
+    "name": "Demi",
+    "teamTag": "MORI",
+    "country": "un"
+  },
+  {
+    "id": "20959",
+    "url": "https://www.vlr.gg/player/20959/toozy",
+    "name": "toozy",
+    "teamTag": "SAD",
+    "country": "us"
+  },
+  {
+    "id": "1265",
+    "url": "https://www.vlr.gg/player/1265/johnqt",
+    "name": "johnqt",
+    "teamTag": "SEN",
+    "country": "ma"
+  },
+  {
+    "id": "41694",
+    "url": "https://www.vlr.gg/player/41694/endoist",
+    "name": "endoist",
+    "teamTag": "VLTH",
+    "country": "th"
+  },
+  {
+    "id": "23976",
+    "url": "https://www.vlr.gg/player/23976/crus",
+    "name": "Crus",
+    "teamTag": "FCY",
+    "country": "vn"
+  },
+  {
+    "id": "24653",
+    "url": "https://www.vlr.gg/player/24653/vera",
+    "name": "Vera",
+    "teamTag": "KK",
+    "country": "sg"
+  },
+  {
+    "id": "5093",
+    "url": "https://www.vlr.gg/player/5093/logan",
+    "name": "Logan",
+    "teamTag": "QOR",
+    "country": "us"
+  },
+  {
+    "id": "39118",
+    "url": "https://www.vlr.gg/player/39118/vantik",
+    "name": "VantiK",
+    "teamTag": "Pros",
+    "country": "gb"
+  },
+  {
+    "id": "2462",
+    "url": "https://www.vlr.gg/player/2462/keznit",
+    "name": "keznit",
+    "teamTag": "KRÜ",
+    "country": "cl"
+  },
+  {
+    "id": "26475",
+    "url": "https://www.vlr.gg/player/26475/king-vinny",
+    "name": "KING VINNY",
+    "teamTag": "99S",
+    "country": "vn"
+  },
+  {
+    "id": "2658",
+    "url": "https://www.vlr.gg/player/2658/xuss",
+    "name": "xuss",
+    "teamTag": "FKS",
+    "country": "pl"
+  },
+  {
+    "id": "565",
+    "url": "https://www.vlr.gg/player/565/starxo",
+    "name": "starxo",
+    "teamTag": "JL",
+    "country": "pl"
+  },
+  {
+    "id": "41466",
+    "url": "https://www.vlr.gg/player/41466/mixyce",
+    "name": "mixyce",
+    "teamTag": "F4T",
+    "country": "br"
+  },
+  {
+    "id": "993",
+    "url": "https://www.vlr.gg/player/993/medusa",
+    "name": "Medusa",
+    "teamTag": "SZ",
+    "country": "kr"
+  },
+  {
+    "id": "28535",
+    "url": "https://www.vlr.gg/player/28535/misu",
+    "name": "misu",
+    "teamTag": "YFP",
+    "country": "us"
+  },
+  {
+    "id": "30540",
+    "url": "https://www.vlr.gg/player/30540/lethal",
+    "name": "Lethal",
+    "teamTag": "Keis",
+    "country": "us"
+  },
+  {
+    "id": "1620",
+    "url": "https://www.vlr.gg/player/1620/ale",
+    "name": "Ale",
+    "teamTag": "OF",
+    "country": "se"
+  },
+  {
+    "id": "2119",
+    "url": "https://www.vlr.gg/player/2119/renz",
+    "name": "renz",
+    "teamTag": "MU",
+    "country": "us"
+  },
+  {
+    "id": "47396",
+    "url": "https://www.vlr.gg/player/47396/fade-is-hot",
+    "name": "FADE IS HOT",
+    "teamTag": "",
+    "country": "un"
+  },
+  {
+    "id": "38142",
+    "url": "https://www.vlr.gg/player/38142/dream",
+    "name": "DREAM",
+    "teamTag": "ZER.M",
+    "country": "cn"
+  },
+  {
+    "id": "8410",
+    "url": "https://www.vlr.gg/player/8410/cuz",
+    "name": "cuz",
+    "teamTag": "Pige",
+    "country": "us"
+  },
+  {
+    "id": "24058",
+    "url": "https://www.vlr.gg/player/24058/tokameite",
+    "name": "tokameite",
+    "teamTag": "TWIS.O",
+    "country": "ru"
+  },
+  {
+    "id": "36169",
+    "url": "https://www.vlr.gg/player/36169/mta",
+    "name": "mta",
+    "teamTag": "OXÜ",
+    "country": "cl"
+  },
+  {
+    "id": "20441",
+    "url": "https://www.vlr.gg/player/20441/pyro",
+    "name": "Pyro",
+    "teamTag": "FUN",
+    "country": "kh"
+  },
+  {
+    "id": "35302",
+    "url": "https://www.vlr.gg/player/35302/eggsterr",
+    "name": "Eggsterr",
+    "teamTag": "NV",
+    "country": "us"
+  },
+  {
+    "id": "29074",
+    "url": "https://www.vlr.gg/player/29074/sonofcar",
+    "name": "sonofcar",
+    "teamTag": "LS",
+    "country": "us"
+  },
+  {
+    "id": "3520",
+    "url": "https://www.vlr.gg/player/3520/zmjjkk",
+    "name": "ZmjjKK",
+    "teamTag": "EDG",
+    "country": "cn"
+  },
+  {
+    "id": "45025",
+    "url": "https://www.vlr.gg/player/45025/hibari",
+    "name": "hibari",
+    "teamTag": "",
+    "country": "ph"
+  },
+  {
+    "id": "6913",
+    "url": "https://www.vlr.gg/player/6913/sultan",
+    "name": "sultan",
+    "teamTag": "NAOS",
+    "country": "kz"
+  },
+  {
+    "id": "844",
+    "url": "https://www.vlr.gg/player/844/bdog",
+    "name": "bdog",
+    "teamTag": "M80",
+    "country": "us"
+  },
+  {
+    "id": "8758",
+    "url": "https://www.vlr.gg/player/8758/benjii",
+    "name": "benjii",
+    "teamTag": "SAD",
+    "country": "kr"
+  },
+  {
+    "id": "36245",
+    "url": "https://www.vlr.gg/player/36245/n4rrate",
+    "name": "N4RRATE",
+    "teamTag": "SEN",
+    "country": "us"
+  },
+  {
+    "id": "6537",
+    "url": "https://www.vlr.gg/player/6537/onesnipeko",
+    "name": "OneSnipeKO",
+    "teamTag": "LAG",
+    "country": "ca"
+  },
+  {
+    "id": "4742",
+    "url": "https://www.vlr.gg/player/4742/smoggy",
+    "name": "Smoggy",
+    "teamTag": "EDG",
+    "country": "cn"
+  },
+  {
+    "id": "4004",
+    "url": "https://www.vlr.gg/player/4004/zekken",
+    "name": "zekken",
+    "teamTag": "SEN",
+    "country": "us"
+  },
+  {
+    "id": "4581",
+    "url": "https://www.vlr.gg/player/4581/jonahp",
+    "name": "JonahP",
+    "teamTag": "G2",
+    "country": "ca"
+  },
+  {
+    "id": "25246",
+    "url": "https://www.vlr.gg/player/25246/bunnybee",
+    "name": "bunnybee",
+    "teamTag": "YFP",
+    "country": "us"
+  },
+  {
+    "id": "29442",
+    "url": "https://www.vlr.gg/player/29442/wens",
+    "name": "Wens",
+    "teamTag": "HVND",
+    "country": "tr"
+  },
+  {
+    "id": "8376",
+    "url": "https://www.vlr.gg/player/8376/seven",
+    "name": "seven",
+    "teamTag": "TSM",
+    "country": "mx"
+  },
+  {
+    "id": "3993",
+    "url": "https://www.vlr.gg/player/3993/jawgemo",
+    "name": "jawgemo",
+    "teamTag": "G2",
+    "country": "kh"
+  },
+  {
+    "id": "3702",
+    "url": "https://www.vlr.gg/player/3702/sym",
+    "name": "sym",
+    "teamTag": "TSM",
+    "country": "us"
+  },
+  {
+    "id": "6673",
+    "url": "https://www.vlr.gg/player/6673/gon",
+    "name": "GON",
+    "teamTag": "FL",
+    "country": "jp"
+  },
+  {
+    "id": "21127",
+    "url": "https://www.vlr.gg/player/21127/korosu",
+    "name": "korosu",
+    "teamTag": "YFP",
+    "country": "kr"
+  },
+  {
+    "id": "864",
+    "url": "https://www.vlr.gg/player/864/bcj",
+    "name": "BcJ",
+    "teamTag": "SRB",
+    "country": "us"
+  },
+  {
+    "id": "38734",
+    "url": "https://www.vlr.gg/player/38734/vanitas",
+    "name": "vanitas",
+    "teamTag": "Thri",
+    "country": "un"
+  },
+  {
+    "id": "8286",
+    "url": "https://www.vlr.gg/player/8286/glyph",
+    "name": "GLYPH",
+    "teamTag": "AMB",
+    "country": "ph"
+  },
+  {
+    "id": "17169",
+    "url": "https://www.vlr.gg/player/17169/muto",
+    "name": "muto",
+    "teamTag": "RC",
+    "country": "jp"
+  },
+  {
+    "id": "1944",
+    "url": "https://www.vlr.gg/player/1944/cayden",
+    "name": "caydeN",
+    "teamTag": "DSY",
+    "country": "it"
+  },
+  {
+    "id": "51099",
+    "url": "https://www.vlr.gg/player/51099/zynx",
+    "name": "ZynX",
+    "teamTag": "DRX.AC",
+    "country": "kr"
+  },
+  {
+    "id": "42057",
+    "url": "https://www.vlr.gg/player/42057/kook",
+    "name": "kook",
+    "teamTag": "Powe",
+    "country": "kr"
+  },
+  {
+    "id": "7447",
+    "url": "https://www.vlr.gg/player/7447/firstlove",
+    "name": "FirstLove",
+    "teamTag": "HIM",
+    "country": "sg"
+  },
+  {
+    "id": "1952",
+    "url": "https://www.vlr.gg/player/1952/esperanza",
+    "name": "Esperanza",
+    "teamTag": "NFX",
+    "country": "kr"
+  },
+  {
+    "id": "25081",
+    "url": "https://www.vlr.gg/player/25081/yoman",
+    "name": "yoman",
+    "teamTag": "GEN",
+    "country": "kr"
+  },
+  {
+    "id": "15639",
+    "url": "https://www.vlr.gg/player/15639/chloric",
+    "name": "chloric",
+    "teamTag": "FOE",
+    "country": "us"
+  },
+  {
+    "id": "19785",
+    "url": "https://www.vlr.gg/player/19785/bad",
+    "name": "Bad",
+    "teamTag": "FCTP",
+    "country": "us"
+  },
+  {
+    "id": "17111",
+    "url": "https://www.vlr.gg/player/17111/allen",
+    "name": "Allen",
+    "teamTag": "BCS",
+    "country": "jp"
+  },
+  {
+    "id": "40907",
+    "url": "https://www.vlr.gg/player/40907/mnfear",
+    "name": "MnFeaR",
+    "teamTag": "MGLZ",
+    "country": "mn"
+  },
+  {
+    "id": "17770",
+    "url": "https://www.vlr.gg/player/17770/alvinboy",
+    "name": "alvinboy",
+    "teamTag": "",
+    "country": "cn"
+  },
+  {
+    "id": "5035",
+    "url": "https://www.vlr.gg/player/5035/blahst",
+    "name": "Blahst",
+    "teamTag": "FCN",
+    "country": "us"
+  },
+  {
+    "id": "862",
+    "url": "https://www.vlr.gg/player/862/b0i",
+    "name": "b0i",
+    "teamTag": "NBG",
+    "country": "us"
+  },
+  {
+    "id": "485",
+    "url": "https://www.vlr.gg/player/485/stax",
+    "name": "stax",
+    "teamTag": "T1",
+    "country": "kr"
+  },
+  {
+    "id": "30470",
+    "url": "https://www.vlr.gg/player/30470/kyu",
+    "name": "Kyu",
+    "teamTag": "M80",
+    "country": "ca"
+  },
+  {
+    "id": "32050",
+    "url": "https://www.vlr.gg/player/32050/c0n",
+    "name": "c0n",
+    "teamTag": "Outl",
+    "country": "us"
+  },
+  {
+    "id": "2894",
+    "url": "https://www.vlr.gg/player/2894/kiles",
+    "name": "Kiles",
+    "teamTag": "EP",
+    "country": "ua"
+  },
+  {
+    "id": "15931",
+    "url": "https://www.vlr.gg/player/15931/peloncito",
+    "name": "Peloncito",
+    "teamTag": "6K",
+    "country": "mx"
+  },
+  {
+    "id": "2125",
+    "url": "https://www.vlr.gg/player/2125/nanners",
+    "name": "Nanners",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "8582",
+    "url": "https://www.vlr.gg/player/8582/laz",
+    "name": "Laz",
+    "teamTag": "FS",
+    "country": "th"
+  },
+  {
+    "id": "45696",
+    "url": "https://www.vlr.gg/player/45696/vita",
+    "name": "vita",
+    "teamTag": "MYTH",
+    "country": "us"
+  },
+  {
+    "id": "26809",
+    "url": "https://www.vlr.gg/player/26809/tenshi",
+    "name": "Tenshi",
+    "teamTag": "IGW",
+    "country": "nl"
+  },
+  {
+    "id": "4589",
+    "url": "https://www.vlr.gg/player/4589/burzzy",
+    "name": "Burzzy",
+    "teamTag": "MZP",
+    "country": "tr"
+  },
+  {
+    "id": "42169",
+    "url": "https://www.vlr.gg/player/42169/donnie",
+    "name": "Donnie",
+    "teamTag": "Volc",
+    "country": "mx"
+  },
+  {
+    "id": "10769",
+    "url": "https://www.vlr.gg/player/10769/nobita",
+    "name": "NOBITA",
+    "teamTag": "",
+    "country": "jp"
+  },
+  {
+    "id": "9196",
+    "url": "https://www.vlr.gg/player/9196/t3xture",
+    "name": "t3xture",
+    "teamTag": "GEN",
+    "country": "kr"
+  },
+  {
+    "id": "29900",
+    "url": "https://www.vlr.gg/player/29900/sandra",
+    "name": "Sandra",
+    "teamTag": "QAD.GC",
+    "country": "eg"
+  },
+  {
+    "id": "26565",
+    "url": "https://www.vlr.gg/player/26565/jas0n",
+    "name": "jas0n",
+    "teamTag": "FUN",
+    "country": "us"
+  },
+  {
+    "id": "44075",
+    "url": "https://www.vlr.gg/player/44075/dedmos",
+    "name": "dedmos",
+    "teamTag": "BBB",
+    "country": "mx"
+  },
+  {
+    "id": "4385",
+    "url": "https://www.vlr.gg/player/4385/monsi",
+    "name": "monSi",
+    "teamTag": "SRB",
+    "country": "ca"
+  },
+  {
+    "id": "3227",
+    "url": "https://www.vlr.gg/player/3227/screwface",
+    "name": "ScrewFace",
+    "teamTag": "AMB",
+    "country": "us"
+  },
+  {
+    "id": "21435",
+    "url": "https://www.vlr.gg/player/21435/jelly",
+    "name": "Jelly",
+    "teamTag": "MIBR.GC",
+    "country": "br"
+  },
+  {
+    "id": "4056",
+    "url": "https://www.vlr.gg/player/4056/sylvan",
+    "name": "Sylvan",
+    "teamTag": "T1",
+    "country": "kr"
+  },
+  {
+    "id": "4678",
+    "url": "https://www.vlr.gg/player/4678/beyn",
+    "name": "BeYN",
+    "teamTag": "DRX",
+    "country": "kr"
+  },
+  {
+    "id": "4477",
+    "url": "https://www.vlr.gg/player/4477/lob",
+    "name": "LOB",
+    "teamTag": "SZ",
+    "country": "kr"
+  },
+  {
+    "id": "15039",
+    "url": "https://www.vlr.gg/player/15039/australis",
+    "name": "Australis",
+    "teamTag": "SaD",
+    "country": "us"
+  },
+  {
+    "id": "23062",
+    "url": "https://www.vlr.gg/player/23062/surf",
+    "name": "Surf",
+    "teamTag": "TLN.AC",
+    "country": "th"
+  },
+  {
+    "id": "21584",
+    "url": "https://www.vlr.gg/player/21584/deminatix",
+    "name": "deminatiX",
+    "teamTag": "IW",
+    "country": "tr"
+  },
+  {
+    "id": "10114",
+    "url": "https://www.vlr.gg/player/10114/baha",
+    "name": "baha",
+    "teamTag": "SUP",
+    "country": "tr"
+  },
+  {
+    "id": "8497",
+    "url": "https://www.vlr.gg/player/8497/monyet",
+    "name": "Monyet",
+    "teamTag": "RRQ",
+    "country": "id"
+  },
+  {
+    "id": "17221",
+    "url": "https://www.vlr.gg/player/17221/sa1koro",
+    "name": "Sa1koro",
+    "teamTag": "S2",
+    "country": "tw"
+  },
+  {
+    "id": "50786",
+    "url": "https://www.vlr.gg/player/50786/renna",
+    "name": "Renna",
+    "teamTag": "",
+    "country": "br"
+  },
+  {
+    "id": "2653",
+    "url": "https://www.vlr.gg/player/2653/jesse",
+    "name": "Jesse",
+    "teamTag": "JL",
+    "country": "cz"
+  },
+  {
+    "id": "11134",
+    "url": "https://www.vlr.gg/player/11134/kicks",
+    "name": "Kicks",
+    "teamTag": "VIT",
+    "country": "ee"
+  },
+  {
+    "id": "3880",
+    "url": "https://www.vlr.gg/player/3880/bang",
+    "name": "bang",
+    "teamTag": "SEN",
+    "country": "us"
+  },
+  {
+    "id": "25902",
+    "url": "https://www.vlr.gg/player/25902/shondex",
+    "name": "Shondex",
+    "teamTag": "BLUE",
+    "country": "tr"
+  },
+  {
+    "id": "30467",
+    "url": "https://www.vlr.gg/player/30467/zamal",
+    "name": "Zamal",
+    "teamTag": "VLYN",
+    "country": "ca"
+  },
+  {
+    "id": "18784",
+    "url": "https://www.vlr.gg/player/18784/cfax",
+    "name": "Cfax",
+    "teamTag": "Over",
+    "country": "us"
+  },
+  {
+    "id": "31307",
+    "url": "https://www.vlr.gg/player/31307/yigox",
+    "name": "Yigox",
+    "teamTag": "FB",
+    "country": "tr"
+  },
+  {
+    "id": "20623",
+    "url": "https://www.vlr.gg/player/20623/harddora",
+    "name": "harddora",
+    "teamTag": "Z11",
+    "country": "th"
+  },
+  {
+    "id": "29972",
+    "url": "https://www.vlr.gg/player/29972/michel",
+    "name": "Michel",
+    "teamTag": "HGE",
+    "country": "es"
+  },
+  {
+    "id": "14386",
+    "url": "https://www.vlr.gg/player/14386/isaa",
+    "name": "isaa",
+    "teamTag": "TL",
+    "country": "br"
+  },
+  {
+    "id": "31910",
+    "url": "https://www.vlr.gg/player/31910/scottie",
+    "name": "Scottie",
+    "teamTag": "UCF.B",
+    "country": "us"
+  },
+  {
+    "id": "38583",
+    "url": "https://www.vlr.gg/player/38583/sleepyaria",
+    "name": "SleepyAria",
+    "teamTag": "WADA",
+    "country": "kr"
+  },
+  {
+    "id": "8397",
+    "url": "https://www.vlr.gg/player/8397/dip",
+    "name": "dip",
+    "teamTag": "SAD",
+    "country": "us"
+  },
+  {
+    "id": "38133",
+    "url": "https://www.vlr.gg/player/38133/anesilia",
+    "name": "anesilia",
+    "teamTag": "KC.GC",
+    "country": "ru"
+  },
+  {
+    "id": "30186",
+    "url": "https://www.vlr.gg/player/30186/nami",
+    "name": "Nami",
+    "teamTag": "GX.GC",
+    "country": "fr"
+  },
+  {
+    "id": "13039",
+    "url": "https://www.vlr.gg/player/13039/meteor",
+    "name": "Meteor",
+    "teamTag": "T1",
+    "country": "kr"
+  },
+  {
+    "id": "21486",
+    "url": "https://www.vlr.gg/player/21486/sarahcat",
+    "name": "sarahcat",
+    "teamTag": "SRG",
+    "country": "ca"
+  },
+  {
+    "id": "14213",
+    "url": "https://www.vlr.gg/player/14213/ting2k5",
+    "name": "ting2k5",
+    "teamTag": "FPT",
+    "country": "vn"
+  },
+  {
+    "id": "51173",
+    "url": "https://www.vlr.gg/player/51173/miku",
+    "name": "miku",
+    "teamTag": "PRA",
+    "country": "ar"
+  },
+  {
+    "id": "8373",
+    "url": "https://www.vlr.gg/player/8373/okeanos",
+    "name": "Okeanos",
+    "teamTag": "M80",
+    "country": "vn"
+  },
+  {
+    "id": "36046",
+    "url": "https://www.vlr.gg/player/36046/poseidon",
+    "name": "Poseidon",
+    "teamTag": "PG",
+    "country": "un"
+  },
+  {
+    "id": "19526",
+    "url": "https://www.vlr.gg/player/19526/rexxtoned",
+    "name": "rexxtoned",
+    "teamTag": "TL.AC",
+    "country": "ru"
+  },
+  {
+    "id": "687",
+    "url": "https://www.vlr.gg/player/687/zepher",
+    "name": "zepher",
+    "teamTag": "SZ",
+    "country": "jp"
+  },
+  {
+    "id": "14681",
+    "url": "https://www.vlr.gg/player/14681/kamo",
+    "name": "kamo",
+    "teamTag": "TL",
+    "country": "pl"
+  },
+  {
+    "id": "42064",
+    "url": "https://www.vlr.gg/player/42064/hieu",
+    "name": "hieu",
+    "teamTag": "YDZ",
+    "country": "vn"
+  },
+  {
+    "id": "19556",
+    "url": "https://www.vlr.gg/player/19556/melya",
+    "name": "melya",
+    "teamTag": "Gree",
+    "country": "pk"
+  },
+  {
+    "id": "40726",
+    "url": "https://www.vlr.gg/player/40726/gwangboong",
+    "name": "Gwangboong",
+    "teamTag": "SG",
+    "country": "kr"
+  },
+  {
+    "id": "15297",
+    "url": "https://www.vlr.gg/player/15297/joojina",
+    "name": "Joojina",
+    "teamTag": "TL",
+    "country": "br"
+  },
+  {
+    "id": "11600",
+    "url": "https://www.vlr.gg/player/11600/foxy9",
+    "name": "Foxy9",
+    "teamTag": "GEN",
+    "country": "kr"
+  },
+  {
+    "id": "36036",
+    "url": "https://www.vlr.gg/player/36036/practo",
+    "name": "practo",
+    "teamTag": "YxB",
+    "country": "kr"
+  },
+  {
+    "id": "26848",
+    "url": "https://www.vlr.gg/player/26848/zeek",
+    "name": "zeek",
+    "teamTag": "BLUE",
+    "country": "ca"
+  },
+  {
+    "id": "17513",
+    "url": "https://www.vlr.gg/player/17513/japips",
+    "name": "Japips",
+    "teamTag": "ASND",
+    "country": "ph"
+  },
+  {
+    "id": "31960",
+    "url": "https://www.vlr.gg/player/31960/cr1m",
+    "name": "cr1m",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "8849",
+    "url": "https://www.vlr.gg/player/8849/sonder",
+    "name": "sonder",
+    "teamTag": "FLY",
+    "country": "cn"
+  },
+  {
+    "id": "14868",
+    "url": "https://www.vlr.gg/player/14868/karra",
+    "name": "Karra",
+    "teamTag": "FLY",
+    "country": "kr"
+  },
+  {
+    "id": "44085",
+    "url": "https://www.vlr.gg/player/44085/booey",
+    "name": "Booey",
+    "teamTag": "MORI",
+    "country": "un"
+  },
+  {
+    "id": "16852",
+    "url": "https://www.vlr.gg/player/16852/nakya",
+    "name": "Nakya",
+    "teamTag": "AE",
+    "country": "id"
+  },
+  {
+    "id": "4871",
+    "url": "https://www.vlr.gg/player/4871/xffero",
+    "name": "xffero",
+    "teamTag": "RRQ",
+    "country": "id"
+  },
+  {
+    "id": "33551",
+    "url": "https://www.vlr.gg/player/33551/slaughter",
+    "name": "Slaughter",
+    "teamTag": "FB",
+    "country": "tr"
+  },
+  {
+    "id": "8805",
+    "url": "https://www.vlr.gg/player/8805/sacake",
+    "name": "Sacake",
+    "teamTag": "HGE",
+    "country": "cz"
+  },
+  {
+    "id": "22617",
+    "url": "https://www.vlr.gg/player/22617/vitie",
+    "name": "Vitie",
+    "teamTag": "SNS",
+    "country": "ru"
+  },
+  {
+    "id": "31207",
+    "url": "https://www.vlr.gg/player/31207/carpe",
+    "name": "carpe",
+    "teamTag": "T1",
+    "country": "kr"
+  },
+  {
+    "id": "18062",
+    "url": "https://www.vlr.gg/player/18062/capricious",
+    "name": "capriciouS",
+    "teamTag": "ASND",
+    "country": "ph"
+  },
+  {
+    "id": "6700",
+    "url": "https://www.vlr.gg/player/6700/anthem",
+    "name": "Anthem",
+    "teamTag": "SZ",
+    "country": "jp"
+  },
+  {
+    "id": "9557",
+    "url": "https://www.vlr.gg/player/9557/nefi",
+    "name": "NeFi",
+    "teamTag": "GN",
+    "country": "pl"
+  },
+  {
+    "id": "10053",
+    "url": "https://www.vlr.gg/player/10053/fireballops",
+    "name": "FireBallOps",
+    "teamTag": "0",
+    "country": "us"
+  },
+  {
+    "id": "24026",
+    "url": "https://www.vlr.gg/player/24026/generalsteak",
+    "name": "GeneralSteak",
+    "teamTag": "AB3",
+    "country": "gt"
+  },
+  {
+    "id": "24587",
+    "url": "https://www.vlr.gg/player/24587/bon",
+    "name": "Bon",
+    "teamTag": "Over",
+    "country": "de"
+  },
+  {
+    "id": "1616",
+    "url": "https://www.vlr.gg/player/1616/starki",
+    "name": "starki",
+    "teamTag": "EP",
+    "country": "pl"
+  },
+  {
+    "id": "3218",
+    "url": "https://www.vlr.gg/player/3218/agr0",
+    "name": "Agr0",
+    "teamTag": "jarr",
+    "country": "us"
+  },
+  {
+    "id": "16634",
+    "url": "https://www.vlr.gg/player/16634/kitkatwc",
+    "name": "kitkatwc",
+    "teamTag": "MY",
+    "country": "th"
+  },
+  {
+    "id": "7104",
+    "url": "https://www.vlr.gg/player/7104/juseu",
+    "name": "juseu",
+    "teamTag": "MZP",
+    "country": "ie"
+  },
+  {
+    "id": "1089",
+    "url": "https://www.vlr.gg/player/1089/lenx",
+    "name": "LenX",
+    "teamTag": "BTR",
+    "country": "us"
+  },
+  {
+    "id": "2690",
+    "url": "https://www.vlr.gg/player/2690/hoody",
+    "name": "hoody",
+    "teamTag": "FKS",
+    "country": "fi"
+  },
+  {
+    "id": "69",
+    "url": "https://www.vlr.gg/player/69/thief",
+    "name": "thief",
+    "teamTag": "YFP",
+    "country": "us"
+  },
+  {
+    "id": "1457",
+    "url": "https://www.vlr.gg/player/1457/mistic",
+    "name": "Mistic",
+    "teamTag": "FKS",
+    "country": "gb"
+  },
+  {
+    "id": "2346",
+    "url": "https://www.vlr.gg/player/2346/cud",
+    "name": "Cud",
+    "teamTag": "AE",
+    "country": "id"
+  },
+  {
+    "id": "13084",
+    "url": "https://www.vlr.gg/player/13084/smiley",
+    "name": "smiley",
+    "teamTag": "AMB",
+    "country": "ca"
+  },
+  {
+    "id": "23198",
+    "url": "https://www.vlr.gg/player/23198/wak1e",
+    "name": "wak1e",
+    "teamTag": "LMX",
+    "country": "se"
+  },
+  {
+    "id": "9185",
+    "url": "https://www.vlr.gg/player/9185/dodonut",
+    "name": "dodonut",
+    "teamTag": "SRG",
+    "country": "th"
+  },
+  {
+    "id": "3079",
+    "url": "https://www.vlr.gg/player/3079/alexis",
+    "name": "alexis",
+    "teamTag": "SRG",
+    "country": "us"
+  },
+  {
+    "id": "21778",
+    "url": "https://www.vlr.gg/player/21778/p0ppin",
+    "name": "P0PPIN",
+    "teamTag": "NV",
+    "country": "us"
+  },
+  {
+    "id": "729",
+    "url": "https://www.vlr.gg/player/729/zellsis",
+    "name": "Zellsis",
+    "teamTag": "SEN",
+    "country": "us"
+  },
+  {
+    "id": "9556",
+    "url": "https://www.vlr.gg/player/9556/demek",
+    "name": "demek",
+    "teamTag": "GN",
+    "country": "pl"
+  },
+  {
+    "id": "35013",
+    "url": "https://www.vlr.gg/player/35013/flashback",
+    "name": "Flashback",
+    "teamTag": "DRX",
+    "country": "kr"
+  },
+  {
+    "id": "33576",
+    "url": "https://www.vlr.gg/player/33576/margaret",
+    "name": "margaret",
+    "teamTag": "NS",
+    "country": "kr"
+  },
+  {
+    "id": "47852",
+    "url": "https://www.vlr.gg/player/47852/boomy",
+    "name": "Boomy",
+    "teamTag": "5 BI",
+    "country": "un"
+  },
+  {
+    "id": "32667",
+    "url": "https://www.vlr.gg/player/32667/nora",
+    "name": "Nora",
+    "teamTag": "Pros",
+    "country": "us"
+  },
+  {
+    "id": "41874",
+    "url": "https://www.vlr.gg/player/41874/nino",
+    "name": "Nino",
+    "teamTag": "Keis",
+    "country": "pr"
+  },
+  {
+    "id": "26826",
+    "url": "https://www.vlr.gg/player/26826/6ixkey",
+    "name": "6ixKey",
+    "teamTag": "RRQA",
+    "country": "id"
+  },
+  {
+    "id": "35662",
+    "url": "https://www.vlr.gg/player/35662/zebeej1",
+    "name": "Zebeej1",
+    "teamTag": "KLG",
+    "country": "cl"
+  },
+  {
+    "id": "37990",
+    "url": "https://www.vlr.gg/player/37990/adora",
+    "name": "adora",
+    "teamTag": "HERO",
+    "country": "lt"
+  },
+  {
+    "id": "48431",
+    "url": "https://www.vlr.gg/player/48431/kippei",
+    "name": "Kippei",
+    "teamTag": "SG",
+    "country": "jp"
+  },
+  {
+    "id": "16672",
+    "url": "https://www.vlr.gg/player/16672/wow",
+    "name": "wow",
+    "teamTag": "LVI",
+    "country": "us"
+  },
+  {
+    "id": "21878",
+    "url": "https://www.vlr.gg/player/21878/snarly",
+    "name": "snarly",
+    "teamTag": "QOR",
+    "country": "us"
+  },
+  {
+    "id": "4329",
+    "url": "https://www.vlr.gg/player/4329/vince",
+    "name": "Vince",
+    "teamTag": "CGN",
+    "country": "de"
+  },
+  {
+    "id": "1835",
+    "url": "https://www.vlr.gg/player/1835/elllement",
+    "name": "elllement",
+    "teamTag": "CGN",
+    "country": "rs"
+  },
+  {
+    "id": "2139",
+    "url": "https://www.vlr.gg/player/2139/neptune",
+    "name": "neptune",
+    "teamTag": "Land",
+    "country": "us"
+  },
+  {
+    "id": "16953",
+    "url": "https://www.vlr.gg/player/16953/zynd",
+    "name": "ZYND",
+    "teamTag": "ZOL",
+    "country": "ph"
+  },
+  {
+    "id": "6642",
+    "url": "https://www.vlr.gg/player/6642/wildfire",
+    "name": "Wildfire",
+    "teamTag": "MU",
+    "country": "ua"
+  },
+  {
+    "id": "17865",
+    "url": "https://www.vlr.gg/player/17865/nahsie",
+    "name": "Nahsie",
+    "teamTag": "WU",
+    "country": "us"
+  },
+  {
+    "id": "30555",
+    "url": "https://www.vlr.gg/player/30555/fried",
+    "name": "fried",
+    "teamTag": "band",
+    "country": "us"
+  },
+  {
+    "id": "29688",
+    "url": "https://www.vlr.gg/player/29688/mikee",
+    "name": "mikeE",
+    "teamTag": "PLUG",
+    "country": "us"
+  },
+  {
+    "id": "34827",
+    "url": "https://www.vlr.gg/player/34827/hals",
+    "name": "Hals",
+    "teamTag": "FL",
+    "country": "jp"
+  },
+  {
+    "id": "25746",
+    "url": "https://www.vlr.gg/player/25746/hernando",
+    "name": "Hernando",
+    "teamTag": "AOE",
+    "country": "es"
+  },
+  {
+    "id": "45864",
+    "url": "https://www.vlr.gg/player/45864/bruxo",
+    "name": "Bruxo",
+    "teamTag": "",
+    "country": "br"
+  },
+  {
+    "id": "35447",
+    "url": "https://www.vlr.gg/player/35447/big-tonka-t",
+    "name": "Big Tonka T",
+    "teamTag": "The",
+    "country": "us"
+  },
+  {
+    "id": "16418",
+    "url": "https://www.vlr.gg/player/16418/smurfette",
+    "name": "Smurfette",
+    "teamTag": "GX.GC",
+    "country": "tr"
+  },
+  {
+    "id": "46311",
+    "url": "https://www.vlr.gg/player/46311/mimier",
+    "name": "mimier",
+    "teamTag": "HVND",
+    "country": "tr"
+  },
+  {
+    "id": "6702",
+    "url": "https://www.vlr.gg/player/6702/bazz",
+    "name": "bazz",
+    "teamTag": "CGZ",
+    "country": "jp"
+  },
+  {
+    "id": "733",
+    "url": "https://www.vlr.gg/player/733/stellar",
+    "name": "stellar",
+    "teamTag": "YFP",
+    "country": "us"
+  },
+  {
+    "id": "29724",
+    "url": "https://www.vlr.gg/player/29724/tora",
+    "name": "Tora",
+    "teamTag": "",
+    "country": "un"
+  },
+  {
+    "id": "35559",
+    "url": "https://www.vlr.gg/player/35559/pandejalea",
+    "name": "pandejalea",
+    "teamTag": "CN",
+    "country": "ru"
+  },
+  {
+    "id": "14048",
+    "url": "https://www.vlr.gg/player/14048/zerona",
+    "name": "zerona",
+    "teamTag": "SAD",
+    "country": "us"
+  },
+  {
+    "id": "41798",
+    "url": "https://www.vlr.gg/player/41798/nightz",
+    "name": "nightz",
+    "teamTag": "CUBE",
+    "country": "us"
+  },
+  {
+    "id": "40910",
+    "url": "https://www.vlr.gg/player/40910/consz",
+    "name": "consz",
+    "teamTag": "MGLZ",
+    "country": "mn"
+  },
+  {
+    "id": "10628",
+    "url": "https://www.vlr.gg/player/10628/misaya",
+    "name": "Misaya",
+    "teamTag": "",
+    "country": "jp"
+  },
+  {
+    "id": "41197",
+    "url": "https://www.vlr.gg/player/41197/thuy",
+    "name": "Thuy",
+    "teamTag": "ZER.M",
+    "country": "fr"
+  },
+  {
+    "id": "3826",
+    "url": "https://www.vlr.gg/player/3826/adverso",
+    "name": "adverso",
+    "teamTag": "KRÜ",
+    "country": "cl"
+  },
+  {
+    "id": "39602",
+    "url": "https://www.vlr.gg/player/39602/recoil",
+    "name": "Recoil",
+    "teamTag": "TSM",
+    "country": "sa"
+  },
+  {
+    "id": "3017",
+    "url": "https://www.vlr.gg/player/3017/nobody",
+    "name": "nobody",
+    "teamTag": "EDG",
+    "country": "cn"
+  },
+  {
+    "id": "33694",
+    "url": "https://www.vlr.gg/player/33694/evv",
+    "name": "evv",
+    "teamTag": "FLY",
+    "country": "ca"
+  },
+  {
+    "id": "40444",
+    "url": "https://www.vlr.gg/player/40444/yuki",
+    "name": "Yuki",
+    "teamTag": "Pros",
+    "country": "un"
+  },
+  {
+    "id": "765",
+    "url": "https://www.vlr.gg/player/765/jerk",
+    "name": "Jerk",
+    "teamTag": "WU",
+    "country": "ca"
+  },
+  {
+    "id": "6193",
+    "url": "https://www.vlr.gg/player/6193/cauanzin",
+    "name": "cauanzin",
+    "teamTag": "LOUD",
+    "country": "br"
+  },
+  {
+    "id": "32648",
+    "url": "https://www.vlr.gg/player/32648/goatz",
+    "name": "GOATz",
+    "teamTag": "OPST",
+    "country": "us"
+  },
+  {
+    "id": "17331",
+    "url": "https://www.vlr.gg/player/17331/pinkalie",
+    "name": "Pinkalie",
+    "teamTag": "ZER.M",
+    "country": "fr"
+  },
+  {
+    "id": "16842",
+    "url": "https://www.vlr.gg/player/16842/mojer",
+    "name": "Mojer",
+    "teamTag": "NAOS",
+    "country": "ph"
+  },
+  {
+    "id": "6575",
+    "url": "https://www.vlr.gg/player/6575/aniemal",
+    "name": "Aniemal",
+    "teamTag": "Wild",
+    "country": "us"
+  },
+  {
+    "id": "5292",
+    "url": "https://www.vlr.gg/player/5292/al0rante",
+    "name": "al0rante",
+    "teamTag": "FKS",
+    "country": "de"
+  },
+  {
+    "id": "44831",
+    "url": "https://www.vlr.gg/player/44831/expirednuts",
+    "name": "ExpiredNuts",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "33292",
+    "url": "https://www.vlr.gg/player/33292/martux",
+    "name": "Martux",
+    "teamTag": "MZP",
+    "country": "no"
+  },
+  {
+    "id": "29613",
+    "url": "https://www.vlr.gg/player/29613/flashh",
+    "name": "flasHH",
+    "teamTag": "The",
+    "country": "us"
+  },
+  {
+    "id": "1745",
+    "url": "https://www.vlr.gg/player/1745/adrnking",
+    "name": "adrnking",
+    "teamTag": "AE",
+    "country": "id"
+  },
+  {
+    "id": "312",
+    "url": "https://www.vlr.gg/player/312/sayf",
+    "name": "Sayf",
+    "teamTag": "VIT",
+    "country": "se"
+  },
+  {
+    "id": "47859",
+    "url": "https://www.vlr.gg/player/47859/gizmoh",
+    "name": "gizmoh",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "11968",
+    "url": "https://www.vlr.gg/player/11968/l4ce",
+    "name": "L4CE",
+    "teamTag": "FLY",
+    "country": "us"
+  },
+  {
+    "id": "24232",
+    "url": "https://www.vlr.gg/player/24232/ghost",
+    "name": "ghost",
+    "teamTag": "MORI",
+    "country": "us"
+  },
+  {
+    "id": "17408",
+    "url": "https://www.vlr.gg/player/17408/lateu",
+    "name": "Lateu",
+    "teamTag": "fuVi",
+    "country": "tr"
+  },
+  {
+    "id": "42661",
+    "url": "https://www.vlr.gg/player/42661/barck",
+    "name": "BarcK",
+    "teamTag": "Seve",
+    "country": "gb"
+  },
+  {
+    "id": "3719",
+    "url": "https://www.vlr.gg/player/3719/matt",
+    "name": "Matt",
+    "teamTag": "",
+    "country": "it"
+  },
+  {
+    "id": "25915",
+    "url": "https://www.vlr.gg/player/25915/brian",
+    "name": "BRIAN",
+    "teamTag": "RC",
+    "country": "jp"
+  },
+  {
+    "id": "3582",
+    "url": "https://www.vlr.gg/player/3582/keloqz",
+    "name": "keloqz",
+    "teamTag": "MDR",
+    "country": "fr"
+  },
+  {
+    "id": "28190",
+    "url": "https://www.vlr.gg/player/28190/ketarys",
+    "name": "ketarys",
+    "teamTag": "SaD",
+    "country": "vn"
+  },
+  {
+    "id": "725",
+    "url": "https://www.vlr.gg/player/725/nzr",
+    "name": "nzr",
+    "teamTag": "MIBR",
+    "country": "ar"
+  },
+  {
+    "id": "49857",
+    "url": "https://www.vlr.gg/player/49857/zanks",
+    "name": "Zanks",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "46063",
+    "url": "https://www.vlr.gg/player/46063/microo",
+    "name": "Microo",
+    "teamTag": "LL",
+    "country": "th"
+  },
+  {
+    "id": "44149",
+    "url": "https://www.vlr.gg/player/44149/pr0digy",
+    "name": "Pr0digy",
+    "teamTag": "TS.AC",
+    "country": "vn"
+  },
+  {
+    "id": "34400",
+    "url": "https://www.vlr.gg/player/34400/bao",
+    "name": "bao",
+    "teamTag": "M80",
+    "country": "vn"
+  },
+  {
+    "id": "1970",
+    "url": "https://www.vlr.gg/player/1970/neth",
+    "name": "neth",
+    "teamTag": "FL",
+    "country": "jp"
+  },
+  {
+    "id": "3874",
+    "url": "https://www.vlr.gg/player/3874/teague",
+    "name": "Teague",
+    "teamTag": "PLUG",
+    "country": "us"
+  },
+  {
+    "id": "41443",
+    "url": "https://www.vlr.gg/player/41443/dmo",
+    "name": "dmo",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "29840",
+    "url": "https://www.vlr.gg/player/29840/yuran",
+    "name": "yuran",
+    "teamTag": "SG",
+    "country": "jp"
+  },
+  {
+    "id": "23049",
+    "url": "https://www.vlr.gg/player/23049/alkyia",
+    "name": "alkyia",
+    "teamTag": "KC.GC",
+    "country": "tr"
+  },
+  {
+    "id": "9192",
+    "url": "https://www.vlr.gg/player/9192/cloudy",
+    "name": "Cloudy",
+    "teamTag": "GGA",
+    "country": "kr"
+  },
+  {
+    "id": "39391",
+    "url": "https://www.vlr.gg/player/39391/rari",
+    "name": "rari",
+    "teamTag": "",
+    "country": "ph"
+  },
+  {
+    "id": "8240",
+    "url": "https://www.vlr.gg/player/8240/alyal",
+    "name": "alyaL",
+    "teamTag": "FPT",
+    "country": "vn"
+  },
+  {
+    "id": "47367",
+    "url": "https://www.vlr.gg/player/47367/rain",
+    "name": "rain",
+    "teamTag": "Ace",
+    "country": "us"
+  },
+  {
+    "id": "2586",
+    "url": "https://www.vlr.gg/player/2586/hanling",
+    "name": "HANLING",
+    "teamTag": "ZEN",
+    "country": "ar"
+  },
+  {
+    "id": "12226",
+    "url": "https://www.vlr.gg/player/12226/sturnn",
+    "name": "sturNN",
+    "teamTag": "IW",
+    "country": "tr"
+  },
+  {
+    "id": "9017",
+    "url": "https://www.vlr.gg/player/9017/moobs",
+    "name": "moobs",
+    "teamTag": "WU",
+    "country": "ca"
+  },
+  {
+    "id": "28870",
+    "url": "https://www.vlr.gg/player/28870/k0rupt",
+    "name": "k0rupt",
+    "teamTag": "FUN",
+    "country": "us"
+  },
+  {
+    "id": "27879",
+    "url": "https://www.vlr.gg/player/27879/clewy",
+    "name": "Clewy",
+    "teamTag": "PHX",
+    "country": "us"
+  },
+  {
+    "id": "16078",
+    "url": "https://www.vlr.gg/player/16078/loupiote",
+    "name": "Loupiote",
+    "teamTag": "ZER.M",
+    "country": "fr"
+  },
+  {
+    "id": "40750",
+    "url": "https://www.vlr.gg/player/40750/donatellooo",
+    "name": "DonatelloOO",
+    "teamTag": "TL.AC",
+    "country": "cz"
+  },
+  {
+    "id": "11232",
+    "url": "https://www.vlr.gg/player/11232/daiki",
+    "name": "daiki",
+    "teamTag": "TL",
+    "country": "br"
+  },
+  {
+    "id": "37494",
+    "url": "https://www.vlr.gg/player/37494/kai",
+    "name": "Kai",
+    "teamTag": "TE",
+    "country": "cn"
+  },
+  {
+    "id": "3063",
+    "url": "https://www.vlr.gg/player/3063/mel",
+    "name": "meL",
+    "teamTag": "SRG",
+    "country": "us"
+  },
+  {
+    "id": "17339",
+    "url": "https://www.vlr.gg/player/17339/felipa",
+    "name": "Felipa",
+    "teamTag": "QAD.GC",
+    "country": "tr"
+  },
+  {
+    "id": "7105",
+    "url": "https://www.vlr.gg/player/7105/qpert",
+    "name": "qpert",
+    "teamTag": "TL.AC",
+    "country": "rs"
+  },
+  {
+    "id": "32170",
+    "url": "https://www.vlr.gg/player/32170/cowpie867",
+    "name": "Cowpie867",
+    "teamTag": "Powe",
+    "country": "us"
+  },
+  {
+    "id": "17394",
+    "url": "https://www.vlr.gg/player/17394/ninou",
+    "name": "Ninou",
+    "teamTag": "LUN",
+    "country": "fr"
+  },
+  {
+    "id": "16447",
+    "url": "https://www.vlr.gg/player/16447/d3mur",
+    "name": "d3mur",
+    "teamTag": "GNG",
+    "country": "tr"
+  },
+  {
+    "id": "1395",
+    "url": "https://www.vlr.gg/player/1395/tennn",
+    "name": "TENNN",
+    "teamTag": "MRSH",
+    "country": "jp"
+  },
+  {
+    "id": "26757",
+    "url": "https://www.vlr.gg/player/26757/otaq",
+    "name": "otaQ",
+    "teamTag": "6K",
+    "country": "mx"
+  },
+  {
+    "id": "217",
+    "url": "https://www.vlr.gg/player/217/seider",
+    "name": "SEIDER",
+    "teamTag": "MZP",
+    "country": "dk"
+  },
+  {
+    "id": "26144",
+    "url": "https://www.vlr.gg/player/26144/xeunayy",
+    "name": "Xeunayy",
+    "teamTag": "NYB.F",
+    "country": "id"
+  },
+  {
+    "id": "17751",
+    "url": "https://www.vlr.gg/player/17751/tim",
+    "name": "Tim",
+    "teamTag": "FUN",
+    "country": "us"
+  },
+  {
+    "id": "33566",
+    "url": "https://www.vlr.gg/player/33566/ganter",
+    "name": "ganter",
+    "teamTag": "OXÜ",
+    "country": "cl"
+  },
+  {
+    "id": "15542",
+    "url": "https://www.vlr.gg/player/15542/gio",
+    "name": "gio",
+    "teamTag": "OXÜ",
+    "country": "cl"
+  },
+  {
+    "id": "17318",
+    "url": "https://www.vlr.gg/player/17318/blossi",
+    "name": "Blossi",
+    "teamTag": "ATNR",
+    "country": "de"
+  },
+  {
+    "id": "38912",
+    "url": "https://www.vlr.gg/player/38912/yuno",
+    "name": "yuno",
+    "teamTag": "",
+    "country": "lt"
+  },
+  {
+    "id": "23971",
+    "url": "https://www.vlr.gg/player/23971/ask",
+    "name": "Ask",
+    "teamTag": "MRSH",
+    "country": "jp"
+  },
+  {
+    "id": "17320",
+    "url": "https://www.vlr.gg/player/17320/petra",
+    "name": "Petra",
+    "teamTag": "G2.G",
+    "country": "nl"
+  },
+  {
+    "id": "1963",
+    "url": "https://www.vlr.gg/player/1963/hate",
+    "name": "Hate",
+    "teamTag": "RC",
+    "country": "kr"
+  },
+  {
+    "id": "3677",
+    "url": "https://www.vlr.gg/player/3677/fross",
+    "name": "Fross",
+    "teamTag": "ZEN",
+    "country": "cl"
+  },
+  {
+    "id": "47490",
+    "url": "https://www.vlr.gg/player/47490/stellaric-fan",
+    "name": "stellaric fan",
+    "teamTag": "",
+    "country": "un"
+  },
+  {
+    "id": "36692",
+    "url": "https://www.vlr.gg/player/36692/azami",
+    "name": "Azami",
+    "teamTag": "",
+    "country": "sg"
+  },
+  {
+    "id": "10581",
+    "url": "https://www.vlr.gg/player/10581/ryu",
+    "name": "Ryu",
+    "teamTag": "6K",
+    "country": "mx"
+  },
+  {
+    "id": "15016",
+    "url": "https://www.vlr.gg/player/15016/joona",
+    "name": "joona",
+    "teamTag": "WADA",
+    "country": "us"
+  },
+  {
+    "id": "19292",
+    "url": "https://www.vlr.gg/player/19292/jowa",
+    "name": "jowa",
+    "teamTag": "TTR",
+    "country": "cn"
+  },
+  {
+    "id": "34529",
+    "url": "https://www.vlr.gg/player/34529/jake",
+    "name": "jake",
+    "teamTag": "CSP",
+    "country": "us"
+  },
+  {
+    "id": "11704",
+    "url": "https://www.vlr.gg/player/11704/styron",
+    "name": "STYRON",
+    "teamTag": "KK",
+    "country": "sg"
+  },
+  {
+    "id": "17594",
+    "url": "https://www.vlr.gg/player/17594/newky",
+    "name": "Newky",
+    "teamTag": "Baby",
+    "country": "th"
+  },
+  {
+    "id": "6969",
+    "url": "https://www.vlr.gg/player/6969/gunners",
+    "name": "Gunners",
+    "teamTag": "GF2",
+    "country": "in"
+  },
+  {
+    "id": "20098",
+    "url": "https://www.vlr.gg/player/20098/mel",
+    "name": "Mel",
+    "teamTag": "LUN",
+    "country": "fr"
+  },
+  {
+    "id": "1470",
+    "url": "https://www.vlr.gg/player/1470/simond4rk",
+    "name": "SimonD4rk",
+    "teamTag": "DSY",
+    "country": "by"
+  },
+  {
+    "id": "12474",
+    "url": "https://www.vlr.gg/player/12474/tag",
+    "name": "Tag",
+    "teamTag": "DSY",
+    "country": "it"
+  },
+  {
+    "id": "6723",
+    "url": "https://www.vlr.gg/player/6723/foxz",
+    "name": "foxz",
+    "teamTag": "XGOD",
+    "country": "th"
+  },
+  {
+    "id": "8179",
+    "url": "https://www.vlr.gg/player/8179/opel",
+    "name": "opel",
+    "teamTag": "PURR",
+    "country": "id"
+  },
+  {
+    "id": "1429",
+    "url": "https://www.vlr.gg/player/1429/d0rf",
+    "name": "d0rf",
+    "teamTag": "FPT",
+    "country": "vn"
+  },
+  {
+    "id": "5566",
+    "url": "https://www.vlr.gg/player/5566/jeyj7y",
+    "name": "jeyj7y",
+    "teamTag": "EXO",
+    "country": "tr"
+  },
+  {
+    "id": "47551",
+    "url": "https://www.vlr.gg/player/47551/sanoj",
+    "name": "sanoj",
+    "teamTag": "",
+    "country": "br"
+  },
+  {
+    "id": "309",
+    "url": "https://www.vlr.gg/player/309/patitek",
+    "name": "paTiTek",
+    "teamTag": "TL",
+    "country": "pl"
+  },
+  {
+    "id": "44532",
+    "url": "https://www.vlr.gg/player/44532/nori",
+    "name": "nori",
+    "teamTag": "PRA",
+    "country": "cl"
+  },
+  {
+    "id": "440",
+    "url": "https://www.vlr.gg/player/440/akumaaaaa",
+    "name": "AKUMAAAAA",
+    "teamTag": "JL",
+    "country": "fr"
+  },
+  {
+    "id": "19058",
+    "url": "https://www.vlr.gg/player/19058/folke",
+    "name": "FOLKE",
+    "teamTag": "LMX",
+    "country": "se"
+  },
+  {
+    "id": "26069",
+    "url": "https://www.vlr.gg/player/26069/piety",
+    "name": "PIETY",
+    "teamTag": "ASND",
+    "country": "ph"
+  },
+  {
+    "id": "19373",
+    "url": "https://www.vlr.gg/player/19373/ginger",
+    "name": "ginger",
+    "teamTag": "ATNR",
+    "country": "de"
+  },
+  {
+    "id": "7603",
+    "url": "https://www.vlr.gg/player/7603/mazino",
+    "name": "Mazino",
+    "teamTag": "KRÜ",
+    "country": "cl"
+  },
+  {
+    "id": "2403",
+    "url": "https://www.vlr.gg/player/2403/mizu",
+    "name": "mizu",
+    "teamTag": "NOTT",
+    "country": "ar"
+  },
+  {
+    "id": "1369",
+    "url": "https://www.vlr.gg/player/1369/doma",
+    "name": "doma",
+    "teamTag": "EP",
+    "country": "hr"
+  },
+  {
+    "id": "46601",
+    "url": "https://www.vlr.gg/player/46601/om3y",
+    "name": "om3y",
+    "teamTag": "The",
+    "country": "us"
+  },
+  {
+    "id": "10163",
+    "url": "https://www.vlr.gg/player/10163/cyderx",
+    "name": "CyderX",
+    "teamTag": "EF",
+    "country": "tr"
+  },
+  {
+    "id": "47982",
+    "url": "https://www.vlr.gg/player/47982/sorex",
+    "name": "sorex",
+    "teamTag": "5 BI",
+    "country": "un"
+  },
+  {
+    "id": "44838",
+    "url": "https://www.vlr.gg/player/44838/racoone",
+    "name": "Racoone",
+    "teamTag": "",
+    "country": "un"
+  },
+  {
+    "id": "37969",
+    "url": "https://www.vlr.gg/player/37969/ellie",
+    "name": "ellie",
+    "teamTag": "ATNR",
+    "country": "de"
+  },
+  {
+    "id": "2408",
+    "url": "https://www.vlr.gg/player/2408/tuyz",
+    "name": "tuyz",
+    "teamTag": "LOUD",
+    "country": "br"
+  },
+  {
+    "id": "44919",
+    "url": "https://www.vlr.gg/player/44919/aplycs",
+    "name": "aplycs",
+    "teamTag": "TS.AC",
+    "country": "my"
+  },
+  {
+    "id": "62",
+    "url": "https://www.vlr.gg/player/62/huynh",
+    "name": "HUYNH",
+    "teamTag": "FCN",
+    "country": "ca"
+  },
+  {
+    "id": "1586",
+    "url": "https://www.vlr.gg/player/1586/v1nny",
+    "name": "v1nny",
+    "teamTag": "RED",
+    "country": "br"
+  },
+  {
+    "id": "45580",
+    "url": "https://www.vlr.gg/player/45580/mason143",
+    "name": "Mason143",
+    "teamTag": "Keis",
+    "country": "un"
+  },
+  {
+    "id": "40175",
+    "url": "https://www.vlr.gg/player/40175/mayameow",
+    "name": "MayaMeow",
+    "teamTag": "NSR.IN",
+    "country": "ie"
+  },
+  {
+    "id": "26398",
+    "url": "https://www.vlr.gg/player/26398/indra",
+    "name": "indra",
+    "teamTag": "Six",
+    "country": "ca"
+  },
+  {
+    "id": "7231",
+    "url": "https://www.vlr.gg/player/7231/kya",
+    "name": "kya",
+    "teamTag": "DET",
+    "country": "nl"
+  },
+  {
+    "id": "23410",
+    "url": "https://www.vlr.gg/player/23410/snowing",
+    "name": "snowing",
+    "teamTag": "The",
+    "country": "us"
+  },
+  {
+    "id": "26837",
+    "url": "https://www.vlr.gg/player/26837/poegii",
+    "name": "poegii",
+    "teamTag": "Ging",
+    "country": "be"
+  },
+  {
+    "id": "50078",
+    "url": "https://www.vlr.gg/player/50078/roqueroqueroque",
+    "name": "roqueroqueroque",
+    "teamTag": "",
+    "country": "un"
+  },
+  {
+    "id": "19362",
+    "url": "https://www.vlr.gg/player/19362/lyda",
+    "name": "Lyda",
+    "teamTag": "HERO",
+    "country": "tr"
+  },
+  {
+    "id": "29132",
+    "url": "https://www.vlr.gg/player/29132/sekkya",
+    "name": "Sekkya",
+    "teamTag": "SaD",
+    "country": "us"
+  },
+  {
+    "id": "13754",
+    "url": "https://www.vlr.gg/player/13754/kouf",
+    "name": "Kouf",
+    "teamTag": "AMB",
+    "country": "ca"
+  },
+  {
+    "id": "16757",
+    "url": "https://www.vlr.gg/player/16757/cohburg",
+    "name": "Cohburg",
+    "teamTag": "SAD",
+    "country": "us"
+  },
+  {
+    "id": "31841",
+    "url": "https://www.vlr.gg/player/31841/take",
+    "name": "take",
+    "teamTag": "RC",
+    "country": "jp"
+  },
+  {
+    "id": "31827",
+    "url": "https://www.vlr.gg/player/31827/dambi",
+    "name": "Dambi",
+    "teamTag": "NS",
+    "country": "kr"
+  },
+  {
+    "id": "20922",
+    "url": "https://www.vlr.gg/player/20922/zekei",
+    "name": "zekei",
+    "teamTag": "FUN",
+    "country": "us"
+  },
+  {
+    "id": "46238",
+    "url": "https://www.vlr.gg/player/46238/lyrical",
+    "name": "lyrical",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "9737",
+    "url": "https://www.vlr.gg/player/9737/kakarot",
+    "name": "Kakarot",
+    "teamTag": "ZOL",
+    "country": "ph"
+  },
+  {
+    "id": "21428",
+    "url": "https://www.vlr.gg/player/21428/crunch",
+    "name": "CRUNCH",
+    "teamTag": "BBB",
+    "country": "us"
+  },
+  {
+    "id": "50827",
+    "url": "https://www.vlr.gg/player/50827/gnadel",
+    "name": "Gnadel",
+    "teamTag": "GGA",
+    "country": "kr"
+  },
+  {
+    "id": "17747",
+    "url": "https://www.vlr.gg/player/17747/blank",
+    "name": "BlanK",
+    "teamTag": "AOE",
+    "country": "co"
+  },
+  {
+    "id": "11696",
+    "url": "https://www.vlr.gg/player/11696/zoestol",
+    "name": "Zoestol",
+    "teamTag": "BLUE",
+    "country": "us"
+  },
+  {
+    "id": "9623",
+    "url": "https://www.vlr.gg/player/9623/medika",
+    "name": "mediKa",
+    "teamTag": "TWIS.O",
+    "country": "de"
+  },
+  {
+    "id": "5565",
+    "url": "https://www.vlr.gg/player/5565/ros",
+    "name": "Rosé",
+    "teamTag": "BCF",
+    "country": "tr"
+  },
+  {
+    "id": "7162",
+    "url": "https://www.vlr.gg/player/7162/wackie",
+    "name": "wackie",
+    "teamTag": "JL",
+    "country": "ee"
+  },
+  {
+    "id": "2635",
+    "url": "https://www.vlr.gg/player/2635/mts",
+    "name": "mts",
+    "teamTag": "Frui",
+    "country": "no"
+  },
+  {
+    "id": "5395",
+    "url": "https://www.vlr.gg/player/5395/cortezia",
+    "name": "cortezia",
+    "teamTag": "RED",
+    "country": "br"
+  },
+  {
+    "id": "44516",
+    "url": "https://www.vlr.gg/player/44516/gbc",
+    "name": "gbc",
+    "teamTag": "PRA",
+    "country": "ar"
+  },
+  {
+    "id": "4244",
+    "url": "https://www.vlr.gg/player/4244/yaboilewis",
+    "name": "YaBoiLewis",
+    "teamTag": "FKS",
+    "country": "wa"
+  },
+  {
+    "id": "38857",
+    "url": "https://www.vlr.gg/player/38857/beng",
+    "name": "benG",
+    "teamTag": "OXÜ",
+    "country": "cl"
+  },
+  {
+    "id": "18037",
+    "url": "https://www.vlr.gg/player/18037/fluky",
+    "name": "Fluky",
+    "teamTag": "FS",
+    "country": "th"
+  },
+  {
+    "id": "39632",
+    "url": "https://www.vlr.gg/player/39632/d0v3s",
+    "name": "D0V3S",
+    "teamTag": "Gree",
+    "country": "eg"
+  },
+  {
+    "id": "21195",
+    "url": "https://www.vlr.gg/player/21195/teddy",
+    "name": "Teddy",
+    "teamTag": "FRO",
+    "country": "sg"
+  },
+  {
+    "id": "14787",
+    "url": "https://www.vlr.gg/player/14787/papasmurf",
+    "name": "PapaSmurf",
+    "teamTag": "VEXO",
+    "country": "us"
+  },
+  {
+    "id": "5957",
+    "url": "https://www.vlr.gg/player/5957/artzin",
+    "name": "artzin",
+    "teamTag": "MIBR",
+    "country": "br"
+  },
+  {
+    "id": "4661",
+    "url": "https://www.vlr.gg/player/4661/sacrifice",
+    "name": "SacrificE",
+    "teamTag": "DRX.AC",
+    "country": "kr"
+  },
+  {
+    "id": "29634",
+    "url": "https://www.vlr.gg/player/29634/cintyx",
+    "name": "Cintyx",
+    "teamTag": "AXL",
+    "country": "no"
+  },
+  {
+    "id": "3021",
+    "url": "https://www.vlr.gg/player/3021/biank",
+    "name": "Biank",
+    "teamTag": "TE",
+    "country": "cn"
+  },
+  {
+    "id": "46102",
+    "url": "https://www.vlr.gg/player/46102/snappy",
+    "name": "snappy",
+    "teamTag": "TLN.AC",
+    "country": "th"
+  },
+  {
+    "id": "48803",
+    "url": "https://www.vlr.gg/player/48803/reforminq",
+    "name": "reforminq",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "31272",
+    "url": "https://www.vlr.gg/player/31272/els",
+    "name": "els",
+    "teamTag": "BLAZ",
+    "country": "ch"
+  },
+  {
+    "id": "11046",
+    "url": "https://www.vlr.gg/player/11046/deigara",
+    "name": "deigara",
+    "teamTag": "ZEN",
+    "country": "ar"
+  },
+  {
+    "id": "7888",
+    "url": "https://www.vlr.gg/player/7888/blackwiz",
+    "name": "BlackWiz",
+    "teamTag": "NFX",
+    "country": "jp"
+  },
+  {
+    "id": "1003",
+    "url": "https://www.vlr.gg/player/1003/reita",
+    "name": "Reita",
+    "teamTag": "MRSH",
+    "country": "jp"
+  },
+  {
+    "id": "44534",
+    "url": "https://www.vlr.gg/player/44534/mawyk",
+    "name": "Mawyk",
+    "teamTag": "PRA",
+    "country": "ar"
+  },
+  {
+    "id": "9747",
+    "url": "https://www.vlr.gg/player/9747/emman",
+    "name": "Emman",
+    "teamTag": "ZOL",
+    "country": "ph"
+  },
+  {
+    "id": "47392",
+    "url": "https://www.vlr.gg/player/47392/kaiser",
+    "name": "kaiser",
+    "teamTag": "MORI",
+    "country": "us"
+  },
+  {
+    "id": "50774",
+    "url": "https://www.vlr.gg/player/50774/darkzin",
+    "name": "DarkZIN",
+    "teamTag": "",
+    "country": "cl"
+  },
+  {
+    "id": "13768",
+    "url": "https://www.vlr.gg/player/13768/s1mon",
+    "name": "S1Mon",
+    "teamTag": "EDG",
+    "country": "tw"
+  },
+  {
+    "id": "8862",
+    "url": "https://www.vlr.gg/player/8862/uncreative",
+    "name": "Uncreative",
+    "teamTag": "Berz",
+    "country": "ca"
+  },
+  {
+    "id": "8723",
+    "url": "https://www.vlr.gg/player/8723/matis",
+    "name": "MatiS",
+    "teamTag": "KLG",
+    "country": "cl"
+  },
+  {
+    "id": "3007",
+    "url": "https://www.vlr.gg/player/3007/tdawgg",
+    "name": "tdawgg",
+    "teamTag": "CUBE",
+    "country": "us"
+  },
+  {
+    "id": "113",
+    "url": "https://www.vlr.gg/player/113/hyp",
+    "name": "HyP",
+    "teamTag": "MDR",
+    "country": "fr"
+  },
+  {
+    "id": "19439",
+    "url": "https://www.vlr.gg/player/19439/zylina",
+    "name": "zylina",
+    "teamTag": "AUR",
+    "country": "ph"
+  },
+  {
+    "id": "3986",
+    "url": "https://www.vlr.gg/player/3986/truth",
+    "name": "Truth",
+    "teamTag": "SCC",
+    "country": "us"
+  },
+  {
+    "id": "1284",
+    "url": "https://www.vlr.gg/player/1284/mikee",
+    "name": "mikee",
+    "teamTag": "MDR",
+    "country": "fr"
+  },
+  {
+    "id": "1009",
+    "url": "https://www.vlr.gg/player/1009/sakurai",
+    "name": "sakurai",
+    "teamTag": "CGZ",
+    "country": "jp"
+  },
+  {
+    "id": "8781",
+    "url": "https://www.vlr.gg/player/8781/charlslol",
+    "name": "Charlslol",
+    "teamTag": "CN",
+    "country": "mx"
+  },
+  {
+    "id": "24100",
+    "url": "https://www.vlr.gg/player/24100/anva",
+    "name": "Anva",
+    "teamTag": "QAD.GC",
+    "country": "tr"
+  },
+  {
+    "id": "31719",
+    "url": "https://www.vlr.gg/player/31719/papo",
+    "name": "papo",
+    "teamTag": "",
+    "country": "ec"
+  },
+  {
+    "id": "314",
+    "url": "https://www.vlr.gg/player/314/ambi",
+    "name": "Ambi",
+    "teamTag": "CGN",
+    "country": "cz"
+  },
+  {
+    "id": "8918",
+    "url": "https://www.vlr.gg/player/8918/richie",
+    "name": "richie",
+    "teamTag": "Thug",
+    "country": "us"
+  },
+  {
+    "id": "46280",
+    "url": "https://www.vlr.gg/player/46280/kiyoe",
+    "name": "kiyoe",
+    "teamTag": "WADA",
+    "country": "mx"
+  },
+  {
+    "id": "12322",
+    "url": "https://www.vlr.gg/player/12322/ndg",
+    "name": "NDG",
+    "teamTag": "TS.AC",
+    "country": "ph"
+  },
+  {
+    "id": "17326",
+    "url": "https://www.vlr.gg/player/17326/htm",
+    "name": "htm",
+    "teamTag": "HVND",
+    "country": "un"
+  },
+  {
+    "id": "49856",
+    "url": "https://www.vlr.gg/player/49856/austinair",
+    "name": "Austinair",
+    "teamTag": "",
+    "country": "us"
+  },
+  {
+    "id": "45123",
+    "url": "https://www.vlr.gg/player/45123/zeka",
+    "name": "zeka",
+    "teamTag": "Bing",
+    "country": "un"
+  },
+  {
+    "id": "48002",
+    "url": "https://www.vlr.gg/player/48002/semik",
+    "name": "semik",
+    "teamTag": "Berz",
+    "country": "uz"
+  },
+  {
+    "id": "12918",
+    "url": "https://www.vlr.gg/player/12918/sexychristian",
+    "name": "SexyChristian",
+    "teamTag": "SAD",
+    "country": "us"
+  },
+  {
+    "id": "30105",
+    "url": "https://www.vlr.gg/player/30105/ikyoo",
+    "name": "ikyoo",
+    "teamTag": "NSR.IN",
+    "country": "dk"
+  },
+  {
+    "id": "47861",
+    "url": "https://www.vlr.gg/player/47861/senilebaboon24",
+    "name": "Senilebaboon24",
+    "teamTag": "The",
+    "country": "un"
+  },
+  {
+    "id": "2995",
+    "url": "https://www.vlr.gg/player/2995/maka",
+    "name": "Maka",
+    "teamTag": "AB3",
+    "country": "mx"
+  },
+  {
+    "id": "15735",
+    "url": "https://www.vlr.gg/player/15735/krostaly",
+    "name": "KROSTALY",
+    "teamTag": "FB",
+    "country": "tr"
+  },
+  {
+    "id": "24140",
+    "url": "https://www.vlr.gg/player/24140/superphrog",
+    "name": "SUPERPHROG",
+    "teamTag": "NSR.IN",
+    "country": "se"
+  },
+  {
+    "id": "30042",
+    "url": "https://www.vlr.gg/player/30042/harmonee",
+    "name": "Harmonee",
+    "teamTag": "ATNR",
+    "country": "de"
+  },
+  {
+    "id": "25279",
+    "url": "https://www.vlr.gg/player/25279/sakura",
+    "name": "sakura",
+    "teamTag": "NIXV",
+    "country": "jp"
+  },
+  {
+    "id": "29960",
+    "url": "https://www.vlr.gg/player/29960/nidxvilco",
+    "name": "Nidxvilco",
+    "teamTag": "NSR.IN",
+    "country": "es"
+  },
+  {
+    "id": "50835",
+    "url": "https://www.vlr.gg/player/50835/arbex",
+    "name": "Arbex",
+    "teamTag": "",
+    "country": "mx"
+  },
+  {
+    "id": "14685",
+    "url": "https://www.vlr.gg/player/14685/jubs",
+    "name": "jubs",
+    "teamTag": "MIBR.GC",
+    "country": "br"
+  },
+  {
+    "id": "44335",
+    "url": "https://www.vlr.gg/player/44335/cutch",
+    "name": "Cutch",
+    "teamTag": "The",
+    "country": "us"
+  },
+  {
+    "id": "29685",
+    "url": "https://www.vlr.gg/player/29685/sambae",
+    "name": "sambae",
+    "teamTag": "Wook",
+    "country": "kr"
+  },
+  {
+    "id": "44841",
+    "url": "https://www.vlr.gg/player/44841/garpa",
+    "name": "Garpa",
+    "teamTag": "MORI",
+    "country": "un"
+  },
+  {
+    "id": "15891",
+    "url": "https://www.vlr.gg/player/15891/krx",
+    "name": "KRX",
+    "teamTag": "XIA",
+    "country": "th"
+  },
+  {
+    "id": "40908",
+    "url": "https://www.vlr.gg/player/40908/skyisblue",
+    "name": "SkyIsBlue",
+    "teamTag": "MGLZ",
+    "country": "mn"
+  },
+  {
+    "id": "21659",
+    "url": "https://www.vlr.gg/player/21659/sato",
+    "name": "Sato",
+    "teamTag": "M80",
+    "country": "br"
+  },
+  {
+    "id": "12940",
+    "url": "https://www.vlr.gg/player/12940/mks",
+    "name": "mks",
+    "teamTag": "WT",
+    "country": "my"
+  },
+  {
+    "id": "25400",
+    "url": "https://www.vlr.gg/player/25400/riv",
+    "name": "riv",
+    "teamTag": "BNG",
+    "country": "au"
+  },
+  {
+    "id": "10950",
+    "url": "https://www.vlr.gg/player/10950/mueda",
+    "name": "Mueda",
+    "teamTag": "FCTP",
+    "country": "us"
+  },
+  {
+    "id": "37547",
+    "url": "https://www.vlr.gg/player/37547/tbloy",
+    "name": "tbloy",
+    "teamTag": "TLN.AC",
+    "country": "th"
+  },
+  {
+    "id": "23409",
+    "url": "https://www.vlr.gg/player/23409/javi",
+    "name": "javi",
+    "teamTag": "Hype",
+    "country": "un"
+  },
+  {
+    "id": "35619",
+    "url": "https://www.vlr.gg/player/35619/sxnti",
+    "name": "Sxnti",
+    "teamTag": "BBB",
+    "country": "mx"
+  },
+  {
+    "id": "17979",
+    "url": "https://www.vlr.gg/player/17979/nmutua",
+    "name": "nmutuA",
+    "teamTag": "DART",
+    "country": "us"
+  },
+  {
+    "id": "20957",
+    "url": "https://www.vlr.gg/player/20957/stunna",
+    "name": "stunna",
+    "teamTag": "VZ",
+    "country": "us"
+  },
+  {
+    "id": "41196",
+    "url": "https://www.vlr.gg/player/41196/ja2",
+    "name": "ja2",
+    "teamTag": "LUN",
+    "country": "fr"
+  },
+  {
+    "id": "2832",
+    "url": "https://www.vlr.gg/player/2832/patix",
+    "name": "Patix",
+    "teamTag": "CLS",
+    "country": "si"
+  },
+  {
+    "id": "3045",
+    "url": "https://www.vlr.gg/player/3045/luok1ng",
+    "name": "LuoK1ng",
+    "teamTag": "TE",
+    "country": "cn"
+  },
+  {
+    "id": "30733",
+    "url": "https://www.vlr.gg/player/30733/tootsie",
+    "name": "Tootsie",
+    "teamTag": "YDZ.GC",
+    "country": "jp"
+  },
+  {
+    "id": "30060",
+    "url": "https://www.vlr.gg/player/30060/alessia",
+    "name": "Alessia",
+    "teamTag": "NSR.IN",
+    "country": "es"
+  },
+  {
+    "id": "16483",
+    "url": "https://www.vlr.gg/player/16483/gloomy",
+    "name": "Gloomy",
+    "teamTag": "IW",
+    "country": "tr"
+  },
+  {
+    "id": "23098",
+    "url": "https://www.vlr.gg/player/23098/aphun",
+    "name": "Aphun",
+    "teamTag": "SNS",
+    "country": "vn"
+  },
+  {
+    "id": "9431",
+    "url": "https://www.vlr.gg/player/9431/cille",
+    "name": "Cille",
+    "teamTag": "HERO",
+    "country": "dk"
+  },
+  {
+    "id": "686",
+    "url": "https://www.vlr.gg/player/686/tonbo",
+    "name": "Tonbo",
+    "teamTag": "FL",
+    "country": "jp"
+  },
+  {
+    "id": "34002",
+    "url": "https://www.vlr.gg/player/34002/lukey",
+    "name": "Lukey",
+    "teamTag": "EXO",
+    "country": "gb"
+  },
+  {
+    "id": "739",
+    "url": "https://www.vlr.gg/player/739/fiziq",
+    "name": "fiziq",
+    "teamTag": "YFP",
+    "country": "us"
+  },
+  {
+    "id": "51315",
+    "url": "https://www.vlr.gg/player/51315/blost",
+    "name": "bLost",
+    "teamTag": "Ace",
+    "country": "us"
+  },
+  {
+    "id": "4712",
+    "url": "https://www.vlr.gg/player/4712/heybay",
+    "name": "heybay",
+    "teamTag": "TE",
+    "country": "hk"
+  },
+  {
+    "id": "24207",
+    "url": "https://www.vlr.gg/player/24207/lthew",
+    "name": "Lthew",
+    "teamTag": "",
+    "country": "pe"
+  },
+  {
+    "id": "40842",
+    "url": "https://www.vlr.gg/player/40842/ibonata",
+    "name": "ibonata",
+    "teamTag": "FB",
+    "country": "tr"
+  },
+  {
+    "id": "51177",
+    "url": "https://www.vlr.gg/player/51177/so1o",
+    "name": "so1o",
+    "teamTag": "",
+    "country": "un"
+  },
+  {
+    "id": "4770",
+    "url": "https://www.vlr.gg/player/4770/fengf",
+    "name": "FengF",
+    "teamTag": "TE",
+    "country": "cn"
+  },
+  {
+    "id": "3741",
+    "url": "https://www.vlr.gg/player/3741/vo0kashu",
+    "name": "vo0kashu",
+    "teamTag": "DRG",
+    "country": "ru"
+  },
+  {
+    "id": "15302",
+    "url": "https://www.vlr.gg/player/15302/babyblue",
+    "name": "Babyblue",
+    "teamTag": "JDG",
+    "country": "cn"
+  },
+  {
+    "id": "3519",
+    "url": "https://www.vlr.gg/player/3519/jkuro",
+    "name": "jkuro",
+    "teamTag": "JDG",
+    "country": "cn"
+  },
+  {
+    "id": "41029",
+    "url": "https://www.vlr.gg/player/41029/z1yan",
+    "name": "Z1yan",
+    "teamTag": "JDG",
+    "country": "cn"
+  },
+  {
+    "id": "37674",
+    "url": "https://www.vlr.gg/player/37674/mrcani",
+    "name": "MrCANI",
+    "teamTag": "JDG",
+    "country": "tw"
+  },
+  {
+    "id": "40845",
+    "url": "https://www.vlr.gg/player/40845/levius",
+    "name": "Levius",
+    "teamTag": "BLG",
+    "country": "cn"
+  },
+  {
+    "id": "4705",
+    "url": "https://www.vlr.gg/player/4705/flex1n",
+    "name": "Flex1n",
+    "teamTag": "DRG",
+    "country": "cn"
+  },
+  {
+    "id": "4885",
+    "url": "https://www.vlr.gg/player/4885/whzy",
+    "name": "whzy",
+    "teamTag": "Toe",
+    "country": "cn"
+  },
+  {
+    "id": "7426",
+    "url": "https://www.vlr.gg/player/7426/juicy",
+    "name": "Juicy",
+    "teamTag": "WOL",
+    "country": "sg"
+  },
+  {
+    "id": "7849",
+    "url": "https://www.vlr.gg/player/7849/siufatbb",
+    "name": "SiuFatBB",
+    "teamTag": "WOL",
+    "country": "hk"
+  },
+  {
+    "id": "11218",
+    "url": "https://www.vlr.gg/player/11218/yuicaw",
+    "name": "Yuicaw",
+    "teamTag": "WOL",
+    "country": "tw"
+  },
+  {
+    "id": "14125",
+    "url": "https://www.vlr.gg/player/14125/spring",
+    "name": "Spring",
+    "teamTag": "WOL",
+    "country": "tw"
+  },
+  {
+    "id": "37489",
+    "url": "https://www.vlr.gg/player/37489/lysoar",
+    "name": "Lysoar",
+    "teamTag": "WOL",
+    "country": "cn"
+  },
+  {
+    "id": "4774",
+    "url": "https://www.vlr.gg/player/4774/knight",
+    "name": "Knight",
+    "teamTag": "BLG",
+    "country": "cn"
+  },
+  {
+    "id": "10698",
+    "url": "https://www.vlr.gg/player/10698/nephh",
+    "name": "nephh",
+    "teamTag": "BLG",
+    "country": "sg"
+  },
+  {
+    "id": "7841",
+    "url": "https://www.vlr.gg/player/7841/tvirusluke",
+    "name": "TvirusLuke",
+    "teamTag": "TEC",
+    "country": "tw"
+  },
+  {
+    "id": "46460",
+    "url": "https://www.vlr.gg/player/46460/ezeir",
+    "name": "Ezeir",
+    "teamTag": "NOVA",
+    "country": "cn"
+  },
+  {
+    "id": "41054",
+    "url": "https://www.vlr.gg/player/41054/guang",
+    "name": "GuanG",
+    "teamTag": "NOVA",
+    "country": "cn"
+  },
+  {
+    "id": "39697",
+    "url": "https://www.vlr.gg/player/39697/cb",
+    "name": "CB",
+    "teamTag": "NOVA",
+    "country": "cn"
+  },
+  {
+    "id": "4402",
+    "url": "https://www.vlr.gg/player/4402/o0o0o",
+    "name": "o0o0o",
+    "teamTag": "NOVA",
+    "country": "cn"
+  },
+  {
+    "id": "48878",
+    "url": "https://www.vlr.gg/player/48878/rushia",
+    "name": "rushia",
+    "teamTag": "BLG",
+    "country": "cn"
+  },
+  {
+    "id": "31753",
+    "url": "https://www.vlr.gg/player/31753/spiritz1",
+    "name": "SpiritZ1",
+    "teamTag": "DRG",
+    "country": "tw"
+  },
+  {
+    "id": "11524",
+    "url": "https://www.vlr.gg/player/11524/nicc",
+    "name": "Nicc",
+    "teamTag": "DRG",
+    "country": "tw"
+  },
+  {
+    "id": "16924",
+    "url": "https://www.vlr.gg/player/16924/stew",
+    "name": "stew",
+    "teamTag": "JDG",
+    "country": "kr"
+  }
+]
