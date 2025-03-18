@@ -35,8 +35,8 @@ While the current predictor provides a basic analysis, it has several limitation
 
 ## Future Improvements
 To improve accuracy, we plan to implement the following features:
-- **Recent Form Weighting**: Give more importance to recent matches over older ones.
-- **Head-to-Head Record**: Compare past matches between the two teams directly.
+- .~~**Recent Form Weighting**: Give more importance to recent matches over older ones..~~
+- .~~**Head-to-Head Record**: Compare past matches between the two teams directly.~~
 - **Opponent Strength (ELO Rating)**: Adjust win rates based on the strength of opponents.
 - **Map Win Rates**: Consider team performances on specific maps.
 - **Player Statistics**: Include key player metrics such as K/D ratio, clutch success rate, and first blood percentage.
