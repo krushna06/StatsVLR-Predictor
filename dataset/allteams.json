@@ -14,10 +14,10 @@
     "country": "United States"
   },
   {
-    "id": "427",
-    "url": "https://www.vlr.gg/team/427/envy",
-    "name": "ENVY",
-    "img": "https://owcdn.net/img/5f3ca822464a3.png",
+    "id": "11001",
+    "url": "https://www.vlr.gg/team/11001/m80",
+    "name": "M80",
+    "img": "https://owcdn.net/img/6793c97263739.png",
     "country": "United States"
   },
   {
@@ -28,17 +28,10 @@
     "country": "United States"
   },
   {
-    "id": "106",
-    "url": "https://www.vlr.gg/team/106/tsm",
-    "name": "TSM",
-    "img": "https://owcdn.net/img/60aeaad44872e.png",
-    "country": "United States"
-  },
-  {
-    "id": "188",
-    "url": "https://www.vlr.gg/team/188/cloud9",
-    "name": "Cloud9",
-    "img": "https://owcdn.net/img/628addcbd509e.png",
+    "id": "427",
+    "url": "https://www.vlr.gg/team/427/envy",
+    "name": "ENVY",
+    "img": "https://owcdn.net/img/5f3ca822464a3.png",
     "country": "United States"
   },
   {
@@ -49,17 +42,17 @@
     "country": "United States"
   },
   {
-    "id": "10448",
-    "url": "https://www.vlr.gg/team/10448/winthrop-university",
-    "name": "Winthrop University",
-    "img": "https://owcdn.net/img/636c2f2592313.png",
+    "id": "188",
+    "url": "https://www.vlr.gg/team/188/cloud9",
+    "name": "Cloud9",
+    "img": "https://owcdn.net/img/628addcbd509e.png",
     "country": "United States"
   },
   {
-    "id": "11001",
-    "url": "https://www.vlr.gg/team/11001/m80",
-    "name": "M80",
-    "img": "https://owcdn.net/img/6793c97263739.png",
+    "id": "106",
+    "url": "https://www.vlr.gg/team/106/tsm",
+    "name": "TSM",
+    "img": "https://owcdn.net/img/60aeaad44872e.png",
     "country": "United States"
   },
   {
@@ -84,6 +77,20 @@
     "country": "United States"
   },
   {
+    "id": "9353",
+    "url": "https://www.vlr.gg/team/9353/shopify-rebellion-black",
+    "name": "Shopify Rebellion Black",
+    "img": "https://owcdn.net/img/679314c8ac387.png",
+    "country": "United States"
+  },
+  {
+    "id": "10448",
+    "url": "https://www.vlr.gg/team/10448/winthrop-university",
+    "name": "Winthrop University",
+    "img": "https://owcdn.net/img/636c2f2592313.png",
+    "country": "United States"
+  },
+  {
     "id": "17056",
     "url": "https://www.vlr.gg/team/17056/landor",
     "name": "Landor",
@@ -102,13 +109,6 @@
     "url": "https://www.vlr.gg/team/5038/yfp",
     "name": "YFP",
     "img": "https://owcdn.net/img/677826ad11d3b.png",
-    "country": "United States"
-  },
-  {
-    "id": "9353",
-    "url": "https://www.vlr.gg/team/9353/shopify-rebellion-black",
-    "name": "Shopify Rebellion Black",
-    "img": "https://owcdn.net/img/679314c8ac387.png",
     "country": "United States"
   },
   {
@@ -133,18 +133,18 @@
     "country": "United States"
   },
   {
-    "id": "13920",
-    "url": "https://www.vlr.gg/team/13920/sad-esports",
-    "name": "SaD Esports",
-    "img": "https://owcdn.net/img/6528e9505cb61.png",
-    "country": "United States"
-  },
-  {
     "id": "11963",
     "url": "https://www.vlr.gg/team/11963/ambrosia",
     "name": "Ambrosia",
     "img": "https://owcdn.net/img/63e9396d839b8.png",
     "country": "Canada"
+  },
+  {
+    "id": "13920",
+    "url": "https://www.vlr.gg/team/13920/sad-esports",
+    "name": "SaD Esports",
+    "img": "https://owcdn.net/img/6528e9505cb61.png",
+    "country": "United States"
   },
   {
     "id": "16121",
@@ -2317,18 +2317,18 @@
     "country": "Europe"
   },
   {
-    "id": "2059",
-    "url": "https://www.vlr.gg/team/2059/team-vitality",
-    "name": "Team Vitality",
-    "img": "https://owcdn.net/img/6466d79e1ed40.png",
-    "country": "Europe"
-  },
-  {
     "id": "16616",
     "url": "https://www.vlr.gg/team/16616/bbl-pcific",
     "name": "BBL PCIFIC",
     "img": "https://owcdn.net/img/6712e0d973b7b.png",
     "country": "Turkey"
+  },
+  {
+    "id": "2059",
+    "url": "https://www.vlr.gg/team/2059/team-vitality",
+    "name": "Team Vitality",
+    "img": "https://owcdn.net/img/6466d79e1ed40.png",
+    "country": "Europe"
   },
   {
     "id": "11479",
@@ -2478,6 +2478,13 @@
     "country": "Europe"
   },
   {
+    "id": "7967",
+    "url": "https://www.vlr.gg/team/7967/mandatory",
+    "name": "Mandatory",
+    "img": "https://owcdn.net/img/63a531dea92d2.png",
+    "country": "France"
+  },
+  {
     "id": "17211",
     "url": "https://www.vlr.gg/team/17211/d-ti-ulice",
     "name": "děti ulice",
@@ -2485,11 +2492,11 @@
     "country": "Europe"
   },
   {
-    "id": "7967",
-    "url": "https://www.vlr.gg/team/7967/mandatory",
-    "name": "Mandatory",
-    "img": "https://owcdn.net/img/63a531dea92d2.png",
-    "country": "France"
+    "id": "4572",
+    "url": "https://www.vlr.gg/team/4572/galatasaray-esports",
+    "name": "Galatasaray Esports",
+    "img": "https://owcdn.net/img/61e88bf9166d3.png",
+    "country": "Turkey"
   },
   {
     "id": "13770",
@@ -2520,10 +2527,10 @@
     "country": "Spain"
   },
   {
-    "id": "4572",
-    "url": "https://www.vlr.gg/team/4572/galatasaray-esports",
-    "name": "Galatasaray Esports",
-    "img": "https://owcdn.net/img/61e88bf9166d3.png",
+    "id": "18019",
+    "url": "https://www.vlr.gg/team/18019/ulf-esports",
+    "name": "ULF Esports",
+    "img": "https://owcdn.net/img/67d59bfc9eb2a.png",
     "country": "Turkey"
   },
   {
@@ -2576,6 +2583,13 @@
     "country": "International"
   },
   {
+    "id": "16505",
+    "url": "https://www.vlr.gg/team/16505/ssalama",
+    "name": "SSalama",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Finland"
+  },
+  {
     "id": "17720",
     "url": "https://www.vlr.gg/team/17720/team-fanta",
     "name": "Team Fanta",
@@ -2583,11 +2597,11 @@
     "country": "International"
   },
   {
-    "id": "16505",
-    "url": "https://www.vlr.gg/team/16505/ssalama",
-    "name": "SSalama",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Finland"
+    "id": "14536",
+    "url": "https://www.vlr.gg/team/14536/irregulars",
+    "name": "Irregulars",
+    "img": "https://owcdn.net/img/65d9702a74e40.png",
+    "country": "Germany"
   },
   {
     "id": "13599",
@@ -2597,18 +2611,11 @@
     "country": "France"
   },
   {
-    "id": "6132",
-    "url": "https://www.vlr.gg/team/6132/stanbul-wildcats",
-    "name": "İstanbul Wildcats",
-    "img": "https://owcdn.net/img/664cd7811305d.png",
-    "country": "Turkey"
-  },
-  {
-    "id": "14536",
-    "url": "https://www.vlr.gg/team/14536/irregulars",
-    "name": "Irregulars",
-    "img": "https://owcdn.net/img/65d9702a74e40.png",
-    "country": "Germany"
+    "id": "876",
+    "url": "https://www.vlr.gg/team/876/enterprise-esports",
+    "name": "Enterprise Esports",
+    "img": "https://owcdn.net/img/62409e4b2bd5f.png",
+    "country": "Poland"
   },
   {
     "id": "16396",
@@ -2623,13 +2630,6 @@
     "name": "DVM Esport",
     "img": "https://owcdn.net/img/655b561ac3306.png",
     "country": "France"
-  },
-  {
-    "id": "876",
-    "url": "https://www.vlr.gg/team/876/enterprise-esports",
-    "name": "Enterprise Esports",
-    "img": "https://owcdn.net/img/62409e4b2bd5f.png",
-    "country": "Poland"
   },
   {
     "id": "14461",
@@ -2658,6 +2658,13 @@
     "name": "Espergærde eSport",
     "img": "https://owcdn.net/img/6429c7b98e3ba.png",
     "country": "Denmark"
+  },
+  {
+    "id": "6132",
+    "url": "https://www.vlr.gg/team/6132/stanbul-wildcats",
+    "name": "İstanbul Wildcats",
+    "img": "https://owcdn.net/img/664cd7811305d.png",
+    "country": "Turkey"
   },
   {
     "id": "16174",
@@ -2702,18 +2709,18 @@
     "country": "Finland"
   },
   {
-    "id": "15009",
-    "url": "https://www.vlr.gg/team/15009/falke-esports",
-    "name": "Falke Esports",
-    "img": "https://owcdn.net/img/66617cf1cb7cc.png",
-    "country": "Portugal"
-  },
-  {
     "id": "16389",
     "url": "https://www.vlr.gg/team/16389/monkeees",
     "name": "Monkeees",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Denmark"
+  },
+  {
+    "id": "15009",
+    "url": "https://www.vlr.gg/team/15009/falke-esports",
+    "name": "Falke Esports",
+    "img": "https://owcdn.net/img/66617cf1cb7cc.png",
+    "country": "Portugal"
   },
   {
     "id": "12489",
@@ -2808,8 +2815,8 @@
   },
   {
     "id": "6127",
-    "url": "https://www.vlr.gg/team/6127/axolotl",
-    "name": "Axolotl",
+    "url": "https://www.vlr.gg/team/6127/axolotl-esports",
+    "name": "Axolotl Esports",
     "img": "https://owcdn.net/img/61239f7eceb75.png",
     "country": "Italy"
   },
@@ -2821,6 +2828,13 @@
     "country": "International"
   },
   {
+    "id": "15487",
+    "url": "https://www.vlr.gg/team/15487/lootcifer",
+    "name": "Lootcifer",
+    "img": "https://owcdn.net/img/665223d2c64eb.png",
+    "country": "Europe"
+  },
+  {
     "id": "14427",
     "url": "https://www.vlr.gg/team/14427/yara-mi-lala",
     "name": "yara mi lala",
@@ -2828,10 +2842,10 @@
     "country": "International"
   },
   {
-    "id": "15487",
-    "url": "https://www.vlr.gg/team/15487/lootcifer",
-    "name": "Lootcifer",
-    "img": "https://owcdn.net/img/665223d2c64eb.png",
+    "id": "9240",
+    "url": "https://www.vlr.gg/team/9240/unsigned",
+    "name": "unsigned",
+    "img": "https://owcdn.net/img/602de19d0348d.png",
     "country": "Europe"
   },
   {
@@ -2842,11 +2856,11 @@
     "country": "Portugal"
   },
   {
-    "id": "9240",
-    "url": "https://www.vlr.gg/team/9240/unsigned",
-    "name": "unsigned",
-    "img": "https://owcdn.net/img/602de19d0348d.png",
-    "country": "Europe"
+    "id": "13173",
+    "url": "https://www.vlr.gg/team/13173/ginger-supremacy",
+    "name": "Ginger Supremacy",
+    "img": "https://owcdn.net/img/64a133331a5fc.png",
+    "country": "Netherlands"
   },
   {
     "id": "17716",
@@ -2854,13 +2868,6 @@
     "name": "Arise",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
-  },
-  {
-    "id": "13173",
-    "url": "https://www.vlr.gg/team/13173/ginger-supremacy",
-    "name": "Ginger Supremacy",
-    "img": "https://owcdn.net/img/64a133331a5fc.png",
-    "country": "Netherlands"
   },
   {
     "id": "13161",
@@ -2877,13 +2884,6 @@
     "country": "Israel"
   },
   {
-    "id": "16990",
-    "url": "https://www.vlr.gg/team/16990/ailurus-esports",
-    "name": "Ailurus eSports",
-    "img": "https://owcdn.net/img/67bc984a8897e.png",
-    "country": "United Kingdom"
-  },
-  {
     "id": "14440",
     "url": "https://www.vlr.gg/team/14440/mrvzt",
     "name": "MRVZT",
@@ -2891,11 +2891,11 @@
     "country": "International"
   },
   {
-    "id": "11780",
-    "url": "https://www.vlr.gg/team/11780/reveal-multigaming",
-    "name": "Reveal Multigaming",
-    "img": "https://owcdn.net/img/63cdc0cd727b8.png",
-    "country": "Germany"
+    "id": "16990",
+    "url": "https://www.vlr.gg/team/16990/ailurus-esports",
+    "name": "Ailurus eSports",
+    "img": "https://owcdn.net/img/67bc984a8897e.png",
+    "country": "United Kingdom"
   },
   {
     "id": "16869",
@@ -2912,6 +2912,13 @@
     "country": "Europe"
   },
   {
+    "id": "11780",
+    "url": "https://www.vlr.gg/team/11780/reveal-multigaming",
+    "name": "Reveal Multigaming",
+    "img": "https://owcdn.net/img/63cdc0cd727b8.png",
+    "country": "Germany"
+  },
+  {
     "id": "14511",
     "url": "https://www.vlr.gg/team/14511/mania",
     "name": "Mania",
@@ -2926,18 +2933,18 @@
     "country": "Norway"
   },
   {
-    "id": "17594",
-    "url": "https://www.vlr.gg/team/17594/royal-elites",
-    "name": "Royal Elites",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
     "id": "12965",
     "url": "https://www.vlr.gg/team/12965/oblivionxc",
     "name": "OblivionXC",
     "img": "https://owcdn.net/img/6462a431d296b.png",
     "country": "United Kingdom"
+  },
+  {
+    "id": "17594",
+    "url": "https://www.vlr.gg/team/17594/royal-elites",
+    "name": "Royal Elites",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
   },
   {
     "id": "15842",
@@ -2947,18 +2954,18 @@
     "country": "International"
   },
   {
-    "id": "16542",
-    "url": "https://www.vlr.gg/team/16542/5head",
-    "name": "5HEAD",
-    "img": "https://owcdn.net/img/6705c97b3dce7.png",
-    "country": "Germany"
-  },
-  {
     "id": "16994",
     "url": "https://www.vlr.gg/team/16994/turkey-wurkey",
     "name": "Turkey Wurkey",
     "img": "https://owcdn.net/img/6767eb869b5b0.png",
     "country": "Europe"
+  },
+  {
+    "id": "16542",
+    "url": "https://www.vlr.gg/team/16542/5head",
+    "name": "5HEAD",
+    "img": "https://owcdn.net/img/6705c97b3dce7.png",
+    "country": "Germany"
   },
   {
     "id": "12700",
@@ -2996,11 +3003,11 @@
     "country": "International"
   },
   {
-    "id": "12701",
-    "url": "https://www.vlr.gg/team/12701/voicesareback",
-    "name": "VOICESAREBACK",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "id": "5310",
+    "url": "https://www.vlr.gg/team/5310/fenerbah-e-esports",
+    "name": "Fenerbahçe Esports",
+    "img": "https://owcdn.net/img/61d82831a3b43.png",
+    "country": "Turkey"
   },
   {
     "id": "16510",
@@ -3010,6 +3017,13 @@
     "country": "Finland"
   },
   {
+    "id": "13773",
+    "url": "https://www.vlr.gg/team/13773/mcrp-ultras",
+    "name": "MCRP Ultras",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United Kingdom"
+  },
+  {
     "id": "12515",
     "url": "https://www.vlr.gg/team/12515/flymore",
     "name": "FLYMORE",
@@ -3017,11 +3031,11 @@
     "country": "Poland"
   },
   {
-    "id": "13773",
-    "url": "https://www.vlr.gg/team/13773/mcrp-ultras",
-    "name": "MCRP Ultras",
+    "id": "12701",
+    "url": "https://www.vlr.gg/team/12701/voicesareback",
+    "name": "VOICESAREBACK",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United Kingdom"
+    "country": "International"
   },
   {
     "id": "17593",
@@ -3043,13 +3057,6 @@
     "name": "GMBLERS Esports",
     "img": "https://owcdn.net/img/6754e317043a3.png",
     "country": "Italy"
-  },
-  {
-    "id": "5310",
-    "url": "https://www.vlr.gg/team/5310/fenerbah-e-esports",
-    "name": "Fenerbahçe Esports",
-    "img": "https://owcdn.net/img/61d82831a3b43.png",
-    "country": "Turkey"
   },
   {
     "id": "16397",
@@ -3080,13 +3087,6 @@
     "country": "Germany"
   },
   {
-    "id": "12787",
-    "url": "https://www.vlr.gg/team/12787/fearferox",
-    "name": "FearFerox",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
     "id": "17163",
     "url": "https://www.vlr.gg/team/17163/ngu-x-1000rr-club",
     "name": "NGU x 1000rr club",
@@ -3094,11 +3094,18 @@
     "country": "Spain"
   },
   {
-    "id": "16996",
-    "url": "https://www.vlr.gg/team/16996/sevenfold",
-    "name": "SevenFold",
-    "img": "https://owcdn.net/img/67d0a6076818e.png",
-    "country": "United Kingdom"
+    "id": "12787",
+    "url": "https://www.vlr.gg/team/12787/fearferox",
+    "name": "FearFerox",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "11068",
+    "url": "https://www.vlr.gg/team/11068/fishing-rods",
+    "name": "Fishing Rods",
+    "img": "https://owcdn.net/img/653dc921d0b72.png",
+    "country": "Italy"
   },
   {
     "id": "12478",
@@ -3108,11 +3115,11 @@
     "country": "United Kingdom"
   },
   {
-    "id": "11068",
-    "url": "https://www.vlr.gg/team/11068/fishing-rods",
-    "name": "Fishing Rods",
-    "img": "https://owcdn.net/img/653dc921d0b72.png",
-    "country": "Italy"
+    "id": "16996",
+    "url": "https://www.vlr.gg/team/16996/sevenfold",
+    "name": "SevenFold",
+    "img": "https://owcdn.net/img/67d0a6076818e.png",
+    "country": "United Kingdom"
   },
   {
     "id": "9966",
@@ -3136,13 +3143,6 @@
     "country": "International"
   },
   {
-    "id": "13865",
-    "url": "https://www.vlr.gg/team/13865/project-x",
-    "name": "Project X",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Germany"
-  },
-  {
     "id": "10712",
     "url": "https://www.vlr.gg/team/10712/justice-esports",
     "name": "Justice Esports",
@@ -3150,11 +3150,11 @@
     "country": "Sweden"
   },
   {
-    "id": "14113",
-    "url": "https://www.vlr.gg/team/14113/napolyon",
-    "name": "NAPOLYON",
+    "id": "13865",
+    "url": "https://www.vlr.gg/team/13865/project-x",
+    "name": "Project X",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Turkey"
+    "country": "Germany"
   },
   {
     "id": "17177",
@@ -3164,17 +3164,17 @@
     "country": "Poland"
   },
   {
-    "id": "16603",
-    "url": "https://www.vlr.gg/team/16603/configstarz",
-    "name": "CONFIGSTARZ",
+    "id": "14113",
+    "url": "https://www.vlr.gg/team/14113/napolyon",
+    "name": "NAPOLYON",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Turkey"
   },
   {
-    "id": "4762",
-    "url": "https://www.vlr.gg/team/4762/galakticos",
-    "name": "Galakticos",
-    "img": "https://owcdn.net/img/63c5c07322f2d.png",
+    "id": "16603",
+    "url": "https://www.vlr.gg/team/16603/configstarz",
+    "name": "CONFIGSTARZ",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Turkey"
   },
   {
@@ -3185,18 +3185,18 @@
     "country": "France"
   },
   {
-    "id": "16519",
-    "url": "https://www.vlr.gg/team/16519/seas-suas",
-    "name": "Seas Suas",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Ireland"
-  },
-  {
     "id": "15300",
     "url": "https://www.vlr.gg/team/15300/exo-clan",
     "name": "EXO Clan",
     "img": "https://owcdn.net/img/63d13fe4dc48d.png",
     "country": "United Kingdom"
+  },
+  {
+    "id": "16519",
+    "url": "https://www.vlr.gg/team/16519/seas-suas",
+    "name": "Seas Suas",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Ireland"
   },
   {
     "id": "13249",
@@ -3213,13 +3213,6 @@
     "country": "International"
   },
   {
-    "id": "16768",
-    "url": "https://www.vlr.gg/team/16768/fractious-esports",
-    "name": "Fractious Esports",
-    "img": "https://owcdn.net/img/6799c3f254ad6.png",
-    "country": "Spain"
-  },
-  {
     "id": "8924",
     "url": "https://www.vlr.gg/team/8924/ramboot-club",
     "name": "Ramboot Club",
@@ -3227,11 +3220,11 @@
     "country": "Spain"
   },
   {
-    "id": "15837",
-    "url": "https://www.vlr.gg/team/15837/uniway",
-    "name": "UNIWAY",
-    "img": "https://owcdn.net/img/67806b002f396.png",
-    "country": "Russia"
+    "id": "16768",
+    "url": "https://www.vlr.gg/team/16768/fractious-esports",
+    "name": "Fractious Esports",
+    "img": "https://owcdn.net/img/6799c3f254ad6.png",
+    "country": "Spain"
   },
   {
     "id": "9431",
@@ -3241,39 +3234,11 @@
     "country": "Romania"
   },
   {
-    "id": "17428",
-    "url": "https://www.vlr.gg/team/17428/eco-fireflies",
-    "name": "ECO Fireflies",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "14369",
-    "url": "https://www.vlr.gg/team/14369/flame-hard",
-    "name": "Flame Hard",
-    "img": "https://owcdn.net/img/6580d57b6bb2a.png",
-    "country": "Portugal"
-  },
-  {
-    "id": "13561",
-    "url": "https://www.vlr.gg/team/13561/ranked-demons",
-    "name": "RANKED DEMONS",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Turkey"
-  },
-  {
-    "id": "15043",
-    "url": "https://www.vlr.gg/team/15043/x1-esports",
-    "name": "X1 Esports",
-    "img": "https://owcdn.net/img/66b702aac4fa2.png",
-    "country": "Turkey"
-  },
-  {
-    "id": "12346",
-    "url": "https://www.vlr.gg/team/12346/sandkasse",
-    "name": "Sandkasse",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "id": "15837",
+    "url": "https://www.vlr.gg/team/15837/uniway",
+    "name": "UNIWAY",
+    "img": "https://owcdn.net/img/67806b002f396.png",
+    "country": "Russia"
   },
   {
     "id": "17227",
@@ -3283,18 +3248,18 @@
     "country": "Europe"
   },
   {
+    "id": "15043",
+    "url": "https://www.vlr.gg/team/15043/x1-esports",
+    "name": "X1 Esports",
+    "img": "https://owcdn.net/img/66b702aac4fa2.png",
+    "country": "Turkey"
+  },
+  {
     "id": "10417",
     "url": "https://www.vlr.gg/team/10417/formulation-gaming",
     "name": "Formulation Gaming",
     "img": "https://owcdn.net/img/6583ce375398a.png",
     "country": "Europe"
-  },
-  {
-    "id": "16557",
-    "url": "https://www.vlr.gg/team/16557/pulse-esports",
-    "name": "PULSE Esports",
-    "img": "https://owcdn.net/img/676a01706614d.png",
-    "country": "Turkey"
   },
   {
     "id": "16995",
@@ -3304,18 +3269,46 @@
     "country": "Europe"
   },
   {
+    "id": "12346",
+    "url": "https://www.vlr.gg/team/12346/sandkasse",
+    "name": "Sandkasse",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "16557",
+    "url": "https://www.vlr.gg/team/16557/pulse-esports",
+    "name": "PULSE Esports",
+    "img": "https://owcdn.net/img/676a01706614d.png",
+    "country": "Turkey"
+  },
+  {
+    "id": "13561",
+    "url": "https://www.vlr.gg/team/13561/ranked-demons",
+    "name": "RANKED DEMONS",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Turkey"
+  },
+  {
+    "id": "14369",
+    "url": "https://www.vlr.gg/team/14369/flame-hard",
+    "name": "Flame Hard",
+    "img": "https://owcdn.net/img/6580d57b6bb2a.png",
+    "country": "Portugal"
+  },
+  {
+    "id": "17428",
+    "url": "https://www.vlr.gg/team/17428/eco-fireflies",
+    "name": "ECO Fireflies",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
     "id": "17597",
     "url": "https://www.vlr.gg/team/17597/bitfix-academy",
     "name": "Bitfix Academy",
     "img": "https://owcdn.net/img/642c76a94a808.png",
     "country": "Norway"
-  },
-  {
-    "id": "9066",
-    "url": "https://www.vlr.gg/team/9066/extreme-gaming",
-    "name": "eXtreme Gaming",
-    "img": "https://owcdn.net/img/62eaa8ed56ab4.png",
-    "country": "Serbia"
   },
   {
     "id": "16517",
@@ -3330,6 +3323,13 @@
     "name": "Monkey Momentum",
     "img": "https://owcdn.net/img/61ee293c67a68.png",
     "country": "Europe"
+  },
+  {
+    "id": "9066",
+    "url": "https://www.vlr.gg/team/9066/extreme-gaming",
+    "name": "eXtreme Gaming",
+    "img": "https://owcdn.net/img/62eaa8ed56ab4.png",
+    "country": "Serbia"
   },
   {
     "id": "9351",
@@ -3367,18 +3367,11 @@
     "country": "International"
   },
   {
-    "id": "4686",
-    "url": "https://www.vlr.gg/team/4686/fire-flux-esports",
-    "name": "Fire Flux Esports",
-    "img": "https://owcdn.net/img/60b41997755c0.png",
+    "id": "9077",
+    "url": "https://www.vlr.gg/team/9077/s2g-esports",
+    "name": "S2G Esports",
+    "img": "https://owcdn.net/img/628ccb7095263.png",
     "country": "Turkey"
-  },
-  {
-    "id": "12868",
-    "url": "https://www.vlr.gg/team/12868/imperium-gaming",
-    "name": "Imperium Gaming",
-    "img": "https://owcdn.net/img/66617bf6bf70e.png",
-    "country": "Spain"
   },
   {
     "id": "17717",
@@ -3388,11 +3381,11 @@
     "country": "International"
   },
   {
-    "id": "16192",
-    "url": "https://www.vlr.gg/team/16192/lfo",
-    "name": "LFO",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
+    "id": "12868",
+    "url": "https://www.vlr.gg/team/12868/imperium-gaming",
+    "name": "Imperium Gaming",
+    "img": "https://owcdn.net/img/66617bf6bf70e.png",
+    "country": "Spain"
   },
   {
     "id": "12256",
@@ -3400,6 +3393,13 @@
     "name": "Akroma",
     "img": "https://owcdn.net/img/6599526db80f1.png",
     "country": "France"
+  },
+  {
+    "id": "16192",
+    "url": "https://www.vlr.gg/team/16192/lfo",
+    "name": "LFO",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
   },
   {
     "id": "16402",
@@ -3472,13 +3472,6 @@
     "country": "Turkey"
   },
   {
-    "id": "12958",
-    "url": "https://www.vlr.gg/team/12958/sila4i",
-    "name": "Sila4i",
-    "img": "https://owcdn.net/img/65da42b4528ea.png",
-    "country": "Ukraine"
-  },
-  {
     "id": "14125",
     "url": "https://www.vlr.gg/team/14125/sogbox",
     "name": "SOGBOX",
@@ -3486,11 +3479,11 @@
     "country": "International"
   },
   {
-    "id": "16515",
-    "url": "https://www.vlr.gg/team/16515/big-brain-community",
-    "name": "Big Brain Community",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Ireland"
+    "id": "12958",
+    "url": "https://www.vlr.gg/team/12958/sila4i",
+    "name": "Sila4i",
+    "img": "https://owcdn.net/img/65da42b4528ea.png",
+    "country": "Ukraine"
   },
   {
     "id": "7101",
@@ -3500,31 +3493,17 @@
     "country": "Italy"
   },
   {
+    "id": "16515",
+    "url": "https://www.vlr.gg/team/16515/big-brain-community",
+    "name": "Big Brain Community",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Ireland"
+  },
+  {
     "id": "16191",
     "url": "https://www.vlr.gg/team/16191/honeybadger123",
     "name": "Honeybadger123",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
-  },
-  {
-    "id": "9077",
-    "url": "https://www.vlr.gg/team/9077/s2g-esports",
-    "name": "S2G Esports",
-    "img": "https://owcdn.net/img/628ccb7095263.png",
-    "country": "Turkey"
-  },
-  {
-    "id": "8877",
-    "url": "https://www.vlr.gg/team/8877/karmine-corp",
-    "name": "Karmine Corp",
-    "img": "https://owcdn.net/img/627403a0d9e48.png",
-    "country": "Europe"
-  },
-  {
-    "id": "16433",
-    "url": "https://www.vlr.gg/team/16433/royal-legion",
-    "name": "Royal Legion",
-    "img": "https://owcdn.net/img/66f09bcc5b1dd.png",
     "country": "Europe"
   },
   {
@@ -3535,11 +3514,25 @@
     "country": "Italy"
   },
   {
+    "id": "16433",
+    "url": "https://www.vlr.gg/team/16433/royal-legion",
+    "name": "Royal Legion",
+    "img": "https://owcdn.net/img/66f09bcc5b1dd.png",
+    "country": "Europe"
+  },
+  {
     "id": "11976",
     "url": "https://www.vlr.gg/team/11976/kaizen",
     "name": "Kaizen",
     "img": "https://owcdn.net/img/64176aee5aa9b.png",
     "country": "International"
+  },
+  {
+    "id": "8877",
+    "url": "https://www.vlr.gg/team/8877/karmine-corp",
+    "name": "Karmine Corp",
+    "img": "https://owcdn.net/img/627403a0d9e48.png",
+    "country": "Europe"
   },
   {
     "id": "12114",
@@ -3549,11 +3542,11 @@
     "country": "France"
   },
   {
-    "id": "12354",
-    "url": "https://www.vlr.gg/team/12354/team-legion",
-    "name": "Team Legion",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "id": "4686",
+    "url": "https://www.vlr.gg/team/4686/fire-flux-esports",
+    "name": "Fire Flux Esports",
+    "img": "https://owcdn.net/img/60b41997755c0.png",
+    "country": "Turkey"
   },
   {
     "id": "11240",
@@ -3561,6 +3554,13 @@
     "name": "eQuizers",
     "img": "https://owcdn.net/img/63ae5c5c21e61.png",
     "country": "Spain"
+  },
+  {
+    "id": "12354",
+    "url": "https://www.vlr.gg/team/12354/team-legion",
+    "name": "Team Legion",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
   },
   {
     "id": "15707",
@@ -3584,6 +3584,13 @@
     "country": "Spain"
   },
   {
+    "id": "9814",
+    "url": "https://www.vlr.gg/team/9814/fuzos",
+    "name": "FUZOS",
+    "img": "https://owcdn.net/img/6555b7171cbb6.png",
+    "country": "Portugal"
+  },
+  {
     "id": "16993",
     "url": "https://www.vlr.gg/team/16993/666eclipse",
     "name": "666Eclipse",
@@ -3598,11 +3605,11 @@
     "country": "International"
   },
   {
-    "id": "9814",
-    "url": "https://www.vlr.gg/team/9814/fuzos",
-    "name": "FUZOS",
-    "img": "https://owcdn.net/img/6555b7171cbb6.png",
-    "country": "Portugal"
+    "id": "16523",
+    "url": "https://www.vlr.gg/team/16523/uy-pilipins",
+    "name": "uy pilipins",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Ireland"
   },
   {
     "id": "14463",
@@ -3612,11 +3619,11 @@
     "country": "Spain"
   },
   {
-    "id": "16523",
-    "url": "https://www.vlr.gg/team/16523/uy-pilipins",
-    "name": "uy pilipins",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Ireland"
+    "id": "17098",
+    "url": "https://www.vlr.gg/team/17098/revenant",
+    "name": "Revenant",
+    "img": "https://owcdn.net/img/67b0e8c2f2eb0.png",
+    "country": "Italy"
   },
   {
     "id": "17205",
@@ -3624,13 +3631,6 @@
     "name": "MuSe",
     "img": "https://owcdn.net/img/67ae7cbfc8173.png",
     "country": "Latvia"
-  },
-  {
-    "id": "17098",
-    "url": "https://www.vlr.gg/team/17098/revenant",
-    "name": "Revenant",
-    "img": "https://owcdn.net/img/67b0e8c2f2eb0.png",
-    "country": "Italy"
   },
   {
     "id": "13779",
@@ -3661,6 +3661,13 @@
     "country": "Spain"
   },
   {
+    "id": "4762",
+    "url": "https://www.vlr.gg/team/4762/galakticos",
+    "name": "Galakticos",
+    "img": "https://owcdn.net/img/63c5c07322f2d.png",
+    "country": "Turkey"
+  },
+  {
     "id": "15494",
     "url": "https://www.vlr.gg/team/15494/dmg-esports",
     "name": "DMG Esports",
@@ -3673,13 +3680,6 @@
     "name": "Tamaria Altunga Esports",
     "img": "https://owcdn.net/img/64baa47646520.png",
     "country": "Turkey"
-  },
-  {
-    "id": "16629",
-    "url": "https://www.vlr.gg/team/16629/twisted-saints-esports",
-    "name": "Twisted Saints Esports",
-    "img": "https://owcdn.net/img/671ea56891df3.png",
-    "country": "United Kingdom"
   },
   {
     "id": "8258",
@@ -3696,11 +3696,25 @@
     "country": "International"
   },
   {
+    "id": "16629",
+    "url": "https://www.vlr.gg/team/16629/twisted-saints-esports",
+    "name": "Twisted Saints Esports",
+    "img": "https://owcdn.net/img/671ea56891df3.png",
+    "country": "United Kingdom"
+  },
+  {
     "id": "15495",
     "url": "https://www.vlr.gg/team/15495/ionized-esports",
     "name": "Ionized Esports",
     "img": "https://owcdn.net/img/671ea6faa3383.png",
     "country": "Norway"
+  },
+  {
+    "id": "17585",
+    "url": "https://www.vlr.gg/team/17585/esperg-rde-esport-hulen",
+    "name": "Espergærde eSport huleN",
+    "img": "https://owcdn.net/img/6429c7b98e3ba.png",
+    "country": "Denmark"
   },
   {
     "id": "16401",
@@ -3722,13 +3736,6 @@
     "name": "GTZ Esports",
     "img": "https://owcdn.net/img/632a1a644a0fd.png",
     "country": "Portugal"
-  },
-  {
-    "id": "17585",
-    "url": "https://www.vlr.gg/team/17585/esperg-rde-esport-hulen",
-    "name": "Espergærde eSport huleN",
-    "img": "https://owcdn.net/img/6429c7b98e3ba.png",
-    "country": "Denmark"
   },
   {
     "id": "15174",
@@ -3766,18 +3773,18 @@
     "country": "Denmark"
   },
   {
-    "id": "13106",
-    "url": "https://www.vlr.gg/team/13106/lundqvist-lightside",
-    "name": "Lundqvist Lightside",
-    "img": "https://owcdn.net/img/67baa67b5584b.png",
-    "country": "International"
-  },
-  {
     "id": "16405",
     "url": "https://www.vlr.gg/team/16405/v-ster-s-esportf-rening",
     "name": "Västerås Esportförening",
     "img": "https://owcdn.net/img/67ca198bebb2d.png",
     "country": "Sweden"
+  },
+  {
+    "id": "13106",
+    "url": "https://www.vlr.gg/team/13106/lundqvist-lightside",
+    "name": "Lundqvist Lightside",
+    "img": "https://owcdn.net/img/67baa67b5584b.png",
+    "country": "International"
   },
   {
     "id": "10332",
@@ -3815,18 +3822,18 @@
     "country": "Finland"
   },
   {
-    "id": "16400",
-    "url": "https://www.vlr.gg/team/16400/pushar-aldrig-nykter",
-    "name": "Pushar Aldrig Nykter",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
     "id": "9048",
     "url": "https://www.vlr.gg/team/9048/nt4h-sunrise",
     "name": "NT4H Sunrise",
     "img": "https://owcdn.net/img/6433bf564ec21.png",
     "country": "Germany"
+  },
+  {
+    "id": "16400",
+    "url": "https://www.vlr.gg/team/16400/pushar-aldrig-nykter",
+    "name": "Pushar Aldrig Nykter",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
   },
   {
     "id": "10416",
@@ -3920,13 +3927,6 @@
     "country": "Portugal"
   },
   {
-    "id": "4669",
-    "url": "https://www.vlr.gg/team/4669/digital-athletics",
-    "name": "Digital Athletics",
-    "img": "https://owcdn.net/img/622e8644004d9.png",
-    "country": "Turkey"
-  },
-  {
     "id": "548",
     "url": "https://www.vlr.gg/team/548/wygers",
     "name": "Wygers",
@@ -3990,13 +3990,6 @@
     "country": "Europe"
   },
   {
-    "id": "5091",
-    "url": "https://www.vlr.gg/team/5091/rizon",
-    "name": "RIZON",
-    "img": "https://owcdn.net/img/657eca10317fb.png",
-    "country": "Germany"
-  },
-  {
     "id": "16513",
     "url": "https://www.vlr.gg/team/16513/buvik-esport",
     "name": "Buvik Esport",
@@ -4004,11 +3997,18 @@
     "country": "International"
   },
   {
-    "id": "1316",
-    "url": "https://www.vlr.gg/team/1316/qlash",
-    "name": "QLASH",
-    "img": "https://owcdn.net/img/62efc0067ed80.png",
-    "country": "Italy"
+    "id": "5091",
+    "url": "https://www.vlr.gg/team/5091/rizon",
+    "name": "RIZON",
+    "img": "https://owcdn.net/img/657eca10317fb.png",
+    "country": "Germany"
+  },
+  {
+    "id": "4669",
+    "url": "https://www.vlr.gg/team/4669/digital-athletics",
+    "name": "Digital Athletics",
+    "img": "https://owcdn.net/img/622e8644004d9.png",
+    "country": "Turkey"
   },
   {
     "id": "16392",
@@ -4016,6 +4016,13 @@
     "name": "UKC Esport",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Denmark"
+  },
+  {
+    "id": "1316",
+    "url": "https://www.vlr.gg/team/1316/qlash",
+    "name": "QLASH",
+    "img": "https://owcdn.net/img/62efc0067ed80.png",
+    "country": "Italy"
   },
   {
     "id": "15158",
@@ -4095,17 +4102,17 @@
     "country": "Brazil"
   },
   {
-    "id": "7386",
-    "url": "https://www.vlr.gg/team/7386/mibr",
-    "name": "MIBR",
-    "img": "https://owcdn.net/img/632be7626d6d9.png",
-    "country": "Brazil"
-  },
-  {
     "id": "17127",
     "url": "https://www.vlr.gg/team/17127/corinthians-esports",
     "name": "Corinthians Esports",
     "img": "https://owcdn.net/img/67665f186e8a8.png",
+    "country": "Brazil"
+  },
+  {
+    "id": "7386",
+    "url": "https://www.vlr.gg/team/7386/mibr",
+    "name": "MIBR",
+    "img": "https://owcdn.net/img/632be7626d6d9.png",
     "country": "Brazil"
   },
   {
@@ -4144,17 +4151,10 @@
     "country": "Brazil"
   },
   {
-    "id": "16154",
-    "url": "https://www.vlr.gg/team/16154/gr-mio-esports",
-    "name": "Grêmio Esports",
-    "img": "https://owcdn.net/img/67257b5a8d3f1.png",
-    "country": "Brazil"
-  },
-  {
-    "id": "7332",
-    "url": "https://www.vlr.gg/team/7332/los-grandes",
-    "name": "Los Grandes",
-    "img": "https://owcdn.net/img/6798d84cbb88b.png",
+    "id": "17094",
+    "url": "https://www.vlr.gg/team/17094/furia-academy",
+    "name": "FURIA Academy",
+    "img": "https://owcdn.net/img/67a18f336c9f4.png",
     "country": "Brazil"
   },
   {
@@ -4165,6 +4165,13 @@
     "country": "Brazil"
   },
   {
+    "id": "7332",
+    "url": "https://www.vlr.gg/team/7332/los-grandes",
+    "name": "Los Grandes",
+    "img": "https://owcdn.net/img/6798d84cbb88b.png",
+    "country": "Brazil"
+  },
+  {
     "id": "16068",
     "url": "https://www.vlr.gg/team/16068/f4tality",
     "name": "F4TALITY",
@@ -4172,10 +4179,10 @@
     "country": "Brazil"
   },
   {
-    "id": "7655",
-    "url": "https://www.vlr.gg/team/7655/agropesca-jacare",
-    "name": "Agropesca Jacare",
-    "img": "https://owcdn.net/img/6798af4757116.png",
+    "id": "16154",
+    "url": "https://www.vlr.gg/team/16154/gr-mio-esports",
+    "name": "Grêmio Esports",
+    "img": "https://owcdn.net/img/67257b5a8d3f1.png",
     "country": "Brazil"
   },
   {
@@ -4183,6 +4190,13 @@
     "url": "https://www.vlr.gg/team/15479/underhounds",
     "name": "Underhounds",
     "img": "https://owcdn.net/img/6690473b1d799.png",
+    "country": "Brazil"
+  },
+  {
+    "id": "7655",
+    "url": "https://www.vlr.gg/team/7655/agropesca-jacare",
+    "name": "Agropesca Jacare",
+    "img": "https://owcdn.net/img/6798af4757116.png",
     "country": "Brazil"
   },
   {
@@ -4249,11 +4263,11 @@
     "country": "Vietnam"
   },
   {
-    "id": "4330",
-    "url": "https://www.vlr.gg/team/4330/fancy-united-esports",
-    "name": "Fancy United Esports",
-    "img": "https://owcdn.net/img/626a5cb665a9a.png",
-    "country": "Vietnam"
+    "id": "799",
+    "url": "https://www.vlr.gg/team/799/velocity-gaming",
+    "name": "Velocity Gaming",
+    "img": "https://owcdn.net/img/644409df4d0bc.png",
+    "country": "India"
   },
   {
     "id": "6199",
@@ -4263,18 +4277,18 @@
     "country": "Philippines"
   },
   {
-    "id": "799",
-    "url": "https://www.vlr.gg/team/799/velocity-gaming",
-    "name": "Velocity Gaming",
-    "img": "https://owcdn.net/img/644409df4d0bc.png",
-    "country": "India"
-  },
-  {
     "id": "8375",
     "url": "https://www.vlr.gg/team/8375/zol-esports",
     "name": "ZOL Esports",
     "img": "https://owcdn.net/img/6565ed37899fb.png",
     "country": "Philippines"
+  },
+  {
+    "id": "4330",
+    "url": "https://www.vlr.gg/team/4330/fancy-united-esports",
+    "name": "Fancy United Esports",
+    "img": "https://owcdn.net/img/626a5cb665a9a.png",
+    "country": "Vietnam"
   },
   {
     "id": "8304",
@@ -4291,13 +4305,6 @@
     "country": "Indonesia"
   },
   {
-    "id": "16645",
-    "url": "https://www.vlr.gg/team/16645/ignite",
-    "name": "IGNITE",
-    "img": "https://owcdn.net/img/6719c5a6a3787.png",
-    "country": "Singapore"
-  },
-  {
     "id": "18035",
     "url": "https://www.vlr.gg/team/18035/",
     "name": "黎明企鵝",
@@ -4305,18 +4312,25 @@
     "country": "Taiwan"
   },
   {
-    "id": "2814",
-    "url": "https://www.vlr.gg/team/2814/bigetron-arctic",
-    "name": "Bigetron Arctic",
-    "img": "https://owcdn.net/img/63870500d0d89.png",
-    "country": "Indonesia"
-  },
-  {
     "id": "8904",
     "url": "https://www.vlr.gg/team/8904/orangutan",
     "name": "Orangutan",
     "img": "https://owcdn.net/img/65f6a278338a3.png",
     "country": "India"
+  },
+  {
+    "id": "16645",
+    "url": "https://www.vlr.gg/team/16645/ignite",
+    "name": "IGNITE",
+    "img": "https://owcdn.net/img/6719c5a6a3787.png",
+    "country": "Singapore"
+  },
+  {
+    "id": "2814",
+    "url": "https://www.vlr.gg/team/2814/bigetron-arctic",
+    "name": "Bigetron Arctic",
+    "img": "https://owcdn.net/img/63870500d0d89.png",
+    "country": "Indonesia"
   },
   {
     "id": "5419",
@@ -4347,6 +4361,13 @@
     "country": "Pakistan"
   },
   {
+    "id": "623",
+    "url": "https://www.vlr.gg/team/623/sharper-esport",
+    "name": "Sharper Esport",
+    "img": "https://owcdn.net/img/62bbeefb37a75.png",
+    "country": "Thailand"
+  },
+  {
     "id": "15237",
     "url": "https://www.vlr.gg/team/15237/the-mongolz",
     "name": "The MongolZ",
@@ -4354,11 +4375,11 @@
     "country": "Mongolia"
   },
   {
-    "id": "3136",
-    "url": "https://www.vlr.gg/team/3136/oasis-gaming",
-    "name": "Oasis Gaming",
-    "img": "https://owcdn.net/img/629f15187dd71.png",
-    "country": "Philippines"
+    "id": "14617",
+    "url": "https://www.vlr.gg/team/14617/xgod",
+    "name": "XGOD",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
   },
   {
     "id": "17138",
@@ -4366,6 +4387,13 @@
     "name": "Himothys",
     "img": "https://owcdn.net/img/677a9e289e54e.png",
     "country": "Singapore"
+  },
+  {
+    "id": "8303",
+    "url": "https://www.vlr.gg/team/8303/s2-esports",
+    "name": "S2 Esports",
+    "img": "https://owcdn.net/img/636f05b23aae9.png",
+    "country": "Taiwan"
   },
   {
     "id": "7397",
@@ -4396,13 +4424,6 @@
     "country": "Indonesia"
   },
   {
-    "id": "623",
-    "url": "https://www.vlr.gg/team/623/sharper-esport",
-    "name": "Sharper Esport",
-    "img": "https://owcdn.net/img/62bbeefb37a75.png",
-    "country": "Thailand"
-  },
-  {
     "id": "17066",
     "url": "https://www.vlr.gg/team/17066/soi-thai-esports",
     "name": "Soi Thai Esports",
@@ -4410,18 +4431,18 @@
     "country": "Singapore"
   },
   {
-    "id": "14617",
-    "url": "https://www.vlr.gg/team/14617/xgod",
-    "name": "XGOD",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
+    "id": "3136",
+    "url": "https://www.vlr.gg/team/3136/oasis-gaming",
+    "name": "Oasis Gaming",
+    "img": "https://owcdn.net/img/629f15187dd71.png",
+    "country": "Philippines"
   },
   {
-    "id": "8303",
-    "url": "https://www.vlr.gg/team/8303/s2-esports",
-    "name": "S2 Esports",
-    "img": "https://owcdn.net/img/636f05b23aae9.png",
-    "country": "Taiwan"
+    "id": "6665",
+    "url": "https://www.vlr.gg/team/6665/team-nkt",
+    "name": "Team NKT",
+    "img": "https://owcdn.net/img/6368c0567ad46.png",
+    "country": "Thailand"
   },
   {
     "id": "15058",
@@ -4431,13 +4452,6 @@
     "country": "Philippines"
   },
   {
-    "id": "5931",
-    "url": "https://www.vlr.gg/team/5931/team-big-baam",
-    "name": "Team Big BAAM",
-    "img": "https://owcdn.net/img/622c9ef0ac739.png",
-    "country": "Vietnam"
-  },
-  {
     "id": "16914",
     "url": "https://www.vlr.gg/team/16914/talon-academy",
     "name": "TALON Academy",
@@ -4445,11 +4459,11 @@
     "country": "Thailand"
   },
   {
-    "id": "8925",
-    "url": "https://www.vlr.gg/team/8925/arf-team",
-    "name": "ARF TEAM",
-    "img": "https://owcdn.net/img/6278619778f59.png",
-    "country": "Indonesia"
+    "id": "5931",
+    "url": "https://www.vlr.gg/team/5931/team-big-baam",
+    "name": "Team Big BAAM",
+    "img": "https://owcdn.net/img/622c9ef0ac739.png",
+    "country": "Vietnam"
   },
   {
     "id": "17116",
@@ -4494,18 +4508,18 @@
     "country": "Vietnam"
   },
   {
-    "id": "16800",
-    "url": "https://www.vlr.gg/team/16800/overpowered-youths",
-    "name": "OverPowered Youths",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Singapore"
-  },
-  {
     "id": "918",
     "url": "https://www.vlr.gg/team/918/global-esports",
     "name": "Global Esports",
     "img": "https://owcdn.net/img/629f316ddd4dd.png",
     "country": "India"
+  },
+  {
+    "id": "16800",
+    "url": "https://www.vlr.gg/team/16800/overpowered-youths",
+    "name": "OverPowered Youths",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Singapore"
   },
   {
     "id": "5907",
@@ -4522,6 +4536,13 @@
     "country": "Singapore"
   },
   {
+    "id": "8925",
+    "url": "https://www.vlr.gg/team/8925/arf-team",
+    "name": "ARF TEAM",
+    "img": "https://owcdn.net/img/6278619778f59.png",
+    "country": "Indonesia"
+  },
+  {
     "id": "15306",
     "url": "https://www.vlr.gg/team/15306/chinggis-warriors",
     "name": "Chinggis Warriors",
@@ -4536,25 +4557,11 @@
     "country": "Vietnam"
   },
   {
-    "id": "6665",
-    "url": "https://www.vlr.gg/team/6665/team-nkt",
-    "name": "Team NKT",
-    "img": "https://owcdn.net/img/6368c0567ad46.png",
-    "country": "Thailand"
-  },
-  {
     "id": "16312",
     "url": "https://www.vlr.gg/team/16312/team-serenity",
     "name": "Team Serenity",
     "img": "https://owcdn.net/img/66ed6315e5707.png",
     "country": "Pakistan"
-  },
-  {
-    "id": "17139",
-    "url": "https://www.vlr.gg/team/17139/rival-esports",
-    "name": "Rival Esports",
-    "img": "https://owcdn.net/img/676e7e67472f5.png",
-    "country": "Singapore"
   },
   {
     "id": "11110",
@@ -4564,18 +4571,18 @@
     "country": "Philippines"
   },
   {
+    "id": "17139",
+    "url": "https://www.vlr.gg/team/17139/rival-esports",
+    "name": "Rival Esports",
+    "img": "https://owcdn.net/img/676e7e67472f5.png",
+    "country": "Singapore"
+  },
+  {
     "id": "17129",
     "url": "https://www.vlr.gg/team/17129/ihc-esports",
     "name": "IHC Esports",
     "img": "https://owcdn.net/img/67693d95ca703.png",
     "country": "Mongolia"
-  },
-  {
-    "id": "1033",
-    "url": "https://www.vlr.gg/team/1033/reckoning-esports",
-    "name": "Reckoning Esports",
-    "img": "https://owcdn.net/img/5f7b4a299fe14.png",
-    "country": "India"
   },
   {
     "id": "18042",
@@ -4606,18 +4613,18 @@
     "country": "Malaysia"
   },
   {
-    "id": "17751",
-    "url": "https://www.vlr.gg/team/17751/leones-invicti",
-    "name": "Leones Invicti",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Indonesia"
-  },
-  {
     "id": "16167",
     "url": "https://www.vlr.gg/team/16167/morrigans-incomplete",
     "name": "Morrigans Incomplete",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Maldives"
+  },
+  {
+    "id": "17751",
+    "url": "https://www.vlr.gg/team/17751/leones-invicti",
+    "name": "Leones Invicti",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Indonesia"
   },
   {
     "id": "17150",
@@ -4641,18 +4648,18 @@
     "country": "Taiwan"
   },
   {
+    "id": "1033",
+    "url": "https://www.vlr.gg/team/1033/reckoning-esports",
+    "name": "Reckoning Esports",
+    "img": "https://owcdn.net/img/5f7b4a299fe14.png",
+    "country": "India"
+  },
+  {
     "id": "15426",
     "url": "https://www.vlr.gg/team/15426/the-people",
     "name": "the people",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Maldives"
-  },
-  {
-    "id": "17590",
-    "url": "https://www.vlr.gg/team/17590/369",
-    "name": "369",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Singapore"
   },
   {
     "id": "17641",
@@ -4662,11 +4669,11 @@
     "country": "Singapore"
   },
   {
-    "id": "14196",
-    "url": "https://www.vlr.gg/team/14196/apac-slayer",
-    "name": "APAC Slayer",
+    "id": "17590",
+    "url": "https://www.vlr.gg/team/17590/369",
+    "name": "369",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Indonesia"
+    "country": "Singapore"
   },
   {
     "id": "17949",
@@ -4674,6 +4681,13 @@
     "name": "NEBULA",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Thailand"
+  },
+  {
+    "id": "14196",
+    "url": "https://www.vlr.gg/team/14196/apac-slayer",
+    "name": "APAC Slayer",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Indonesia"
   },
   {
     "id": "16792",
@@ -4690,13 +4704,6 @@
     "country": "India"
   },
   {
-    "id": "16170",
-    "url": "https://www.vlr.gg/team/16170/the-ult-orbs",
-    "name": "The Ult Orbs",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Maldives"
-  },
-  {
     "id": "13768",
     "url": "https://www.vlr.gg/team/13768/mibh",
     "name": "MiBH",
@@ -4709,6 +4716,13 @@
     "name": "รู้พิกัด",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Thailand"
+  },
+  {
+    "id": "16170",
+    "url": "https://www.vlr.gg/team/16170/the-ult-orbs",
+    "name": "The Ult Orbs",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Maldives"
   },
   {
     "id": "12209",
@@ -4739,20 +4753,6 @@
     "country": "Philippines"
   },
   {
-    "id": "17895",
-    "url": "https://www.vlr.gg/team/17895/freshbestseakimmark",
-    "name": "freshbestseakimmark",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
-  },
-  {
-    "id": "17894",
-    "url": "https://www.vlr.gg/team/17894/esan-gangster",
-    "name": "ESAN GANGSTER",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
-  },
-  {
     "id": "14110",
     "url": "https://www.vlr.gg/team/14110/mara-esport",
     "name": "MARA Esport",
@@ -4767,11 +4767,25 @@
     "country": "Vietnam"
   },
   {
-    "id": "17699",
-    "url": "https://www.vlr.gg/team/17699/indias-last-hope",
-    "name": "India's Last Hope",
+    "id": "17895",
+    "url": "https://www.vlr.gg/team/17895/freshbestseakimmark",
+    "name": "freshbestseakimmark",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "India"
+    "country": "Thailand"
+  },
+  {
+    "id": "17894",
+    "url": "https://www.vlr.gg/team/17894/esan-gangster",
+    "name": "ESAN GANGSTER",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
+  },
+  {
+    "id": "14619",
+    "url": "https://www.vlr.gg/team/14619/mercurialz-esport",
+    "name": "Mercurialz Esport",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
   },
   {
     "id": "17930",
@@ -4781,9 +4795,51 @@
     "country": "Thailand"
   },
   {
-    "id": "14619",
-    "url": "https://www.vlr.gg/team/14619/mercurialz-esport",
-    "name": "Mercurialz Esport",
+    "id": "17699",
+    "url": "https://www.vlr.gg/team/17699/indias-last-hope",
+    "name": "India's Last Hope",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "India"
+  },
+  {
+    "id": "17905",
+    "url": "https://www.vlr.gg/team/17905/xuouuoe",
+    "name": "xuouuoe",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
+  },
+  {
+    "id": "17912",
+    "url": "https://www.vlr.gg/team/17912/shinthejang",
+    "name": "SHINTHEJANG",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
+  },
+  {
+    "id": "17913",
+    "url": "https://www.vlr.gg/team/17913/rub-hlo-kub",
+    "name": "RUB HLO KUB",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
+  },
+  {
+    "id": "5960",
+    "url": "https://www.vlr.gg/team/5960/beast",
+    "name": "BEAST",
+    "img": "https://owcdn.net/img/6186477795035.png",
+    "country": "Indonesia"
+  },
+  {
+    "id": "17889",
+    "url": "https://www.vlr.gg/team/17889/starboy",
+    "name": "STARBOY",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
+  },
+  {
+    "id": "17915",
+    "url": "https://www.vlr.gg/team/17915/muse",
+    "name": "Muse ปฏิทิน",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Thailand"
   },
@@ -4802,53 +4858,18 @@
     "country": "Thailand"
   },
   {
-    "id": "17913",
-    "url": "https://www.vlr.gg/team/17913/rub-hlo-kub",
-    "name": "RUB HLO KUB",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
-  },
-  {
-    "id": "17889",
-    "url": "https://www.vlr.gg/team/17889/starboy",
-    "name": "STARBOY",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
-  },
-  {
-    "id": "5960",
-    "url": "https://www.vlr.gg/team/5960/beast",
-    "name": "BEAST",
-    "img": "https://owcdn.net/img/6186477795035.png",
-    "country": "Indonesia"
-  },
-  {
-    "id": "17915",
-    "url": "https://www.vlr.gg/team/17915/muse",
-    "name": "Muse ปฏิทิน",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
-  },
-  {
-    "id": "17905",
-    "url": "https://www.vlr.gg/team/17905/xuouuoe",
-    "name": "xuouuoe",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
-  },
-  {
-    "id": "17912",
-    "url": "https://www.vlr.gg/team/17912/shinthejang",
-    "name": "SHINTHEJANG",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
-  },
-  {
     "id": "17119",
     "url": "https://www.vlr.gg/team/17119/twa",
     "name": "TWA",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Taiwan"
+  },
+  {
+    "id": "7039",
+    "url": "https://www.vlr.gg/team/7039/stream-raiders-nacague",
+    "name": "Stream Raiders Nacague",
+    "img": "https://owcdn.net/img/62482815b78a4.png",
+    "country": "Philippines"
   },
   {
     "id": "16327",
@@ -4858,11 +4879,11 @@
     "country": "Pakistan"
   },
   {
-    "id": "7039",
-    "url": "https://www.vlr.gg/team/7039/stream-raiders-nacague",
-    "name": "Stream Raiders Nacague",
-    "img": "https://owcdn.net/img/62482815b78a4.png",
-    "country": "Philippines"
+    "id": "17931",
+    "url": "https://www.vlr.gg/team/17931/4-1",
+    "name": "เต็ม 4 ขาด 1",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
   },
   {
     "id": "17578",
@@ -4886,23 +4907,16 @@
     "country": "Indonesia"
   },
   {
-    "id": "17931",
-    "url": "https://www.vlr.gg/team/17931/4-1",
-    "name": "เต็ม 4 ขาด 1",
+    "id": "16171",
+    "url": "https://www.vlr.gg/team/16171/trinity",
+    "name": "Trinity",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
+    "country": "Maldives"
   },
   {
     "id": "16168",
     "url": "https://www.vlr.gg/team/16168/henveiru-monkeys",
     "name": "Henveiru Monkeys",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Maldives"
-  },
-  {
-    "id": "16171",
-    "url": "https://www.vlr.gg/team/16171/trinity",
-    "name": "Trinity",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Maldives"
   },
@@ -4928,13 +4942,6 @@
     "country": "Indonesia"
   },
   {
-    "id": "13978",
-    "url": "https://www.vlr.gg/team/13978/ivy-league-gaming",
-    "name": "Ivy League Gaming",
-    "img": "https://owcdn.net/img/6536a7a61413b.png",
-    "country": "Philippines"
-  },
-  {
     "id": "15019",
     "url": "https://www.vlr.gg/team/15019/original-gaming",
     "name": "Original Gaming",
@@ -4942,18 +4949,11 @@
     "country": "Vietnam"
   },
   {
-    "id": "5990",
-    "url": "https://www.vlr.gg/team/5990/perfectionists",
-    "name": "Perfectionists",
-    "img": "https://owcdn.net/img/66ed63d2a99c8.png",
-    "country": "Pakistan"
-  },
-  {
-    "id": "17133",
-    "url": "https://www.vlr.gg/team/17133/friendly-raccoons",
-    "name": "Friendly Raccoons",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Singapore"
+    "id": "13978",
+    "url": "https://www.vlr.gg/team/13978/ivy-league-gaming",
+    "name": "Ivy League Gaming",
+    "img": "https://owcdn.net/img/6536a7a61413b.png",
+    "country": "Philippines"
   },
   {
     "id": "17634",
@@ -4963,9 +4963,30 @@
     "country": "Singapore"
   },
   {
+    "id": "17133",
+    "url": "https://www.vlr.gg/team/17133/friendly-raccoons",
+    "name": "Friendly Raccoons",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Singapore"
+  },
+  {
+    "id": "5990",
+    "url": "https://www.vlr.gg/team/5990/perfectionists",
+    "name": "Perfectionists",
+    "img": "https://owcdn.net/img/66ed63d2a99c8.png",
+    "country": "Pakistan"
+  },
+  {
     "id": "17923",
     "url": "https://www.vlr.gg/team/17923/akatsukii",
     "name": "akatsukii",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
+  },
+  {
+    "id": "11595",
+    "url": "https://www.vlr.gg/team/11595/young",
+    "name": "Young",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Thailand"
   },
@@ -4977,11 +4998,11 @@
     "country": "Philippines"
   },
   {
-    "id": "11595",
-    "url": "https://www.vlr.gg/team/11595/young",
-    "name": "Young",
+    "id": "16163",
+    "url": "https://www.vlr.gg/team/16163/xkeliber",
+    "name": "Xkeliber",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
+    "country": "Maldives"
   },
   {
     "id": "16577",
@@ -4989,13 +5010,6 @@
     "name": "R5R5R5",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Thailand"
-  },
-  {
-    "id": "16163",
-    "url": "https://www.vlr.gg/team/16163/xkeliber",
-    "name": "Xkeliber",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Maldives"
   },
   {
     "id": "17583",
@@ -5033,18 +5047,18 @@
     "country": "Malaysia"
   },
   {
-    "id": "17677",
-    "url": "https://www.vlr.gg/team/17677/aura",
-    "name": "AURA",
-    "img": "https://owcdn.net/img/67beced893e25.png",
+    "id": "17538",
+    "url": "https://www.vlr.gg/team/17538/global-esports-academy",
+    "name": "Global Esports Academy",
+    "img": "https://owcdn.net/img/629f316ddd4dd.png",
     "country": "India"
   },
   {
-    "id": "17134",
-    "url": "https://www.vlr.gg/team/17134/heaven-sent",
-    "name": "Heaven Sent",
-    "img": "https://owcdn.net/img/67baa8e3bcc93.png",
-    "country": "Malaysia"
+    "id": "3713",
+    "url": "https://www.vlr.gg/team/3713/s8ul-esports",
+    "name": "S8UL Esports",
+    "img": "https://owcdn.net/img/67becb3c72954.png",
+    "country": "India"
   },
   {
     "id": "8929",
@@ -5054,6 +5068,13 @@
     "country": "Taiwan"
   },
   {
+    "id": "17134",
+    "url": "https://www.vlr.gg/team/17134/heaven-sent",
+    "name": "Heaven Sent",
+    "img": "https://owcdn.net/img/67baa8e3bcc93.png",
+    "country": "Malaysia"
+  },
+  {
     "id": "11309",
     "url": "https://www.vlr.gg/team/11309/le-crapaud",
     "name": "Le Crapaud",
@@ -5061,17 +5082,17 @@
     "country": "Indonesia"
   },
   {
-    "id": "11517",
-    "url": "https://www.vlr.gg/team/11517/veterans",
-    "name": "Veterans",
-    "img": "https://owcdn.net/img/6762cf445fda1.png",
-    "country": "Vietnam"
-  },
-  {
     "id": "16926",
     "url": "https://www.vlr.gg/team/16926/aim-and-chuckle",
     "name": "Aim and Chuckle",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Vietnam"
+  },
+  {
+    "id": "11517",
+    "url": "https://www.vlr.gg/team/11517/veterans",
+    "name": "Veterans",
+    "img": "https://owcdn.net/img/6762cf445fda1.png",
     "country": "Vietnam"
   },
   {
@@ -5110,13 +5131,6 @@
     "country": "Malaysia"
   },
   {
-    "id": "17149",
-    "url": "https://www.vlr.gg/team/17149/looking-for-fwends",
-    "name": "Looking for fwends",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Singapore"
-  },
-  {
     "id": "4860",
     "url": "https://www.vlr.gg/team/4860/dominus-esports",
     "name": "Dominus Esports",
@@ -5124,11 +5138,11 @@
     "country": "Vietnam"
   },
   {
-    "id": "16570",
-    "url": "https://www.vlr.gg/team/16570/oneotwo",
-    "name": "OneOTwo",
+    "id": "17149",
+    "url": "https://www.vlr.gg/team/17149/looking-for-fwends",
+    "name": "Looking for fwends",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
+    "country": "Singapore"
   },
   {
     "id": "15064",
@@ -5138,11 +5152,11 @@
     "country": "Philippines"
   },
   {
-    "id": "10592",
-    "url": "https://www.vlr.gg/team/10592/roa-esport",
-    "name": "ROA Esport",
-    "img": "https://owcdn.net/img/65bf4d751693d.png",
-    "country": "Taiwan"
+    "id": "16570",
+    "url": "https://www.vlr.gg/team/16570/oneotwo",
+    "name": "OneOTwo",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
   },
   {
     "id": "15062",
@@ -5150,6 +5164,13 @@
     "name": "NO LUCK PURE SKILL",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Philippines"
+  },
+  {
+    "id": "10592",
+    "url": "https://www.vlr.gg/team/10592/roa-esport",
+    "name": "ROA Esport",
+    "img": "https://owcdn.net/img/65bf4d751693d.png",
+    "country": "Taiwan"
   },
   {
     "id": "17577",
@@ -5201,18 +5222,18 @@
     "country": "Vietnam"
   },
   {
-    "id": "15059",
-    "url": "https://www.vlr.gg/team/15059/noxa-ares",
-    "name": "NOXA Ares",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Philippines"
-  },
-  {
     "id": "17584",
     "url": "https://www.vlr.gg/team/17584/super-washed",
     "name": "Super Washed",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Singapore"
+  },
+  {
+    "id": "15059",
+    "url": "https://www.vlr.gg/team/15059/noxa-ares",
+    "name": "NOXA Ares",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Philippines"
   },
   {
     "id": "14749",
@@ -5222,13 +5243,6 @@
     "country": "Indonesia"
   },
   {
-    "id": "8485",
-    "url": "https://www.vlr.gg/team/8485/prime-5",
-    "name": "prime 5",
-    "img": "https://owcdn.net/img/625382939bdb5.png",
-    "country": "Pakistan"
-  },
-  {
     "id": "14007",
     "url": "https://www.vlr.gg/team/14007/crocodile-tears",
     "name": "Crocodile Tears",
@@ -5236,11 +5250,11 @@
     "country": "Vietnam"
   },
   {
-    "id": "14798",
-    "url": "https://www.vlr.gg/team/14798/rox",
-    "name": "ROX",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Malaysia"
+    "id": "8485",
+    "url": "https://www.vlr.gg/team/8485/prime-5",
+    "name": "prime 5",
+    "img": "https://owcdn.net/img/625382939bdb5.png",
+    "country": "Pakistan"
   },
   {
     "id": "14761",
@@ -5248,6 +5262,13 @@
     "name": "Alternate Realities",
     "img": "https://owcdn.net/img/6640cf68389d0.png",
     "country": "India"
+  },
+  {
+    "id": "14798",
+    "url": "https://www.vlr.gg/team/14798/rox",
+    "name": "ROX",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Malaysia"
   },
   {
     "id": "15060",
@@ -5271,18 +5292,18 @@
     "country": "India"
   },
   {
-    "id": "17371",
-    "url": "https://www.vlr.gg/team/17371/sp-falcons",
-    "name": "SP Falcons",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Mongolia"
-  },
-  {
     "id": "15682",
     "url": "https://www.vlr.gg/team/15682/dis-esports",
     "name": "DIS Esports",
     "img": "https://owcdn.net/img/66409d5cb530b.png",
     "country": "Indonesia"
+  },
+  {
+    "id": "17371",
+    "url": "https://www.vlr.gg/team/17371/sp-falcons",
+    "name": "SP Falcons",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Mongolia"
   },
   {
     "id": "13374",
@@ -5313,10 +5334,10 @@
     "country": "India"
   },
   {
-    "id": "17538",
-    "url": "https://www.vlr.gg/team/17538/global-esports-academy",
-    "name": "Global Esports Academy",
-    "img": "https://owcdn.net/img/629f316ddd4dd.png",
+    "id": "17677",
+    "url": "https://www.vlr.gg/team/17677/aura",
+    "name": "AURA",
+    "img": "https://owcdn.net/img/67beced893e25.png",
     "country": "India"
   },
   {
@@ -5334,18 +5355,18 @@
     "country": "Thailand"
   },
   {
-    "id": "910",
-    "url": "https://www.vlr.gg/team/910/exceeli-esports",
-    "name": "Exceeli Esports",
-    "img": "https://owcdn.net/img/659a27a955a3a.png",
-    "country": "Bangladesh"
-  },
-  {
     "id": "16928",
     "url": "https://www.vlr.gg/team/16928/apay-academy",
     "name": "APAY Academy",
     "img": "https://owcdn.net/img/677c91f098267.png",
     "country": "Vietnam"
+  },
+  {
+    "id": "910",
+    "url": "https://www.vlr.gg/team/910/exceeli-esports",
+    "name": "Exceeli Esports",
+    "img": "https://owcdn.net/img/659a27a955a3a.png",
+    "country": "Bangladesh"
   },
   {
     "id": "14818",
@@ -5418,18 +5439,18 @@
     "country": "Taiwan"
   },
   {
-    "id": "15685",
-    "url": "https://www.vlr.gg/team/15685/asterisk",
-    "name": "Asterisk",
-    "img": "https://owcdn.net/img/66ed612a08e34.png",
-    "country": "India"
-  },
-  {
     "id": "14740",
     "url": "https://www.vlr.gg/team/14740/5-clown",
     "name": "5 Clown",
     "img": "https://owcdn.net/img/65c8fd1fabdab.png",
     "country": "Indonesia"
+  },
+  {
+    "id": "15685",
+    "url": "https://www.vlr.gg/team/15685/asterisk",
+    "name": "Asterisk",
+    "img": "https://owcdn.net/img/66ed612a08e34.png",
+    "country": "India"
   },
   {
     "id": "11318",
@@ -5495,10 +5516,10 @@
     "country": "South Korea"
   },
   {
-    "id": "12446",
-    "url": "https://www.vlr.gg/team/12446/slt-seongnam",
-    "name": "SLT Seongnam",
-    "img": "https://owcdn.net/img/641d8f2b943ee.png",
+    "id": "17392",
+    "url": "https://www.vlr.gg/team/17392/gen-g-global-academy",
+    "name": "Gen.G Global Academy",
+    "img": "https://owcdn.net/img/654cc858ea9f5.png",
     "country": "South Korea"
   },
   {
@@ -5506,13 +5527,6 @@
     "url": "https://www.vlr.gg/team/11539/blater",
     "name": "Blater",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "South Korea"
-  },
-  {
-    "id": "9749",
-    "url": "https://www.vlr.gg/team/9749/drx-academy",
-    "name": "DRX Academy",
-    "img": "https://owcdn.net/img/63b17abd77fc0.png",
     "country": "South Korea"
   },
   {
@@ -5530,10 +5544,17 @@
     "country": "South Korea"
   },
   {
-    "id": "17392",
-    "url": "https://www.vlr.gg/team/17392/gen-g-global-academy",
-    "name": "Gen.G Global Academy",
-    "img": "https://owcdn.net/img/654cc858ea9f5.png",
+    "id": "9749",
+    "url": "https://www.vlr.gg/team/9749/drx-academy",
+    "name": "DRX Academy",
+    "img": "https://owcdn.net/img/63b17abd77fc0.png",
+    "country": "South Korea"
+  },
+  {
+    "id": "12446",
+    "url": "https://www.vlr.gg/team/12446/slt-seongnam",
+    "name": "SLT Seongnam",
+    "img": "https://owcdn.net/img/641d8f2b943ee.png",
     "country": "South Korea"
   },
   {
@@ -5796,17 +5817,17 @@
     "country": "Japan"
   },
   {
-    "id": "278",
-    "url": "https://www.vlr.gg/team/278/detonation-focusme",
-    "name": "DetonatioN FocusMe",
-    "img": "https://owcdn.net/img/63972e548cdc9.png",
-    "country": "Japan"
-  },
-  {
     "id": "14383",
     "url": "https://www.vlr.gg/team/14383/noez-foxx",
     "name": "NOEZ FOXX",
     "img": "https://owcdn.net/img/65717b5a27b9f.png",
+    "country": "Japan"
+  },
+  {
+    "id": "278",
+    "url": "https://www.vlr.gg/team/278/detonation-focusme",
+    "name": "DetonatioN FocusMe",
+    "img": "https://owcdn.net/img/63972e548cdc9.png",
     "country": "Japan"
   },
   {
@@ -5824,13 +5845,6 @@
     "country": "Japan"
   },
   {
-    "id": "11490",
-    "url": "https://www.vlr.gg/team/11490/murash-gaming",
-    "name": "Murash Gaming",
-    "img": "https://owcdn.net/img/67933a8eeec46.png",
-    "country": "Japan"
-  },
-  {
     "id": "2934",
     "url": "https://www.vlr.gg/team/2934/fennel",
     "name": "FENNEL",
@@ -5842,6 +5856,13 @@
     "url": "https://www.vlr.gg/team/11233/bc-swell",
     "name": "BC SWELL",
     "img": "https://owcdn.net/img/63a9cf9538384.png",
+    "country": "Japan"
+  },
+  {
+    "id": "11490",
+    "url": "https://www.vlr.gg/team/11490/murash-gaming",
+    "name": "Murash Gaming",
+    "img": "https://owcdn.net/img/67933a8eeec46.png",
     "country": "Japan"
   },
   {
@@ -6062,18 +6083,11 @@
     "country": "Costa Rica"
   },
   {
-    "id": "362",
-    "url": "https://www.vlr.gg/team/362/rebirth-esports",
-    "name": "Rebirth Esports",
-    "img": "https://owcdn.net/img/5eff245789727.png",
-    "country": "Chile"
-  },
-  {
-    "id": "17252",
-    "url": "https://www.vlr.gg/team/17252/fuego",
-    "name": "FUEGO",
-    "img": "https://owcdn.net/img/678f90b7b65e5.png",
-    "country": "Colombia"
+    "id": "16971",
+    "url": "https://www.vlr.gg/team/16971/shinden",
+    "name": "ShindeN",
+    "img": "https://owcdn.net/img/6748dec4df18c.png",
+    "country": "Argentina"
   },
   {
     "id": "11720",
@@ -6083,6 +6097,13 @@
     "country": "Venezuela"
   },
   {
+    "id": "17252",
+    "url": "https://www.vlr.gg/team/17252/fuego",
+    "name": "FUEGO",
+    "img": "https://owcdn.net/img/678f90b7b65e5.png",
+    "country": "Colombia"
+  },
+  {
     "id": "2131",
     "url": "https://www.vlr.gg/team/2131/chivas-esports",
     "name": "Chivas Esports",
@@ -6090,18 +6111,18 @@
     "country": "Mexico"
   },
   {
-    "id": "10376",
-    "url": "https://www.vlr.gg/team/10376/bon-bon-bum-contra",
-    "name": "Bon Bon Bum Contra",
-    "img": "https://owcdn.net/img/66572b1da4d79.png",
-    "country": "Colombia"
+    "id": "362",
+    "url": "https://www.vlr.gg/team/362/rebirth-esports",
+    "name": "Rebirth Esports",
+    "img": "https://owcdn.net/img/5eff245789727.png",
+    "country": "Chile"
   },
   {
-    "id": "16971",
-    "url": "https://www.vlr.gg/team/16971/shinden",
-    "name": "ShindeN",
-    "img": "https://owcdn.net/img/6748dec4df18c.png",
-    "country": "Argentina"
+    "id": "10376",
+    "url": "https://www.vlr.gg/team/10376/contra",
+    "name": "Contra",
+    "img": "https://owcdn.net/img/66572b1da4d79.png",
+    "country": "Colombia"
   },
   {
     "id": "11709",
@@ -6153,13 +6174,6 @@
     "country": "Chile"
   },
   {
-    "id": "13821",
-    "url": "https://www.vlr.gg/team/13821/nottingham-miedo",
-    "name": "Nottingham Miedo",
-    "img": "https://owcdn.net/img/65ca13815a472.png",
-    "country": "Argentina"
-  },
-  {
     "id": "719",
     "url": "https://www.vlr.gg/team/719/australs",
     "name": "Australs",
@@ -6188,6 +6202,20 @@
     "country": "International"
   },
   {
+    "id": "12688",
+    "url": "https://www.vlr.gg/team/12688/zen-esports",
+    "name": "Zen eSports",
+    "img": "https://owcdn.net/img/6434f4811e5d6.png",
+    "country": "Chile"
+  },
+  {
+    "id": "13821",
+    "url": "https://www.vlr.gg/team/13821/nottingham-miedo",
+    "name": "Nottingham Miedo",
+    "img": "https://owcdn.net/img/65ca13815a472.png",
+    "country": "Argentina"
+  },
+  {
     "id": "17313",
     "url": "https://www.vlr.gg/team/17313/dolphins-gaming",
     "name": "Dolphins Gaming",
@@ -6214,13 +6242,6 @@
     "name": "Six Karma B",
     "img": "https://owcdn.net/img/660ce5b12cb5c.png",
     "country": "Mexico"
-  },
-  {
-    "id": "12688",
-    "url": "https://www.vlr.gg/team/12688/zen-esports",
-    "name": "Zen eSports",
-    "img": "https://owcdn.net/img/6434f4811e5d6.png",
-    "country": "Chile"
   },
   {
     "id": "17321",
@@ -6559,13 +6580,6 @@
     "country": "Chile"
   },
   {
-    "id": "6530",
-    "url": "https://www.vlr.gg/team/6530/g2-gozen",
-    "name": "G2 Gozen",
-    "img": "https://owcdn.net/img/633822848a741.png",
-    "country": "Europe"
-  },
-  {
     "id": "9314",
     "url": "https://www.vlr.gg/team/9314/team-falcons-vega",
     "name": "Team Falcons Vega",
@@ -6587,6 +6601,13 @@
     "country": "Brazil"
   },
   {
+    "id": "6530",
+    "url": "https://www.vlr.gg/team/6530/g2-gozen",
+    "name": "G2 Gozen",
+    "img": "https://owcdn.net/img/633822848a741.png",
+    "country": "Europe"
+  },
+  {
     "id": "6456",
     "url": "https://www.vlr.gg/team/6456/flyquest-red",
     "name": "FlyQuest RED",
@@ -6601,6 +6622,13 @@
     "country": "United States"
   },
   {
+    "id": "15119",
+    "url": "https://www.vlr.gg/team/15119/giantx-gc",
+    "name": "GIANTX GC",
+    "img": "https://owcdn.net/img/657b2f3fcd199.png",
+    "country": "Europe"
+  },
+  {
     "id": "6256",
     "url": "https://www.vlr.gg/team/6256/mad-army",
     "name": "MAD Army",
@@ -6608,10 +6636,10 @@
     "country": "Thailand"
   },
   {
-    "id": "15119",
-    "url": "https://www.vlr.gg/team/15119/giantx-gc",
-    "name": "GIANTX GC",
-    "img": "https://owcdn.net/img/657b2f3fcd199.png",
+    "id": "12255",
+    "url": "https://www.vlr.gg/team/12255/karmine-corp-gc",
+    "name": "Karmine Corp GC",
+    "img": "https://owcdn.net/img/627403a0d9e48.png",
     "country": "Europe"
   },
   {
@@ -6622,13 +6650,6 @@
     "country": "Brazil"
   },
   {
-    "id": "15832",
-    "url": "https://www.vlr.gg/team/15832/sk-nebula",
-    "name": "SK Nebula",
-    "img": "https://owcdn.net/img/659ecda9c6382.png",
-    "country": "Europe"
-  },
-  {
     "id": "12934",
     "url": "https://www.vlr.gg/team/12934/twisted-minds-orchid",
     "name": "Twisted Minds Orchid",
@@ -6636,18 +6657,18 @@
     "country": "Saudi Arabia"
   },
   {
+    "id": "15832",
+    "url": "https://www.vlr.gg/team/15832/sk-nebula",
+    "name": "SK Nebula",
+    "img": "https://owcdn.net/img/659ecda9c6382.png",
+    "country": "Europe"
+  },
+  {
     "id": "14737",
     "url": "https://www.vlr.gg/team/14737/valiant-gc",
     "name": "VALIANT GC",
     "img": "https://owcdn.net/img/63a53368d2675.png",
     "country": "France"
-  },
-  {
-    "id": "12255",
-    "url": "https://www.vlr.gg/team/12255/karmine-corp-gc",
-    "name": "Karmine Corp GC",
-    "img": "https://owcdn.net/img/627403a0d9e48.png",
-    "country": "Europe"
   },
   {
     "id": "15718",
@@ -6669,6 +6690,13 @@
     "name": "BLVKHVND",
     "img": "https://owcdn.net/img/660b344c3cf7a.png",
     "country": "Turkey"
+  },
+  {
+    "id": "18069",
+    "url": "https://www.vlr.gg/team/18069/papas-pizzeria",
+    "name": "Papa's Pizzeria",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Australia"
   },
   {
     "id": "9523",
@@ -6713,18 +6741,18 @@
     "country": "Germany"
   },
   {
-    "id": "15749",
-    "url": "https://www.vlr.gg/team/15749/heroic-valkyries",
-    "name": "HEROIC Valkyries",
-    "img": "https://owcdn.net/img/664f807e151f4.png",
-    "country": "Europe"
-  },
-  {
     "id": "15880",
     "url": "https://www.vlr.gg/team/15880/swaglord9000",
     "name": "swaglord9000",
     "img": "https://owcdn.net/img/66c3c4cdc06d6.png",
     "country": "Australia"
+  },
+  {
+    "id": "15749",
+    "url": "https://www.vlr.gg/team/15749/heroic-valkyries",
+    "name": "HEROIC Valkyries",
+    "img": "https://owcdn.net/img/664f807e151f4.png",
+    "country": "Europe"
   },
   {
     "id": "11496",
@@ -6753,6 +6781,13 @@
     "name": "DVM Miss",
     "img": "https://owcdn.net/img/655b561ac3306.png",
     "country": "Europe"
+  },
+  {
+    "id": "17984",
+    "url": "https://www.vlr.gg/team/17984/2game-esports-gc",
+    "name": "2Game Esports GC",
+    "img": "https://owcdn.net/img/67725c368d524.png",
+    "country": "Brazil"
   },
   {
     "id": "16298",
@@ -6804,18 +6839,18 @@
     "country": "Thailand"
   },
   {
-    "id": "15824",
-    "url": "https://www.vlr.gg/team/15824/formulation-gc",
-    "name": "Formulation GC",
-    "img": "https://owcdn.net/img/6583ce375398a.png",
-    "country": "Europe"
-  },
-  {
     "id": "17839",
     "url": "https://www.vlr.gg/team/17839/precision-power-quickness",
     "name": "Precision Power Quickness",
     "img": "https://owcdn.net/img/67d408593bf22.png",
     "country": "Indonesia"
+  },
+  {
+    "id": "15824",
+    "url": "https://www.vlr.gg/team/15824/formulation-gc",
+    "name": "Formulation GC",
+    "img": "https://owcdn.net/img/6583ce375398a.png",
+    "country": "Europe"
   },
   {
     "id": "15450",
@@ -6825,25 +6860,11 @@
     "country": "United States"
   },
   {
-    "id": "17984",
-    "url": "https://www.vlr.gg/team/17984/2game-esports-gc",
-    "name": "2Game Esports GC",
-    "img": "https://owcdn.net/img/67725c368d524.png",
-    "country": "Brazil"
-  },
-  {
     "id": "10915",
     "url": "https://www.vlr.gg/team/10915/teddy-tactics",
     "name": "Teddy Tactics",
     "img": "https://owcdn.net/img/6433c24475816.png",
     "country": "United States"
-  },
-  {
-    "id": "17998",
-    "url": "https://www.vlr.gg/team/17998/estamos-aqui",
-    "name": "estamos aqui",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
   },
   {
     "id": "13286",
@@ -6874,13 +6895,6 @@
     "country": "United States"
   },
   {
-    "id": "17859",
-    "url": "https://www.vlr.gg/team/17859/aussie-and-friends",
-    "name": "Aussie and Friends",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
     "id": "10113",
     "url": "https://www.vlr.gg/team/10113/drx-changers",
     "name": "DRX Changers",
@@ -6888,11 +6902,32 @@
     "country": "Japan"
   },
   {
+    "id": "9205",
+    "url": "https://www.vlr.gg/team/9205/leviat-n-gc",
+    "name": "LEVIATÁN GC",
+    "img": "https://owcdn.net/img/61b8888cc3860.png",
+    "country": "Chile"
+  },
+  {
+    "id": "17859",
+    "url": "https://www.vlr.gg/team/17859/aussie-and-friends",
+    "name": "Aussie and Friends",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
     "id": "8310",
     "url": "https://www.vlr.gg/team/8310/fusion-x",
     "name": "FUSION X",
     "img": "https://owcdn.net/img/63bde15e27452.png",
     "country": "Mexico"
+  },
+  {
+    "id": "17998",
+    "url": "https://www.vlr.gg/team/17998/ainda-estamos-aqui",
+    "name": "Ainda estamos aqui",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Brazil"
   },
   {
     "id": "14884",
@@ -6923,13 +6958,6 @@
     "country": "United States"
   },
   {
-    "id": "15458",
-    "url": "https://www.vlr.gg/team/15458/cyber-geek",
-    "name": "Cyber Geek",
-    "img": "https://owcdn.net/img/668a78b511b4d.png",
-    "country": "Japan"
-  },
-  {
     "id": "17818",
     "url": "https://www.vlr.gg/team/17818/6-to-12",
     "name": "6 to 12",
@@ -6937,24 +6965,24 @@
     "country": "Philippines"
   },
   {
+    "id": "15458",
+    "url": "https://www.vlr.gg/team/15458/cyber-geek",
+    "name": "Cyber Geek",
+    "img": "https://owcdn.net/img/668a78b511b4d.png",
+    "country": "Japan"
+  },
+  {
+    "id": "14958",
+    "url": "https://www.vlr.gg/team/14958/university-war-gc",
+    "name": "University War GC",
+    "img": "https://owcdn.net/img/65df25f7afcad.png",
+    "country": "Chile"
+  },
+  {
     "id": "7412",
     "url": "https://www.vlr.gg/team/7412/akave-esports-gc",
     "name": "Akave Esports GC",
     "img": "https://owcdn.net/img/61da5f0488060.png",
-    "country": "International"
-  },
-  {
-    "id": "12611",
-    "url": "https://www.vlr.gg/team/12611/frogs-on-fire",
-    "name": "Frogs on Fire",
-    "img": "https://owcdn.net/img/64b21d58abc3e.png",
-    "country": "Germany"
-  },
-  {
-    "id": "17442",
-    "url": "https://www.vlr.gg/team/17442/kbv",
-    "name": "KBV",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
   {
@@ -6965,10 +6993,10 @@
     "country": "Vietnam"
   },
   {
-    "id": "16085",
-    "url": "https://www.vlr.gg/team/16085/no-sweat-blossom",
-    "name": "No Sweat Blossom",
-    "img": "https://owcdn.net/img/67bec33c1d719.png",
+    "id": "17442",
+    "url": "https://www.vlr.gg/team/17442/kbv",
+    "name": "KBV",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
   {
@@ -6979,18 +7007,25 @@
     "country": "Philippines"
   },
   {
+    "id": "12611",
+    "url": "https://www.vlr.gg/team/12611/frogs-on-fire",
+    "name": "Frogs on Fire",
+    "img": "https://owcdn.net/img/64b21d58abc3e.png",
+    "country": "Germany"
+  },
+  {
+    "id": "16085",
+    "url": "https://www.vlr.gg/team/16085/no-sweat-blossom",
+    "name": "No Sweat Blossom",
+    "img": "https://owcdn.net/img/67bec33c1d719.png",
+    "country": "International"
+  },
+  {
     "id": "15324",
     "url": "https://www.vlr.gg/team/15324/bas-kitsune",
     "name": "BAS.Kitsune",
     "img": "https://owcdn.net/img/660833aa408e6.png",
     "country": "International"
-  },
-  {
-    "id": "9205",
-    "url": "https://www.vlr.gg/team/9205/leviat-n-gc",
-    "name": "LEVIATÁN GC",
-    "img": "https://owcdn.net/img/61b8888cc3860.png",
-    "country": "Chile"
   },
   {
     "id": "17489",
@@ -7000,13 +7035,6 @@
     "country": "United States"
   },
   {
-    "id": "17846",
-    "url": "https://www.vlr.gg/team/17846/vendetta-serpent",
-    "name": "Vendetta Serpent",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Indonesia"
-  },
-  {
     "id": "17847",
     "url": "https://www.vlr.gg/team/17847/vim-eclipse",
     "name": "VIM Eclipse",
@@ -7014,18 +7042,11 @@
     "country": "International"
   },
   {
-    "id": "15448",
-    "url": "https://www.vlr.gg/team/15448/friends",
-    "name": "friends",
+    "id": "17846",
+    "url": "https://www.vlr.gg/team/17846/vendetta-serpent",
+    "name": "Vendetta Serpent",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "17575",
-    "url": "https://www.vlr.gg/team/17575/las-cabras-gc",
-    "name": "Las Cabras GC",
-    "img": "https://owcdn.net/img/67c6b202d1a60.png",
-    "country": "Chile"
+    "country": "Indonesia"
   },
   {
     "id": "12691",
@@ -7033,6 +7054,13 @@
     "name": "Team Script GC",
     "img": "https://owcdn.net/img/652c42413848f.png",
     "country": "France"
+  },
+  {
+    "id": "15448",
+    "url": "https://www.vlr.gg/team/15448/friends",
+    "name": "friends",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
   },
   {
     "id": "14348",
@@ -7047,6 +7075,13 @@
     "name": "Elation Vortex",
     "img": "https://owcdn.net/img/66ec7034ef15c.png",
     "country": "United States"
+  },
+  {
+    "id": "17575",
+    "url": "https://www.vlr.gg/team/17575/las-cabras-gc",
+    "name": "Las Cabras GC",
+    "img": "https://owcdn.net/img/67c6b202d1a60.png",
+    "country": "Chile"
   },
   {
     "id": "17792",
@@ -7084,13 +7119,6 @@
     "country": "Thailand"
   },
   {
-    "id": "17816",
-    "url": "https://www.vlr.gg/team/17816/3-am-monkeys",
-    "name": "3 AM Monkeys",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Philippines"
-  },
-  {
     "id": "14894",
     "url": "https://www.vlr.gg/team/14894/permitta-unicorns-gc",
     "name": "Permitta Unicorns GC",
@@ -7098,25 +7126,11 @@
     "country": "Germany"
   },
   {
-    "id": "14958",
-    "url": "https://www.vlr.gg/team/14958/university-war-gc",
-    "name": "University War GC",
-    "img": "https://owcdn.net/img/65df25f7afcad.png",
-    "country": "Chile"
-  },
-  {
-    "id": "17989",
-    "url": "https://www.vlr.gg/team/17989/ret",
-    "name": "RET",
+    "id": "17816",
+    "url": "https://www.vlr.gg/team/17816/3-am-monkeys",
+    "name": "3 AM Monkeys",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
-  },
-  {
-    "id": "16500",
-    "url": "https://www.vlr.gg/team/16500/give-wingman-her-last-nuclear-device",
-    "name": "Give Wingman Her Last Nuclear Device",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "country": "Philippines"
   },
   {
     "id": "17821",
@@ -7138,6 +7152,13 @@
     "name": "Fisher Fumblers",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
+  },
+  {
+    "id": "16500",
+    "url": "https://www.vlr.gg/team/16500/give-wingman-her-last-nuclear-device",
+    "name": "Give Wingman Her Last Nuclear Device",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
   },
   {
     "id": "17573",
@@ -7196,25 +7217,11 @@
     "country": "International"
   },
   {
-    "id": "15927",
-    "url": "https://www.vlr.gg/team/15927/tyrant-fe",
-    "name": "Tyrant FE",
-    "img": "https://owcdn.net/img/61d95c0ea2c8b.png",
-    "country": "Philippines"
-  },
-  {
     "id": "15611",
     "url": "https://www.vlr.gg/team/15611/balut-warriors",
     "name": "Balut Warriors",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Australia"
-  },
-  {
-    "id": "15825",
-    "url": "https://www.vlr.gg/team/15825/axolotls-and-chips",
-    "name": "axolotls and chips",
-    "img": "https://owcdn.net/img/6682212da7d60.png",
-    "country": "Europe"
   },
   {
     "id": "16633",
@@ -7224,11 +7231,25 @@
     "country": "International"
   },
   {
-    "id": "15844",
-    "url": "https://www.vlr.gg/team/15844/lost-puppies-luna",
-    "name": "Lost Puppies LUNA",
-    "img": "https://owcdn.net/img/67ca1dc9c97b3.png",
+    "id": "15927",
+    "url": "https://www.vlr.gg/team/15927/tyrant-fe",
+    "name": "Tyrant FE",
+    "img": "https://owcdn.net/img/61d95c0ea2c8b.png",
+    "country": "Philippines"
+  },
+  {
+    "id": "15825",
+    "url": "https://www.vlr.gg/team/15825/axolotls-and-chips",
+    "name": "axolotls and chips",
+    "img": "https://owcdn.net/img/6682212da7d60.png",
     "country": "Europe"
+  },
+  {
+    "id": "18072",
+    "url": "https://www.vlr.gg/team/18072/axolotl-esports-gc",
+    "name": "Axolotl Esports GC",
+    "img": "https://owcdn.net/img/61239f7eceb75.png",
+    "country": "Italy"
   },
   {
     "id": "14870",
@@ -7236,6 +7257,13 @@
     "name": "sanrio fighters",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Europe"
+  },
+  {
+    "id": "15441",
+    "url": "https://www.vlr.gg/team/15441/astane-gc",
+    "name": "ASTANE GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
   },
   {
     "id": "17105",
@@ -7252,18 +7280,11 @@
     "country": "International"
   },
   {
-    "id": "15441",
-    "url": "https://www.vlr.gg/team/15441/astane-gc",
-    "name": "ASTANE GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "18072",
-    "url": "https://www.vlr.gg/team/18072/axolotl-esports-gc",
-    "name": "Axolotl Esports GC",
-    "img": "https://owcdn.net/img/61239f7eceb75.png",
-    "country": "Italy"
+    "id": "15844",
+    "url": "https://www.vlr.gg/team/15844/lost-puppies-luna",
+    "name": "Lost Puppies LUNA",
+    "img": "https://owcdn.net/img/67ca1dc9c97b3.png",
+    "country": "Europe"
   },
   {
     "id": "17441",
@@ -7280,25 +7301,11 @@
     "country": "United States"
   },
   {
-    "id": "15881",
-    "url": "https://www.vlr.gg/team/15881/last-second",
-    "name": "Last Second",
-    "img": "https://owcdn.net/img/66883d62db573.png",
-    "country": "Europe"
-  },
-  {
     "id": "15031",
     "url": "https://www.vlr.gg/team/15031/kirbee-squad",
     "name": "Kirbee Squad",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
-  },
-  {
-    "id": "14221",
-    "url": "https://www.vlr.gg/team/14221/unsw-purr",
-    "name": "UNSW Purr",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Australia"
   },
   {
     "id": "15632",
@@ -7315,6 +7322,13 @@
     "country": "China"
   },
   {
+    "id": "14221",
+    "url": "https://www.vlr.gg/team/14221/unsw-purr",
+    "name": "UNSW Purr",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Australia"
+  },
+  {
     "id": "17024",
     "url": "https://www.vlr.gg/team/17024/killer-kittensss",
     "name": "Killer Kittensss",
@@ -7322,11 +7336,11 @@
     "country": "International"
   },
   {
-    "id": "13807",
-    "url": "https://www.vlr.gg/team/13807/nova-esports-gc",
-    "name": "Nova Esports GC",
-    "img": "https://owcdn.net/img/6404c0174250b.png",
-    "country": "China"
+    "id": "15881",
+    "url": "https://www.vlr.gg/team/15881/last-second",
+    "name": "Last Second",
+    "img": "https://owcdn.net/img/66883d62db573.png",
+    "country": "Europe"
   },
   {
     "id": "16460",
@@ -7336,18 +7350,18 @@
     "country": "United States"
   },
   {
+    "id": "13807",
+    "url": "https://www.vlr.gg/team/13807/nova-esports-gc",
+    "name": "Nova Esports GC",
+    "img": "https://owcdn.net/img/6404c0174250b.png",
+    "country": "China"
+  },
+  {
     "id": "13319",
     "url": "https://www.vlr.gg/team/13319/detonation-focusme-gc",
     "name": "DetonatioN FocusMe GC",
     "img": "https://owcdn.net/img/63972e548cdc9.png",
     "country": "Japan"
-  },
-  {
-    "id": "16007",
-    "url": "https://www.vlr.gg/team/16007/blahaj-tactics",
-    "name": "Blahaj Tactics",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
   },
   {
     "id": "17411",
@@ -7357,6 +7371,13 @@
     "country": "Europe"
   },
   {
+    "id": "16007",
+    "url": "https://www.vlr.gg/team/16007/blahaj-tactics",
+    "name": "Blahaj Tactics",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
     "id": "14900",
     "url": "https://www.vlr.gg/team/14900/aurum",
     "name": "Aurum",
@@ -7364,23 +7385,9 @@
     "country": "Europe"
   },
   {
-    "id": "15030",
-    "url": "https://www.vlr.gg/team/15030/getting-info",
-    "name": "Getting Info",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
     "id": "15179",
     "url": "https://www.vlr.gg/team/15179/minions-united",
     "name": "minions united",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "17383",
-    "url": "https://www.vlr.gg/team/17383/minecraft123",
-    "name": "Minecraft123",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
   },
@@ -7392,18 +7399,25 @@
     "country": "Singapore"
   },
   {
-    "id": "16012",
-    "url": "https://www.vlr.gg/team/16012/ravens-retirement-home",
-    "name": "Raven's Retirement Home",
+    "id": "17383",
+    "url": "https://www.vlr.gg/team/17383/minecraft123",
+    "name": "Minecraft123",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
   },
   {
-    "id": "15243",
-    "url": "https://www.vlr.gg/team/15243/r8-blue",
-    "name": "R8 Blue",
-    "img": "https://owcdn.net/img/65cfb387a8a30.png",
-    "country": "Saudi Arabia"
+    "id": "15030",
+    "url": "https://www.vlr.gg/team/15030/getting-info",
+    "name": "Getting Info",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "17472",
+    "url": "https://www.vlr.gg/team/17472/tn1ght-clan-female",
+    "name": "TN1GHT Clan Female",
+    "img": "https://owcdn.net/img/679dbc13ba297.png",
+    "country": "International"
   },
   {
     "id": "14929",
@@ -7411,6 +7425,13 @@
     "name": "Panic! At the Discord",
     "img": "https://owcdn.net/img/660cd4df9ddab.png",
     "country": "United Kingdom"
+  },
+  {
+    "id": "15243",
+    "url": "https://www.vlr.gg/team/15243/r8-blue",
+    "name": "R8 Blue",
+    "img": "https://owcdn.net/img/65cfb387a8a30.png",
+    "country": "Saudi Arabia"
   },
   {
     "id": "8429",
@@ -7434,13 +7455,6 @@
     "country": "Netherlands"
   },
   {
-    "id": "17472",
-    "url": "https://www.vlr.gg/team/17472/tn1ght-clan-female",
-    "name": "TN1GHT Clan Female",
-    "img": "https://owcdn.net/img/679dbc13ba297.png",
-    "country": "International"
-  },
-  {
     "id": "14347",
     "url": "https://www.vlr.gg/team/14347/silly-squad",
     "name": "Silly Squad",
@@ -7448,11 +7462,25 @@
     "country": "International"
   },
   {
+    "id": "16012",
+    "url": "https://www.vlr.gg/team/16012/ravens-retirement-home",
+    "name": "Raven's Retirement Home",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
     "id": "17849",
     "url": "https://www.vlr.gg/team/17849/wiwiwi",
     "name": "wiwiwi",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
+  },
+  {
+    "id": "15331",
+    "url": "https://www.vlr.gg/team/15331/dangerous-rose",
+    "name": "Dangerous Rose",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
   },
   {
     "id": "15917",
@@ -7469,11 +7497,11 @@
     "country": "France"
   },
   {
-    "id": "15331",
-    "url": "https://www.vlr.gg/team/15331/dangerous-rose",
-    "name": "Dangerous Rose",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
+    "id": "16635",
+    "url": "https://www.vlr.gg/team/16635/parma-esports",
+    "name": "Parma Esports",
+    "img": "https://owcdn.net/img/67d7ce78d398c.png",
+    "country": "Italy"
   },
   {
     "id": "17523",
@@ -7483,25 +7511,11 @@
     "country": "Mexico"
   },
   {
-    "id": "16635",
-    "url": "https://www.vlr.gg/team/16635/parma-esports",
-    "name": "Parma Esports",
-    "img": "https://owcdn.net/img/67d7ce78d398c.png",
-    "country": "Italy"
-  },
-  {
     "id": "17023",
     "url": "https://www.vlr.gg/team/17023/silly-kittens-gaming",
     "name": "Silly Kittens Gaming",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
-  },
-  {
-    "id": "16478",
-    "url": "https://www.vlr.gg/team/16478/trace-esports-gc",
-    "name": "Trace Esports GC",
-    "img": "https://owcdn.net/img/6433a2cc3ae72.png",
-    "country": "China"
   },
   {
     "id": "17834",
@@ -7518,11 +7532,25 @@
     "country": "Serbia"
   },
   {
+    "id": "16478",
+    "url": "https://www.vlr.gg/team/16478/trace-esports-gc",
+    "name": "Trace Esports GC",
+    "img": "https://owcdn.net/img/6433a2cc3ae72.png",
+    "country": "China"
+  },
+  {
     "id": "17431",
     "url": "https://www.vlr.gg/team/17431/f9-iris",
     "name": "F9 Iris",
     "img": "https://owcdn.net/img/679e3746ab0d2.png",
     "country": "France"
+  },
+  {
+    "id": "17989",
+    "url": "https://www.vlr.gg/team/17989/ret",
+    "name": "RET",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Brazil"
   },
   {
     "id": "9517",
@@ -7532,13 +7560,6 @@
     "country": "Japan"
   },
   {
-    "id": "16467",
-    "url": "https://www.vlr.gg/team/16467/daizhu",
-    "name": "DaiZhu",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "China"
-  },
-  {
     "id": "16147",
     "url": "https://www.vlr.gg/team/16147/coldhearts-gc",
     "name": "ColdHearts GC",
@@ -7546,18 +7567,11 @@
     "country": "United States"
   },
   {
-    "id": "13859",
-    "url": "https://www.vlr.gg/team/13859/sp-esports-female",
-    "name": "SP Esports Female",
+    "id": "16467",
+    "url": "https://www.vlr.gg/team/16467/daizhu",
+    "name": "DaiZhu",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "12496",
-    "url": "https://www.vlr.gg/team/12496/gng-amazigh-white",
-    "name": "GnG Amazigh White",
-    "img": "https://owcdn.net/img/666103a2aa45c.png",
-    "country": "Tunisia"
+    "country": "China"
   },
   {
     "id": "16631",
@@ -7574,6 +7588,34 @@
     "country": "Singapore"
   },
   {
+    "id": "13859",
+    "url": "https://www.vlr.gg/team/13859/sp-esports-female",
+    "name": "SP Esports Female",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "12496",
+    "url": "https://www.vlr.gg/team/12496/gng-amazigh-white",
+    "name": "GnG Amazigh White",
+    "img": "https://owcdn.net/img/666103a2aa45c.png",
+    "country": "Tunisia"
+  },
+  {
+    "id": "15326",
+    "url": "https://www.vlr.gg/team/15326/blue-butterflies",
+    "name": "Blue Butterflies",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "15038",
+    "url": "https://www.vlr.gg/team/15038/glass-ceiling",
+    "name": "Glass Ceiling",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
     "id": "14878",
     "url": "https://www.vlr.gg/team/14878/elektra-gc",
     "name": "Elektra GC",
@@ -7588,37 +7630,9 @@
     "country": "United States"
   },
   {
-    "id": "15038",
-    "url": "https://www.vlr.gg/team/15038/glass-ceiling",
-    "name": "Glass Ceiling",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "15326",
-    "url": "https://www.vlr.gg/team/15326/blue-butterflies",
-    "name": "Blue Butterflies",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "15873",
-    "url": "https://www.vlr.gg/team/15873/scissor-sisters",
-    "name": "Scissor Sisters",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Australia"
-  },
-  {
     "id": "14306",
     "url": "https://www.vlr.gg/team/14306/dreamland",
     "name": "DREAMLAND",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "17388",
-    "url": "https://www.vlr.gg/team/17388/sealiously",
-    "name": "Sealiously",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
   },
@@ -7628,6 +7642,20 @@
     "name": "Invicta",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Europe"
+  },
+  {
+    "id": "17388",
+    "url": "https://www.vlr.gg/team/17388/sealiously",
+    "name": "Sealiously",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "15153",
+    "url": "https://www.vlr.gg/team/15153/zen-esports-gc",
+    "name": "Zen eSports GC",
+    "img": "https://owcdn.net/img/6434f4811e5d6.png",
+    "country": "Chile"
   },
   {
     "id": "15813",
@@ -7651,18 +7679,11 @@
     "country": "International"
   },
   {
-    "id": "15151",
-    "url": "https://www.vlr.gg/team/15151/astral-team",
-    "name": "Astral team",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Chile"
-  },
-  {
-    "id": "15706",
-    "url": "https://www.vlr.gg/team/15706/dxa-esports-gc",
-    "name": "DXA Esports GC",
-    "img": "https://owcdn.net/img/65e94da644ec5.png",
-    "country": "Australia"
+    "id": "15139",
+    "url": "https://www.vlr.gg/team/15139/myvra-gc",
+    "name": "MYVRA GC",
+    "img": "https://owcdn.net/img/65d5cfb7cbe17.png",
+    "country": "International"
   },
   {
     "id": "13431",
@@ -7672,11 +7693,39 @@
     "country": "Saudi Arabia"
   },
   {
-    "id": "15139",
-    "url": "https://www.vlr.gg/team/15139/myvra-gc",
-    "name": "MYVRA GC",
-    "img": "https://owcdn.net/img/65d5cfb7cbe17.png",
-    "country": "International"
+    "id": "15706",
+    "url": "https://www.vlr.gg/team/15706/dxa-esports-gc",
+    "name": "DXA Esports GC",
+    "img": "https://owcdn.net/img/65e94da644ec5.png",
+    "country": "Australia"
+  },
+  {
+    "id": "15151",
+    "url": "https://www.vlr.gg/team/15151/astral-team",
+    "name": "Astral team",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Chile"
+  },
+  {
+    "id": "13541",
+    "url": "https://www.vlr.gg/team/13541/super-shy",
+    "name": "SUPER SHY",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Germany"
+  },
+  {
+    "id": "17997",
+    "url": "https://www.vlr.gg/team/17997/baile-de-monique",
+    "name": "Baile de Monique",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Brazil"
+  },
+  {
+    "id": "17381",
+    "url": "https://www.vlr.gg/team/17381/berzerkers-dawn",
+    "name": "Berzerkers Dawn",
+    "img": "https://owcdn.net/img/6793386686460.png",
+    "country": "United States"
   },
   {
     "id": "14898",
@@ -7684,6 +7733,13 @@
     "name": "Oserv Esport GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "France"
+  },
+  {
+    "id": "13617",
+    "url": "https://www.vlr.gg/team/13617/i-need-more-bullets",
+    "name": "I Need More Bullets",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
   },
   {
     "id": "14883",
@@ -7700,32 +7756,11 @@
     "country": "Turkey"
   },
   {
-    "id": "17381",
-    "url": "https://www.vlr.gg/team/17381/berzerkers-dawn",
-    "name": "Berzerkers Dawn",
-    "img": "https://owcdn.net/img/6793386686460.png",
-    "country": "United States"
-  },
-  {
-    "id": "17997",
-    "url": "https://www.vlr.gg/team/17997/baile-de-monique",
-    "name": "Baile de Monique",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
-  },
-  {
-    "id": "13541",
-    "url": "https://www.vlr.gg/team/13541/super-shy",
-    "name": "SUPER SHY",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Germany"
-  },
-  {
-    "id": "13617",
-    "url": "https://www.vlr.gg/team/13617/i-need-more-bullets",
-    "name": "I Need More Bullets",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "id": "13539",
+    "url": "https://www.vlr.gg/team/13539/one-more-aves",
+    "name": "One More Aves",
+    "img": "https://owcdn.net/img/65bc1a4ce2260.png",
+    "country": "Morocco"
   },
   {
     "id": "15920",
@@ -7735,13 +7770,6 @@
     "country": "Thailand"
   },
   {
-    "id": "14891",
-    "url": "https://www.vlr.gg/team/14891/better-e-sport",
-    "name": "Better E-Sport",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
-  },
-  {
     "id": "17378",
     "url": "https://www.vlr.gg/team/17378/hyperspeed-white",
     "name": "HyperSpeed White",
@@ -7749,18 +7777,11 @@
     "country": "United States"
   },
   {
-    "id": "13539",
-    "url": "https://www.vlr.gg/team/13539/one-more-aves",
-    "name": "One More Aves",
-    "img": "https://owcdn.net/img/65bc1a4ce2260.png",
-    "country": "Morocco"
-  },
-  {
-    "id": "16496",
-    "url": "https://www.vlr.gg/team/16496/meowtastic",
-    "name": "meowtastic",
-    "img": "https://owcdn.net/img/66fcdbd681ea0.png",
-    "country": "International"
+    "id": "14891",
+    "url": "https://www.vlr.gg/team/14891/better-e-sport",
+    "name": "Better E-Sport",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
   },
   {
     "id": "13550",
@@ -7784,11 +7805,46 @@
     "country": "South Korea"
   },
   {
+    "id": "16496",
+    "url": "https://www.vlr.gg/team/16496/meowtastic",
+    "name": "meowtastic",
+    "img": "https://owcdn.net/img/66fcdbd681ea0.png",
+    "country": "International"
+  },
+  {
     "id": "15999",
     "url": "https://www.vlr.gg/team/15999/veni-venom",
     "name": "Veni Venom",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Germany"
+  },
+  {
+    "id": "17480",
+    "url": "https://www.vlr.gg/team/17480/veni-esports-gc",
+    "name": "Veni Esports GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "15956",
+    "url": "https://www.vlr.gg/team/15956/southpaw",
+    "name": "Southpaw",
+    "img": "https://owcdn.net/img/67a050bdd5cf0.png",
+    "country": "Europe"
+  },
+  {
+    "id": "15817",
+    "url": "https://www.vlr.gg/team/15817/vay-esports-fem",
+    "name": "VAY eSports FEM",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Spain"
+  },
+  {
+    "id": "16002",
+    "url": "https://www.vlr.gg/team/16002/eko-esports-gc",
+    "name": "EKO Esports GC",
+    "img": "https://owcdn.net/img/67d7dd1826748.png",
+    "country": "Italy"
   },
   {
     "id": "17467",
@@ -7798,13 +7854,6 @@
     "country": "International"
   },
   {
-    "id": "17437",
-    "url": "https://www.vlr.gg/team/17437/guinea-pink-silkie",
-    "name": "Guinea Pink Silkie",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Spain"
-  },
-  {
     "id": "15568",
     "url": "https://www.vlr.gg/team/15568/erah-esport-gc",
     "name": "Erah Esport GC",
@@ -7812,9 +7861,9 @@
     "country": "International"
   },
   {
-    "id": "15817",
-    "url": "https://www.vlr.gg/team/15817/vay-esports-fem",
-    "name": "VAY eSports FEM",
+    "id": "17437",
+    "url": "https://www.vlr.gg/team/17437/guinea-pink-silkie",
+    "name": "Guinea Pink Silkie",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Spain"
   },
@@ -7833,11 +7882,11 @@
     "country": "International"
   },
   {
-    "id": "17480",
-    "url": "https://www.vlr.gg/team/17480/veni-esports-gc",
-    "name": "Veni Esports GC",
+    "id": "16150",
+    "url": "https://www.vlr.gg/team/16150/brickville",
+    "name": "Brickville",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "country": "United States"
   },
   {
     "id": "17455",
@@ -7847,39 +7896,11 @@
     "country": "International"
   },
   {
-    "id": "16002",
-    "url": "https://www.vlr.gg/team/16002/eko-esports-gc",
-    "name": "EKO Esports GC",
-    "img": "https://owcdn.net/img/67d7dd1826748.png",
-    "country": "Italy"
-  },
-  {
     "id": "16001",
     "url": "https://www.vlr.gg/team/16001/hex-esports",
     "name": "HeX eSports",
     "img": "https://owcdn.net/img/66883e4e1acb8.png",
     "country": "Germany"
-  },
-  {
-    "id": "16150",
-    "url": "https://www.vlr.gg/team/16150/brickville",
-    "name": "Brickville",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "15956",
-    "url": "https://www.vlr.gg/team/15956/southpaw",
-    "name": "Southpaw",
-    "img": "https://owcdn.net/img/67a050bdd5cf0.png",
-    "country": "Europe"
-  },
-  {
-    "id": "14346",
-    "url": "https://www.vlr.gg/team/14346/neons-quartz",
-    "name": "Neons Quartz",
-    "img": "https://owcdn.net/img/6580d702c333f.png",
-    "country": "International"
   },
   {
     "id": "16011",
@@ -7903,6 +7924,13 @@
     "country": "International"
   },
   {
+    "id": "17464",
+    "url": "https://www.vlr.gg/team/17464/sakura-scorpions",
+    "name": "Sakura Scorpions",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
     "id": "17025",
     "url": "https://www.vlr.gg/team/17025/mini-haddock-meal",
     "name": "Mini Haddock Meal",
@@ -7917,20 +7945,6 @@
     "country": "International"
   },
   {
-    "id": "17504",
-    "url": "https://www.vlr.gg/team/17504/hellguardians-esports-violet",
-    "name": "HellGuardians Esports Violet",
-    "img": "https://owcdn.net/img/67bec3c265316.png",
-    "country": "Argentina"
-  },
-  {
-    "id": "17464",
-    "url": "https://www.vlr.gg/team/17464/sakura-scorpions",
-    "name": "Sakura Scorpions",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
     "id": "15950",
     "url": "https://www.vlr.gg/team/15950/acient-freya",
     "name": "Acient Freya",
@@ -7938,10 +7952,10 @@
     "country": "Europe"
   },
   {
-    "id": "17457",
-    "url": "https://www.vlr.gg/team/17457/oeea",
-    "name": "OEEA",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "id": "14346",
+    "url": "https://www.vlr.gg/team/14346/neons-quartz",
+    "name": "Neons Quartz",
+    "img": "https://owcdn.net/img/6580d702c333f.png",
     "country": "International"
   },
   {
@@ -7952,18 +7966,11 @@
     "country": "Italy"
   },
   {
-    "id": "13546",
-    "url": "https://www.vlr.gg/team/13546/athena",
-    "name": "Athena",
-    "img": "https://owcdn.net/img/64fc00b0d4a7a.png",
-    "country": "Europe"
-  },
-  {
-    "id": "17858",
-    "url": "https://www.vlr.gg/team/17858/prosperity-incarnate",
-    "name": "Prosperity Incarnate",
+    "id": "17457",
+    "url": "https://www.vlr.gg/team/17457/oeea",
+    "name": "OEEA",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
+    "country": "International"
   },
   {
     "id": "17525",
@@ -7973,45 +7980,17 @@
     "country": "Mexico"
   },
   {
-    "id": "15393",
-    "url": "https://www.vlr.gg/team/15393/9to5-workers",
-    "name": "9to5 workers",
+    "id": "17858",
+    "url": "https://www.vlr.gg/team/17858/prosperity-incarnate",
+    "name": "Prosperity Incarnate",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "India"
+    "country": "United States"
   },
   {
-    "id": "10289",
-    "url": "https://www.vlr.gg/team/10289/bb-w7m",
-    "name": "bb.w7m",
-    "img": "https://owcdn.net/img/63e1345bc9acd.png",
-    "country": "Brazil"
-  },
-  {
-    "id": "9530",
-    "url": "https://www.vlr.gg/team/9530/igzist-female",
-    "name": "IGZIST Female",
-    "img": "https://owcdn.net/img/61b3107a6a139.png",
-    "country": "Japan"
-  },
-  {
-    "id": "16284",
-    "url": "https://www.vlr.gg/team/16284/day-by-day",
-    "name": "Day by Day",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "14874",
-    "url": "https://www.vlr.gg/team/14874/vienna-range",
-    "name": "Vienna Range",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
-  },
-  {
-    "id": "15398",
-    "url": "https://www.vlr.gg/team/15398/team-divergentes-gc",
-    "name": "Team Divergentes GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "id": "13546",
+    "url": "https://www.vlr.gg/team/13546/athena",
+    "name": "Athena",
+    "img": "https://owcdn.net/img/64fc00b0d4a7a.png",
     "country": "Europe"
   },
   {
@@ -8036,6 +8015,34 @@
     "country": "International"
   },
   {
+    "id": "16284",
+    "url": "https://www.vlr.gg/team/16284/day-by-day",
+    "name": "Day by Day",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "14874",
+    "url": "https://www.vlr.gg/team/14874/vienna-range",
+    "name": "Vienna Range",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
+  },
+  {
+    "id": "15398",
+    "url": "https://www.vlr.gg/team/15398/team-divergentes-gc",
+    "name": "Team Divergentes GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
+  },
+  {
+    "id": "15393",
+    "url": "https://www.vlr.gg/team/15393/9to5-workers",
+    "name": "9to5 workers",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "India"
+  },
+  {
     "id": "16026",
     "url": "https://www.vlr.gg/team/16026/pal-gc",
     "name": "PAL GC",
@@ -8043,16 +8050,37 @@
     "country": "Japan"
   },
   {
-    "id": "17408",
-    "url": "https://www.vlr.gg/team/17408/ingenious-gc",
-    "name": "Ingenious GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "id": "10289",
+    "url": "https://www.vlr.gg/team/10289/bb-w7m",
+    "name": "bb.w7m",
+    "img": "https://owcdn.net/img/63e1345bc9acd.png",
+    "country": "Brazil"
+  },
+  {
+    "id": "9530",
+    "url": "https://www.vlr.gg/team/9530/igzist-female",
+    "name": "IGZIST Female",
+    "img": "https://owcdn.net/img/61b3107a6a139.png",
+    "country": "Japan"
   },
   {
     "id": "12166",
     "url": "https://www.vlr.gg/team/12166/nyx",
     "name": "NYX",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "16269",
+    "url": "https://www.vlr.gg/team/16269/korosus-retirement-home",
+    "name": "Korosu's retirement home",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "17408",
+    "url": "https://www.vlr.gg/team/17408/ingenious-gc",
+    "name": "Ingenious GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
@@ -8064,9 +8092,9 @@
     "country": "United States"
   },
   {
-    "id": "16269",
-    "url": "https://www.vlr.gg/team/16269/korosus-retirement-home",
-    "name": "Korosu's retirement home",
+    "id": "8233",
+    "url": "https://www.vlr.gg/team/8233/serendipity",
+    "name": "Serendipity",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
   },
@@ -8076,34 +8104,6 @@
     "name": "smart fellas",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
-  },
-  {
-    "id": "8233",
-    "url": "https://www.vlr.gg/team/8233/serendipity",
-    "name": "Serendipity",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "15737",
-    "url": "https://www.vlr.gg/team/15737/detox-gc",
-    "name": "Detox GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "15964",
-    "url": "https://www.vlr.gg/team/15964/ravens",
-    "name": "Ravens",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
-  },
-  {
-    "id": "13568",
-    "url": "https://www.vlr.gg/team/13568/o2-esports",
-    "name": "O2 esports",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Japan"
   },
   {
     "id": "14078",
@@ -8120,18 +8120,25 @@
     "country": "Europe"
   },
   {
-    "id": "15995",
-    "url": "https://www.vlr.gg/team/15995/5stars-gc",
-    "name": "5STARS GC",
+    "id": "13568",
+    "url": "https://www.vlr.gg/team/13568/o2-esports",
+    "name": "O2 esports",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
+    "country": "Japan"
   },
   {
-    "id": "17485",
-    "url": "https://www.vlr.gg/team/17485/chronic",
-    "name": "Chronic",
-    "img": "https://owcdn.net/img/67abfade39b91.png",
+    "id": "15737",
+    "url": "https://www.vlr.gg/team/15737/detox-gc",
+    "name": "Detox GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
+  },
+  {
+    "id": "15964",
+    "url": "https://www.vlr.gg/team/15964/ravens",
+    "name": "Ravens",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
   },
   {
     "id": "17844",
@@ -8139,6 +8146,13 @@
     "name": "Ubur Ubur Ikan Lele",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
+  },
+  {
+    "id": "17485",
+    "url": "https://www.vlr.gg/team/17485/chronic",
+    "name": "Chronic",
+    "img": "https://owcdn.net/img/67abfade39b91.png",
+    "country": "United States"
   },
   {
     "id": "14855",
@@ -8155,11 +8169,11 @@
     "country": "International"
   },
   {
-    "id": "15153",
-    "url": "https://www.vlr.gg/team/15153/zen-esports-gc",
-    "name": "Zen eSports GC",
-    "img": "https://owcdn.net/img/6434f4811e5d6.png",
-    "country": "Chile"
+    "id": "15995",
+    "url": "https://www.vlr.gg/team/15995/5stars-gc",
+    "name": "5STARS GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
   },
   {
     "id": "15360",
@@ -8169,18 +8183,18 @@
     "country": "International"
   },
   {
-    "id": "17382",
-    "url": "https://www.vlr.gg/team/17382/sad-retirement-home",
-    "name": "SaD retirement home",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
     "id": "15954",
     "url": "https://www.vlr.gg/team/15954/last9",
     "name": "Last9",
     "img": "https://owcdn.net/img/6695f4324ac09.png",
     "country": "Europe"
+  },
+  {
+    "id": "17382",
+    "url": "https://www.vlr.gg/team/17382/sad-retirement-home",
+    "name": "SaD retirement home",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
   },
   {
     "id": "16634",
@@ -8197,9 +8211,23 @@
     "country": "Mexico"
   },
   {
-    "id": "17569",
-    "url": "https://www.vlr.gg/team/17569/pink-beyond",
-    "name": "Pink Beyond",
+    "id": "16471",
+    "url": "https://www.vlr.gg/team/16471/haoxiang-gaming",
+    "name": "HaoXiang Gaming",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "China"
+  },
+  {
+    "id": "17830",
+    "url": "https://www.vlr.gg/team/17830/gmp-girls",
+    "name": "GMP Girls",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "14012",
+    "url": "https://www.vlr.gg/team/14012/s-tenho-w",
+    "name": "só tenho w",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Brazil"
   },
@@ -8218,39 +8246,11 @@
     "country": "International"
   },
   {
-    "id": "14012",
-    "url": "https://www.vlr.gg/team/14012/s-tenho-w",
-    "name": "só tenho w",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
-  },
-  {
     "id": "13675",
     "url": "https://www.vlr.gg/team/13675/swat-esports",
     "name": "Swat Esports",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Saudi Arabia"
-  },
-  {
-    "id": "16471",
-    "url": "https://www.vlr.gg/team/16471/haoxiang-gaming",
-    "name": "HaoXiang Gaming",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "China"
-  },
-  {
-    "id": "15864",
-    "url": "https://www.vlr.gg/team/15864/f9-wonders",
-    "name": "F9 Wonders",
-    "img": "https://owcdn.net/img/6072481dc9f12.png",
-    "country": "France"
-  },
-  {
-    "id": "15147",
-    "url": "https://www.vlr.gg/team/15147/las-jubiladas",
-    "name": "Las Jubiladas",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Chile"
   },
   {
     "id": "16143",
@@ -8260,18 +8260,25 @@
     "country": "United States"
   },
   {
-    "id": "17830",
-    "url": "https://www.vlr.gg/team/17830/gmp-girls",
-    "name": "GMP Girls",
+    "id": "15147",
+    "url": "https://www.vlr.gg/team/15147/las-jubiladas",
+    "name": "Las Jubiladas",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "country": "Chile"
   },
   {
-    "id": "15795",
-    "url": "https://www.vlr.gg/team/15795/xprojekt-lioness",
-    "name": "XProjekt Lioness",
-    "img": "https://owcdn.net/img/6661032e7085b.png",
-    "country": "Morocco"
+    "id": "17569",
+    "url": "https://www.vlr.gg/team/17569/pink-beyond",
+    "name": "Pink Beyond",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Brazil"
+  },
+  {
+    "id": "15864",
+    "url": "https://www.vlr.gg/team/15864/f9-wonders",
+    "name": "F9 Wonders",
+    "img": "https://owcdn.net/img/6072481dc9f12.png",
+    "country": "France"
   },
   {
     "id": "16861",
@@ -8281,11 +8288,11 @@
     "country": "International"
   },
   {
-    "id": "15396",
-    "url": "https://www.vlr.gg/team/15396/blaze",
-    "name": "BLAZE",
-    "img": "https://owcdn.net/img/6659530053090.png",
-    "country": "Europe"
+    "id": "17434",
+    "url": "https://www.vlr.gg/team/17434/frg-sirens",
+    "name": "FRG Sirens",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
   },
   {
     "id": "15945",
@@ -8295,11 +8302,18 @@
     "country": "Europe"
   },
   {
-    "id": "17434",
-    "url": "https://www.vlr.gg/team/17434/frg-sirens",
-    "name": "FRG Sirens",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "id": "15795",
+    "url": "https://www.vlr.gg/team/15795/xprojekt-lioness",
+    "name": "XProjekt Lioness",
+    "img": "https://owcdn.net/img/6661032e7085b.png",
+    "country": "Morocco"
+  },
+  {
+    "id": "15396",
+    "url": "https://www.vlr.gg/team/15396/blaze",
+    "name": "BLAZE",
+    "img": "https://owcdn.net/img/6659530053090.png",
+    "country": "Europe"
   },
   {
     "id": "17991",
@@ -8316,18 +8330,11 @@
     "country": "China"
   },
   {
-    "id": "16636",
-    "url": "https://www.vlr.gg/team/16636/sync",
-    "name": "Sync",
+    "id": "18000",
+    "url": "https://www.vlr.gg/team/18000/interestelar",
+    "name": "Interestelar",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "17822",
-    "url": "https://www.vlr.gg/team/17822/apocalypse",
-    "name": "Apocalypse",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "country": "Brazil"
   },
   {
     "id": "15822",
@@ -8337,11 +8344,39 @@
     "country": "Italy"
   },
   {
-    "id": "18000",
-    "url": "https://www.vlr.gg/team/18000/interestelar",
-    "name": "Interestelar",
+    "id": "17822",
+    "url": "https://www.vlr.gg/team/17822/apocalypse",
+    "name": "Apocalypse",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
+    "country": "International"
+  },
+  {
+    "id": "16636",
+    "url": "https://www.vlr.gg/team/16636/sync",
+    "name": "Sync",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "15135",
+    "url": "https://www.vlr.gg/team/15135/legiowon-puff",
+    "name": "Legiowon Puff",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Mexico"
+  },
+  {
+    "id": "9526",
+    "url": "https://www.vlr.gg/team/9526/insomnia-gc",
+    "name": "Insomnia GC",
+    "img": "https://owcdn.net/img/62e4c81144c03.png",
+    "country": "Japan"
+  },
+  {
+    "id": "15812",
+    "url": "https://www.vlr.gg/team/15812/team-kuara-ladies",
+    "name": "Team Kuara Ladies",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Turkey"
   },
   {
     "id": "15034",
@@ -8358,20 +8393,6 @@
     "country": "France"
   },
   {
-    "id": "15959",
-    "url": "https://www.vlr.gg/team/15959/exanimis",
-    "name": "Exanimis",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Czech Republic"
-  },
-  {
-    "id": "15812",
-    "url": "https://www.vlr.gg/team/15812/team-kuara-ladies",
-    "name": "Team Kuara Ladies",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Turkey"
-  },
-  {
     "id": "17852",
     "url": "https://www.vlr.gg/team/17852/blue-eyes-white-dragon-gc",
     "name": "Blue Eyes White Dragon GC",
@@ -8386,39 +8407,11 @@
     "country": "Germany"
   },
   {
-    "id": "14858",
-    "url": "https://www.vlr.gg/team/14858/visionarity",
-    "name": "Visionarity",
+    "id": "15959",
+    "url": "https://www.vlr.gg/team/15959/exanimis",
+    "name": "Exanimis",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
-  },
-  {
-    "id": "9526",
-    "url": "https://www.vlr.gg/team/9526/insomnia-gc",
-    "name": "Insomnia GC",
-    "img": "https://owcdn.net/img/62e4c81144c03.png",
-    "country": "Japan"
-  },
-  {
-    "id": "14865",
-    "url": "https://www.vlr.gg/team/14865/tog-kitsune",
-    "name": "TOG Kitsune",
-    "img": "https://owcdn.net/img/6281e47f22703.png",
-    "country": "Germany"
-  },
-  {
-    "id": "15562",
-    "url": "https://www.vlr.gg/team/15562/tls-fem",
-    "name": "TLS FEM",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "15135",
-    "url": "https://www.vlr.gg/team/15135/legiowon-puff",
-    "name": "Legiowon Puff",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Mexico"
+    "country": "Czech Republic"
   },
   {
     "id": "15459",
@@ -8428,32 +8421,25 @@
     "country": "Japan"
   },
   {
-    "id": "13861",
-    "url": "https://www.vlr.gg/team/13861/devils-one-female",
-    "name": "Devils.one Female",
+    "id": "15562",
+    "url": "https://www.vlr.gg/team/15562/tls-fem",
+    "name": "TLS FEM",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
   {
-    "id": "17385",
-    "url": "https://www.vlr.gg/team/17385/bitty-and-friends",
-    "name": "bitty and friends",
+    "id": "14865",
+    "url": "https://www.vlr.gg/team/14865/tog-kitsune",
+    "name": "TOG Kitsune",
+    "img": "https://owcdn.net/img/6281e47f22703.png",
+    "country": "Germany"
+  },
+  {
+    "id": "14858",
+    "url": "https://www.vlr.gg/team/14858/visionarity",
+    "name": "Visionarity",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "15508",
-    "url": "https://www.vlr.gg/team/15508/drakainas",
-    "name": "DRAKAINAS",
-    "img": "https://owcdn.net/img/662897d695f5f.png",
-    "country": "France"
-  },
-  {
-    "id": "17407",
-    "url": "https://www.vlr.gg/team/17407/edel-esports",
-    "name": "Edel eSports",
-    "img": "https://owcdn.net/img/67be8c49f0b51.png",
-    "country": "International"
+    "country": "Europe"
   },
   {
     "id": "15185",
@@ -8463,20 +8449,6 @@
     "country": "United States"
   },
   {
-    "id": "17529",
-    "url": "https://www.vlr.gg/team/17529/ppw-celeste",
-    "name": "PPW Celeste",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Dominican Republic"
-  },
-  {
-    "id": "16281",
-    "url": "https://www.vlr.gg/team/16281/erinite-gc",
-    "name": "Erinite GC",
-    "img": "https://owcdn.net/img/6767e71f86bc1.png",
-    "country": "International"
-  },
-  {
     "id": "17837",
     "url": "https://www.vlr.gg/team/17837/meovv",
     "name": "MEOVV",
@@ -8484,38 +8456,24 @@
     "country": "International"
   },
   {
-    "id": "17704",
-    "url": "https://www.vlr.gg/team/17704/prasso-clan",
-    "name": "Prasso Clan",
-    "img": "https://owcdn.net/img/67bec458e177e.png",
-    "country": "Argentina"
+    "id": "15508",
+    "url": "https://www.vlr.gg/team/15508/drakainas",
+    "name": "DRAKAINAS",
+    "img": "https://owcdn.net/img/662897d695f5f.png",
+    "country": "France"
+  },
+  {
+    "id": "13861",
+    "url": "https://www.vlr.gg/team/13861/devils-one-female",
+    "name": "Devils.one Female",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
   },
   {
     "id": "16223",
     "url": "https://www.vlr.gg/team/16223/stay-ko",
     "name": "Stay K'O",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "15908",
-    "url": "https://www.vlr.gg/team/15908/gg-gonext",
-    "name": "GG GONEXT",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Thailand"
-  },
-  {
-    "id": "17996",
-    "url": "https://www.vlr.gg/team/17996/malvadinhas-2-0",
-    "name": "malvadinhas 2.0",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
-  },
-  {
-    "id": "17601",
-    "url": "https://www.vlr.gg/team/17601/falke-venom",
-    "name": "FALKE VENOM",
-    "img": "https://owcdn.net/img/67b8d04f54d6d.png",
     "country": "International"
   },
   {
@@ -8526,18 +8484,74 @@
     "country": "Philippines"
   },
   {
+    "id": "17529",
+    "url": "https://www.vlr.gg/team/17529/ppw-celeste",
+    "name": "PPW Celeste",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Dominican Republic"
+  },
+  {
+    "id": "17996",
+    "url": "https://www.vlr.gg/team/17996/malvadinhas-2-0",
+    "name": "malvadinhas 2.0",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Brazil"
+  },
+  {
+    "id": "15908",
+    "url": "https://www.vlr.gg/team/15908/gg-gonext",
+    "name": "GG GONEXT",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Thailand"
+  },
+  {
+    "id": "17407",
+    "url": "https://www.vlr.gg/team/17407/edel-esports",
+    "name": "Edel eSports",
+    "img": "https://owcdn.net/img/67be8c49f0b51.png",
+    "country": "International"
+  },
+  {
+    "id": "17385",
+    "url": "https://www.vlr.gg/team/17385/bitty-and-friends",
+    "name": "bitty and friends",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "16281",
+    "url": "https://www.vlr.gg/team/16281/erinite-gc",
+    "name": "Erinite GC",
+    "img": "https://owcdn.net/img/6767e71f86bc1.png",
+    "country": "International"
+  },
+  {
+    "id": "17504",
+    "url": "https://www.vlr.gg/team/17504/hellguardians-esports-violet",
+    "name": "HellGuardians Esports Violet",
+    "img": "https://owcdn.net/img/67bec3c265316.png",
+    "country": "Argentina"
+  },
+  {
+    "id": "17601",
+    "url": "https://www.vlr.gg/team/17601/falke-venom",
+    "name": "FALKE VENOM",
+    "img": "https://owcdn.net/img/67b8d04f54d6d.png",
+    "country": "International"
+  },
+  {
+    "id": "15371",
+    "url": "https://www.vlr.gg/team/15371/xinh-gai-tay-to",
+    "name": "Xinh Gai Tay To",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Vietnam"
+  },
+  {
     "id": "13260",
     "url": "https://www.vlr.gg/team/13260/endure-white",
     "name": "Endure White",
     "img": "https://owcdn.net/img/65176be137704.png",
     "country": "International"
-  },
-  {
-    "id": "15861",
-    "url": "https://www.vlr.gg/team/15861/nomad-gc",
-    "name": "NOMAD GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "France"
   },
   {
     "id": "14342",
@@ -8554,11 +8568,11 @@
     "country": "Taiwan"
   },
   {
-    "id": "15371",
-    "url": "https://www.vlr.gg/team/15371/xinh-gai-tay-to",
-    "name": "Xinh Gai Tay To",
+    "id": "16499",
+    "url": "https://www.vlr.gg/team/16499/students-of-the-game",
+    "name": "Students of the Game",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Vietnam"
+    "country": "International"
   },
   {
     "id": "13315",
@@ -8568,18 +8582,11 @@
     "country": "Japan"
   },
   {
-    "id": "16499",
-    "url": "https://www.vlr.gg/team/16499/students-of-the-game",
-    "name": "Students of the Game",
+    "id": "15861",
+    "url": "https://www.vlr.gg/team/15861/nomad-gc",
+    "name": "NOMAD GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "14157",
-    "url": "https://www.vlr.gg/team/14157/nyaa",
-    "name": "nyaa",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "country": "France"
   },
   {
     "id": "13624",
@@ -8596,6 +8603,13 @@
     "country": "Indonesia"
   },
   {
+    "id": "14157",
+    "url": "https://www.vlr.gg/team/14157/nyaa",
+    "name": "nyaa",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
     "id": "17440",
     "url": "https://www.vlr.gg/team/17440/iron-fist",
     "name": "Iron Fist",
@@ -8610,9 +8624,16 @@
     "country": "United States"
   },
   {
-    "id": "14081",
-    "url": "https://www.vlr.gg/team/14081/twitter-drama",
-    "name": "twitter drama",
+    "id": "14901",
+    "url": "https://www.vlr.gg/team/14901/emus",
+    "name": "EMUs",
+    "img": "https://owcdn.net/img/66746d58f1579.png",
+    "country": "Europe"
+  },
+  {
+    "id": "15634",
+    "url": "https://www.vlr.gg/team/15634/van-lyn-venus",
+    "name": "Van Lyn Venus",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
   },
@@ -8624,11 +8645,11 @@
     "country": "Turkey"
   },
   {
-    "id": "14901",
-    "url": "https://www.vlr.gg/team/14901/emus",
-    "name": "EMUs",
-    "img": "https://owcdn.net/img/66746d58f1579.png",
-    "country": "Europe"
+    "id": "15914",
+    "url": "https://www.vlr.gg/team/15914/livestrong-queens",
+    "name": "Livestrong Queens",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Philippines"
   },
   {
     "id": "16459",
@@ -8638,20 +8659,6 @@
     "country": "United States"
   },
   {
-    "id": "17567",
-    "url": "https://www.vlr.gg/team/17567/stellae-gaming-gc",
-    "name": "Stellae Gaming GC",
-    "img": "https://owcdn.net/img/6597892f756bf.png",
-    "country": "Brazil"
-  },
-  {
-    "id": "15914",
-    "url": "https://www.vlr.gg/team/15914/livestrong-queens",
-    "name": "Livestrong Queens",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Philippines"
-  },
-  {
     "id": "17404",
     "url": "https://www.vlr.gg/team/17404/ctrl-eclipse",
     "name": "CTRL Eclipse",
@@ -8659,39 +8666,11 @@
     "country": "International"
   },
   {
-    "id": "15634",
-    "url": "https://www.vlr.gg/team/15634/van-lyn-venus",
-    "name": "Van Lyn Venus",
+    "id": "14081",
+    "url": "https://www.vlr.gg/team/14081/twitter-drama",
+    "name": "twitter drama",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
-  },
-  {
-    "id": "13284",
-    "url": "https://www.vlr.gg/team/13284/infinity-x",
-    "name": "Infinity X",
-    "img": "https://owcdn.net/img/672d6272a7513.png",
-    "country": "United States"
-  },
-  {
-    "id": "13631",
-    "url": "https://www.vlr.gg/team/13631/evie-geniuses",
-    "name": "Evie Geniuses",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "17574",
-    "url": "https://www.vlr.gg/team/17574/mix",
-    "name": "MIX",
-    "img": "https://owcdn.net/img/67c6b40b4a835.png",
-    "country": "International"
-  },
-  {
-    "id": "9845",
-    "url": "https://www.vlr.gg/team/9845/ranked-demons",
-    "name": "Ranked Demons",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
   },
   {
     "id": "13226",
@@ -8708,9 +8687,30 @@
     "country": "United States"
   },
   {
+    "id": "17019",
+    "url": "https://www.vlr.gg/team/17019/symphony-amethyst",
+    "name": "Symphony Amethyst",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "9845",
+    "url": "https://www.vlr.gg/team/9845/ranked-demons",
+    "name": "Ranked Demons",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
+  },
+  {
     "id": "17022",
     "url": "https://www.vlr.gg/team/17022/royalcodename-gc",
     "name": "RoyalCodeName GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "13631",
+    "url": "https://www.vlr.gg/team/13631/evie-geniuses",
+    "name": "Evie Geniuses",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
@@ -8722,11 +8722,18 @@
     "country": "United States"
   },
   {
-    "id": "17019",
-    "url": "https://www.vlr.gg/team/17019/symphony-amethyst",
-    "name": "Symphony Amethyst",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "id": "13284",
+    "url": "https://www.vlr.gg/team/13284/infinity-x",
+    "name": "Infinity X",
+    "img": "https://owcdn.net/img/672d6272a7513.png",
     "country": "United States"
+  },
+  {
+    "id": "14921",
+    "url": "https://www.vlr.gg/team/14921/ascendium-esport-female",
+    "name": "Ascendium Esport Female",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Turkey"
   },
   {
     "id": "18077",
@@ -8736,6 +8743,13 @@
     "country": "Italy"
   },
   {
+    "id": "17478",
+    "url": "https://www.vlr.gg/team/17478/valkyrie-vixens",
+    "name": "Valkyrie Vixens",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
     "id": "16501",
     "url": "https://www.vlr.gg/team/16501/shu-gc",
     "name": "SHU GC",
@@ -8743,18 +8757,18 @@
     "country": "International"
   },
   {
-    "id": "16144",
-    "url": "https://www.vlr.gg/team/16144/ebonyx-gc",
-    "name": "EbonyX GC",
+    "id": "15395",
+    "url": "https://www.vlr.gg/team/15395/salt-n-shake",
+    "name": "Salt n Shake",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
+    "country": "Europe"
   },
   {
-    "id": "15819",
-    "url": "https://www.vlr.gg/team/15819/anselmo",
-    "name": "Anselmo",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Spain"
+    "id": "15400",
+    "url": "https://www.vlr.gg/team/15400/madwolves",
+    "name": "MadWolves",
+    "img": "https://owcdn.net/img/66393e1303645.png",
+    "country": "Turkey"
   },
   {
     "id": "17436",
@@ -8762,13 +8776,6 @@
     "name": "Good Girls!",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
-  },
-  {
-    "id": "15637",
-    "url": "https://www.vlr.gg/team/15637/sizzle-roses",
-    "name": "Sizzle Roses",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
   },
   {
     "id": "15932",
@@ -8785,25 +8792,18 @@
     "country": "Spain"
   },
   {
-    "id": "14921",
-    "url": "https://www.vlr.gg/team/14921/ascendium-esport-female",
-    "name": "Ascendium Esport Female",
+    "id": "15637",
+    "url": "https://www.vlr.gg/team/15637/sizzle-roses",
+    "name": "Sizzle Roses",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Turkey"
+    "country": "United States"
   },
   {
-    "id": "17478",
-    "url": "https://www.vlr.gg/team/17478/valkyrie-vixens",
-    "name": "Valkyrie Vixens",
+    "id": "15819",
+    "url": "https://www.vlr.gg/team/15819/anselmo",
+    "name": "Anselmo",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "15395",
-    "url": "https://www.vlr.gg/team/15395/salt-n-shake",
-    "name": "Salt n Shake",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
+    "country": "Spain"
   },
   {
     "id": "17386",
@@ -8813,30 +8813,23 @@
     "country": "United States"
   },
   {
-    "id": "15400",
-    "url": "https://www.vlr.gg/team/15400/madwolves",
-    "name": "MadWolves",
-    "img": "https://owcdn.net/img/66393e1303645.png",
-    "country": "Turkey"
-  },
-  {
-    "id": "17845",
-    "url": "https://www.vlr.gg/team/17845/unreal",
-    "name": "UnReal",
+    "id": "16144",
+    "url": "https://www.vlr.gg/team/16144/ebonyx-gc",
+    "name": "EbonyX GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "17406",
-    "url": "https://www.vlr.gg/team/17406/silly-seals",
-    "name": "Silly Seals",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "country": "United States"
   },
   {
     "id": "17449",
     "url": "https://www.vlr.gg/team/17449/million-flowerz",
     "name": "Million Flowerz",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "17845",
+    "url": "https://www.vlr.gg/team/17845/unreal",
+    "name": "UnReal",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
@@ -8848,25 +8841,18 @@
     "country": "South Korea"
   },
   {
-    "id": "17477",
-    "url": "https://www.vlr.gg/team/17477/valkyries-esports",
-    "name": "Valkyries Esports",
+    "id": "17406",
+    "url": "https://www.vlr.gg/team/17406/silly-seals",
+    "name": "Silly Seals",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
   {
-    "id": "13733",
-    "url": "https://www.vlr.gg/team/13733/harmony-opal",
-    "name": "Harmony Opal",
-    "img": "https://owcdn.net/img/6663de5181a57.png",
-    "country": "International"
-  },
-  {
-    "id": "17430",
-    "url": "https://www.vlr.gg/team/17430/explore",
-    "name": "Explore",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "id": "17567",
+    "url": "https://www.vlr.gg/team/17567/stellae-gaming-gc",
+    "name": "Stellae Gaming GC",
+    "img": "https://owcdn.net/img/6597892f756bf.png",
+    "country": "Brazil"
   },
   {
     "id": "17854",
@@ -8876,10 +8862,10 @@
     "country": "United States"
   },
   {
-    "id": "17825",
-    "url": "https://www.vlr.gg/team/17825/breakfast-club",
-    "name": "Breakfast Club",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "id": "13733",
+    "url": "https://www.vlr.gg/team/13733/harmony-opal",
+    "name": "Harmony Opal",
+    "img": "https://owcdn.net/img/6663de5181a57.png",
     "country": "International"
   },
   {
@@ -8890,60 +8876,25 @@
     "country": "International"
   },
   {
-    "id": "6349",
-    "url": "https://www.vlr.gg/team/6349/stanbul-wildcats-female",
-    "name": "İstanbul Wildcats Female",
-    "img": "https://owcdn.net/img/63aff139c2256.png",
-    "country": "Turkey"
-  },
-  {
-    "id": "17429",
-    "url": "https://www.vlr.gg/team/17429/emergents-gc",
-    "name": "Emergents GC",
+    "id": "17477",
+    "url": "https://www.vlr.gg/team/17477/valkyries-esports",
+    "name": "Valkyries Esports",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
   {
-    "id": "17447",
-    "url": "https://www.vlr.gg/team/17447/maneaters",
-    "name": "Maneaters",
+    "id": "17430",
+    "url": "https://www.vlr.gg/team/17430/explore",
+    "name": "Explore",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
   {
-    "id": "17469",
-    "url": "https://www.vlr.gg/team/17469/team-monsters-inc",
-    "name": "Team Monsters Inc",
+    "id": "17825",
+    "url": "https://www.vlr.gg/team/17825/breakfast-club",
+    "name": "Breakfast Club",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
-  },
-  {
-    "id": "17468",
-    "url": "https://www.vlr.gg/team/17468/symbol-gc",
-    "name": "Symbol GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "14075",
-    "url": "https://www.vlr.gg/team/14075/nannos-sugar-babies",
-    "name": "Nanno's sugar babies",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "14070",
-    "url": "https://www.vlr.gg/team/14070/amandas-money-crew",
-    "name": "Amanda's Money Crew",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "13432",
-    "url": "https://www.vlr.gg/team/13432/xo-void",
-    "name": "XO Void",
-    "img": "https://owcdn.net/img/662d59d2eb2b5.png",
-    "country": "Saudi Arabia"
   },
   {
     "id": "17466",
@@ -8953,30 +8904,9 @@
     "country": "International"
   },
   {
-    "id": "14349",
-    "url": "https://www.vlr.gg/team/14349/4-aimers-and-coax",
-    "name": "4 aimers and coax",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "17445",
-    "url": "https://www.vlr.gg/team/17445/lunar",
-    "name": "Lunar",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "France"
-  },
-  {
-    "id": "17474",
-    "url": "https://www.vlr.gg/team/17474/ultra-instinct-astrals",
-    "name": "Ultra Instinct Astrals",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "17439",
-    "url": "https://www.vlr.gg/team/17439/insomniacs",
-    "name": "Insomniacs",
+    "id": "17447",
+    "url": "https://www.vlr.gg/team/17447/maneaters",
+    "name": "Maneaters",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
@@ -8988,13 +8918,6 @@
     "country": "United States"
   },
   {
-    "id": "15032",
-    "url": "https://www.vlr.gg/team/15032/silly-waffle",
-    "name": "Silly Waffle",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
     "id": "15564",
     "url": "https://www.vlr.gg/team/15564/ett-gc",
     "name": "ETT GC",
@@ -9002,32 +8925,95 @@
     "country": "Europe"
   },
   {
-    "id": "14077",
-    "url": "https://www.vlr.gg/team/14077/baking-bread",
-    "name": "Baking Bread",
+    "id": "17445",
+    "url": "https://www.vlr.gg/team/17445/lunar",
+    "name": "Lunar",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "country": "France"
   },
   {
-    "id": "14877",
-    "url": "https://www.vlr.gg/team/14877/penta-glamour",
-    "name": "Penta Glamour",
-    "img": "https://owcdn.net/img/673939611d888.png",
+    "id": "6349",
+    "url": "https://www.vlr.gg/team/6349/stanbul-wildcats-female",
+    "name": "İstanbul Wildcats Female",
+    "img": "https://owcdn.net/img/63aff139c2256.png",
     "country": "Turkey"
   },
   {
-    "id": "17473",
-    "url": "https://www.vlr.gg/team/17473/trusted-rebels",
-    "name": "Trusted Rebels",
+    "id": "17468",
+    "url": "https://www.vlr.gg/team/17468/symbol-gc",
+    "name": "Symbol GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
   {
-    "id": "15362",
-    "url": "https://www.vlr.gg/team/15362/rg-vipers",
-    "name": "RG Vipers",
+    "id": "15032",
+    "url": "https://www.vlr.gg/team/15032/silly-waffle",
+    "name": "Silly Waffle",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Philippines"
+    "country": "United States"
+  },
+  {
+    "id": "14075",
+    "url": "https://www.vlr.gg/team/14075/nannos-sugar-babies",
+    "name": "Nanno's sugar babies",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "14349",
+    "url": "https://www.vlr.gg/team/14349/4-aimers-and-coax",
+    "name": "4 aimers and coax",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "14070",
+    "url": "https://www.vlr.gg/team/14070/amandas-money-crew",
+    "name": "Amanda's Money Crew",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "17474",
+    "url": "https://www.vlr.gg/team/17474/ultra-instinct-astrals",
+    "name": "Ultra Instinct Astrals",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "13432",
+    "url": "https://www.vlr.gg/team/13432/xo-void",
+    "name": "XO Void",
+    "img": "https://owcdn.net/img/662d59d2eb2b5.png",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": "17469",
+    "url": "https://www.vlr.gg/team/17469/team-monsters-inc",
+    "name": "Team Monsters Inc",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "17439",
+    "url": "https://www.vlr.gg/team/17439/insomniacs",
+    "name": "Insomniacs",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "17429",
+    "url": "https://www.vlr.gg/team/17429/emergents-gc",
+    "name": "Emergents GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "17527",
+    "url": "https://www.vlr.gg/team/17527/owl",
+    "name": "Owl",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Mexico"
   },
   {
     "id": "8684",
@@ -9037,11 +9023,11 @@
     "country": "Turkey"
   },
   {
-    "id": "17527",
-    "url": "https://www.vlr.gg/team/17527/owl",
-    "name": "Owl",
+    "id": "17473",
+    "url": "https://www.vlr.gg/team/17473/trusted-rebels",
+    "name": "Trusted Rebels",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Mexico"
+    "country": "International"
   },
   {
     "id": "17458",
@@ -9058,6 +9044,13 @@
     "country": "International"
   },
   {
+    "id": "15362",
+    "url": "https://www.vlr.gg/team/15362/rg-vipers",
+    "name": "RG Vipers",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Philippines"
+  },
+  {
     "id": "15633",
     "url": "https://www.vlr.gg/team/15633/hoppy-frogs",
     "name": "Hoppy Frogs",
@@ -9065,18 +9058,18 @@
     "country": "United States"
   },
   {
-    "id": "15510",
-    "url": "https://www.vlr.gg/team/15510/prototype",
-    "name": "Prototype",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
-  },
-  {
-    "id": "13567",
-    "url": "https://www.vlr.gg/team/13567/van-lyn-violet",
-    "name": "Van Lyn Violet",
+    "id": "14077",
+    "url": "https://www.vlr.gg/team/14077/baking-bread",
+    "name": "Baking Bread",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
+  },
+  {
+    "id": "14877",
+    "url": "https://www.vlr.gg/team/14877/penta-glamour",
+    "name": "Penta Glamour",
+    "img": "https://owcdn.net/img/673939611d888.png",
+    "country": "Turkey"
   },
   {
     "id": "16639",
@@ -9086,11 +9079,32 @@
     "country": "International"
   },
   {
+    "id": "13567",
+    "url": "https://www.vlr.gg/team/13567/van-lyn-violet",
+    "name": "Van Lyn Violet",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "15510",
+    "url": "https://www.vlr.gg/team/15510/prototype",
+    "name": "Prototype",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
+  },
+  {
     "id": "14073",
     "url": "https://www.vlr.gg/team/14073/ragequit-rejects",
     "name": "Ragequit Rejects",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
+  },
+  {
+    "id": "14301",
+    "url": "https://www.vlr.gg/team/14301/meats",
+    "name": "Meats",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
   },
   {
     "id": "16032",
@@ -9107,11 +9121,25 @@
     "country": "Germany"
   },
   {
-    "id": "14301",
-    "url": "https://www.vlr.gg/team/14301/meats",
-    "name": "Meats",
+    "id": "13438",
+    "url": "https://www.vlr.gg/team/13438/addictes-esport-gc",
+    "name": "Addictes Esport GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
+    "country": "Brazil"
+  },
+  {
+    "id": "13423",
+    "url": "https://www.vlr.gg/team/13423/sk-l-vendetta",
+    "name": "SKÅL Vendetta",
+    "img": "https://owcdn.net/img/640d1ce0da0b0.png",
+    "country": "International"
+  },
+  {
+    "id": "17842",
+    "url": "https://www.vlr.gg/team/17842/spinning-cat",
+    "name": "Spinning Cat",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
   },
   {
     "id": "17856",
@@ -9128,20 +9156,6 @@
     "country": "International"
   },
   {
-    "id": "17842",
-    "url": "https://www.vlr.gg/team/17842/spinning-cat",
-    "name": "Spinning Cat",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "13438",
-    "url": "https://www.vlr.gg/team/13438/addictes-esport-gc",
-    "name": "Addictes Esport GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
-  },
-  {
     "id": "14712",
     "url": "https://www.vlr.gg/team/14712/loafing-cats",
     "name": "Loafing Cats",
@@ -9149,24 +9163,10 @@
     "country": "United States"
   },
   {
-    "id": "15937",
-    "url": "https://www.vlr.gg/team/15937/scald-esport-gc",
-    "name": "Scald eSport GC",
+    "id": "17832",
+    "url": "https://www.vlr.gg/team/17832/i-dont-know",
+    "name": "I Don't Know",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
-  },
-  {
-    "id": "17565",
-    "url": "https://www.vlr.gg/team/17565/winx",
-    "name": "WINX",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
-  },
-  {
-    "id": "13423",
-    "url": "https://www.vlr.gg/team/13423/sk-l-vendetta",
-    "name": "SKÅL Vendetta",
-    "img": "https://owcdn.net/img/640d1ce0da0b0.png",
     "country": "International"
   },
   {
@@ -9177,11 +9177,11 @@
     "country": "United States"
   },
   {
-    "id": "16036",
-    "url": "https://www.vlr.gg/team/16036/nix-vision-gc",
-    "name": "NIX VISION GC",
+    "id": "15937",
+    "url": "https://www.vlr.gg/team/15937/scald-esport-gc",
+    "name": "Scald eSport GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Japan"
+    "country": "Europe"
   },
   {
     "id": "17530",
@@ -9191,38 +9191,17 @@
     "country": "Colombia"
   },
   {
-    "id": "17832",
-    "url": "https://www.vlr.gg/team/17832/i-dont-know",
-    "name": "I Don't Know",
+    "id": "17565",
+    "url": "https://www.vlr.gg/team/17565/winx",
+    "name": "WINX",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "country": "Brazil"
   },
   {
-    "id": "13422",
-    "url": "https://www.vlr.gg/team/13422/saltire-sirens",
-    "name": "Saltire Sirens",
+    "id": "16036",
+    "url": "https://www.vlr.gg/team/16036/nix-vision-gc",
+    "name": "NIX VISION GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "17432",
-    "url": "https://www.vlr.gg/team/17432/fact-revolution",
-    "name": "Fact Revolution",
-    "img": "https://owcdn.net/img/6799a5f81dd62.png",
-    "country": "Norway"
-  },
-  {
-    "id": "14072",
-    "url": "https://www.vlr.gg/team/14072/red21",
-    "name": "red21",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "9521",
-    "url": "https://www.vlr.gg/team/9521/focus-e-sports-gc",
-    "name": "Focus e-Sports GC",
-    "img": "https://owcdn.net/img/620c53b97a67d.png",
     "country": "Japan"
   },
   {
@@ -9240,6 +9219,27 @@
     "country": "Italy"
   },
   {
+    "id": "14728",
+    "url": "https://www.vlr.gg/team/14728/a-forgotten-kingdom",
+    "name": "A Forgotten Kingdom",
+    "img": "https://owcdn.net/img/65b079c6d6eb5.png",
+    "country": "United States"
+  },
+  {
+    "id": "17009",
+    "url": "https://www.vlr.gg/team/17009/adversity",
+    "name": "adversity",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "13325",
+    "url": "https://www.vlr.gg/team/13325/hive-valkyries",
+    "name": "HIVE Valkyries",
+    "img": "https://owcdn.net/img/64b16ec271391.png",
+    "country": "Germany"
+  },
+  {
     "id": "18073",
     "url": "https://www.vlr.gg/team/18073/vosc-omnia-imperium",
     "name": "VOSC Omnia Imperium",
@@ -9247,23 +9247,23 @@
     "country": "Italy"
   },
   {
-    "id": "15040",
-    "url": "https://www.vlr.gg/team/15040/ultralight-team-3",
-    "name": "UltraLight Team 3",
+    "id": "17855",
+    "url": "https://www.vlr.gg/team/17855/prominence",
+    "name": "Prominence",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
   },
   {
-    "id": "8436",
-    "url": "https://www.vlr.gg/team/8436/duelist",
-    "name": "DUELIST",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Malaysia"
+    "id": "17432",
+    "url": "https://www.vlr.gg/team/17432/fact-revolution",
+    "name": "Fact Revolution",
+    "img": "https://owcdn.net/img/6799a5f81dd62.png",
+    "country": "Norway"
   },
   {
-    "id": "17855",
-    "url": "https://www.vlr.gg/team/17855/prominence",
-    "name": "Prominence",
+    "id": "14072",
+    "url": "https://www.vlr.gg/team/14072/red21",
+    "name": "red21",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
   },
@@ -9275,16 +9275,23 @@
     "country": "South Korea"
   },
   {
-    "id": "17009",
-    "url": "https://www.vlr.gg/team/17009/adversity",
-    "name": "adversity",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
+    "id": "9521",
+    "url": "https://www.vlr.gg/team/9521/focus-e-sports-gc",
+    "name": "Focus e-Sports GC",
+    "img": "https://owcdn.net/img/620c53b97a67d.png",
+    "country": "Japan"
   },
   {
-    "id": "17465",
-    "url": "https://www.vlr.gg/team/17465/sk-l-lunaris",
-    "name": "SKÅL Lunaris",
+    "id": "8436",
+    "url": "https://www.vlr.gg/team/8436/duelist",
+    "name": "DUELIST",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Malaysia"
+  },
+  {
+    "id": "17417",
+    "url": "https://www.vlr.gg/team/17417/ant1matter",
+    "name": "ANT1MATTER",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
@@ -9310,24 +9317,73 @@
     "country": "International"
   },
   {
-    "id": "17417",
-    "url": "https://www.vlr.gg/team/17417/ant1matter",
-    "name": "ANT1MATTER",
+    "id": "17465",
+    "url": "https://www.vlr.gg/team/17465/sk-l-lunaris",
+    "name": "SKÅL Lunaris",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
   {
-    "id": "13325",
-    "url": "https://www.vlr.gg/team/13325/hive-valkyries",
-    "name": "HIVE Valkyries",
-    "img": "https://owcdn.net/img/64b16ec271391.png",
-    "country": "Germany"
+    "id": "13422",
+    "url": "https://www.vlr.gg/team/13422/saltire-sirens",
+    "name": "Saltire Sirens",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
   },
   {
-    "id": "14728",
-    "url": "https://www.vlr.gg/team/14728/a-forgotten-kingdom",
-    "name": "A Forgotten Kingdom",
-    "img": "https://owcdn.net/img/65b079c6d6eb5.png",
+    "id": "15040",
+    "url": "https://www.vlr.gg/team/15040/ultralight-team-3",
+    "name": "UltraLight Team 3",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "17704",
+    "url": "https://www.vlr.gg/team/17704/prasso-clan",
+    "name": "Prasso Clan",
+    "img": "https://owcdn.net/img/67bec458e177e.png",
+    "country": "Argentina"
+  },
+  {
+    "id": "15566",
+    "url": "https://www.vlr.gg/team/15566/les-artistes-nocturna",
+    "name": "Les Artistes - Nocturna",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
+  },
+  {
+    "id": "15609",
+    "url": "https://www.vlr.gg/team/15609/misses-worldwide",
+    "name": "Misses Worldwide",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Australia"
+  },
+  {
+    "id": "13067",
+    "url": "https://www.vlr.gg/team/13067/figure8",
+    "name": "Figure8",
+    "img": "https://owcdn.net/img/64b4f4fb863e1.png",
+    "country": "International"
+  },
+  {
+    "id": "17415",
+    "url": "https://www.vlr.gg/team/17415/all-good",
+    "name": "All Good",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "15809",
+    "url": "https://www.vlr.gg/team/15809/luminaria",
+    "name": "Luminaria",
+    "img": "https://owcdn.net/img/66883c03c2b6b.png",
+    "country": "Turkey"
+  },
+  {
+    "id": "15037",
+    "url": "https://www.vlr.gg/team/15037/endear-moon",
+    "name": "Endear Moon",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
   },
   {
@@ -9345,60 +9401,11 @@
     "country": "Argentina"
   },
   {
-    "id": "15809",
-    "url": "https://www.vlr.gg/team/15809/luminaria",
-    "name": "Luminaria",
-    "img": "https://owcdn.net/img/66883c03c2b6b.png",
-    "country": "Turkey"
-  },
-  {
-    "id": "15566",
-    "url": "https://www.vlr.gg/team/15566/les-artistes-nocturna",
-    "name": "Les Artistes - Nocturna",
+    "id": "13517",
+    "url": "https://www.vlr.gg/team/13517/real-nation-gc",
+    "name": "Real Nation GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
-  },
-  {
-    "id": "15037",
-    "url": "https://www.vlr.gg/team/15037/endear-moon",
-    "name": "Endear Moon",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "13067",
-    "url": "https://www.vlr.gg/team/13067/figure8",
-    "name": "Figure8",
-    "img": "https://owcdn.net/img/64b4f4fb863e1.png",
-    "country": "International"
-  },
-  {
-    "id": "17415",
-    "url": "https://www.vlr.gg/team/17415/all-good",
-    "name": "All Good",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "15609",
-    "url": "https://www.vlr.gg/team/15609/misses-worldwide",
-    "name": "Misses Worldwide",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Australia"
-  },
-  {
-    "id": "15992",
-    "url": "https://www.vlr.gg/team/15992/sixsense",
-    "name": "SiXSENSE",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
-  },
-  {
-    "id": "17528",
-    "url": "https://www.vlr.gg/team/17528/teamreis-rose",
-    "name": "TeamReis Rose",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
+    "country": "Brazil"
   },
   {
     "id": "17990",
@@ -9408,6 +9415,13 @@
     "country": "Brazil"
   },
   {
+    "id": "17528",
+    "url": "https://www.vlr.gg/team/17528/teamreis-rose",
+    "name": "TeamReis Rose",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
     "id": "15895",
     "url": "https://www.vlr.gg/team/15895/avernus-esports-gc",
     "name": "Avernus Esports GC",
@@ -9415,25 +9429,11 @@
     "country": "Philippines"
   },
   {
-    "id": "13492",
-    "url": "https://www.vlr.gg/team/13492/ydz-black",
-    "name": "YDZ Black",
-    "img": "https://owcdn.net/img/66f3ea58c63e4.png",
-    "country": "United States"
-  },
-  {
-    "id": "15029",
-    "url": "https://www.vlr.gg/team/15029/alliance-angels",
-    "name": "Alliance Angels",
-    "img": "https://owcdn.net/img/67a00004ceced.png",
-    "country": "United States"
-  },
-  {
-    "id": "13517",
-    "url": "https://www.vlr.gg/team/13517/real-nation-gc",
-    "name": "Real Nation GC",
+    "id": "15992",
+    "url": "https://www.vlr.gg/team/15992/sixsense",
+    "name": "SiXSENSE",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
+    "country": "Europe"
   },
   {
     "id": "14930",
@@ -9443,6 +9443,13 @@
     "country": "United Kingdom"
   },
   {
+    "id": "15029",
+    "url": "https://www.vlr.gg/team/15029/alliance-angels",
+    "name": "Alliance Angels",
+    "img": "https://owcdn.net/img/67a00004ceced.png",
+    "country": "United States"
+  },
+  {
     "id": "17860",
     "url": "https://www.vlr.gg/team/17860/monarch-x-gc",
     "name": "Monarch-X GC",
@@ -9450,18 +9457,11 @@
     "country": "United States"
   },
   {
-    "id": "16038",
-    "url": "https://www.vlr.gg/team/16038/arcobaleno-iris",
-    "name": "ArcoBaleNO IRIS",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Japan"
-  },
-  {
-    "id": "15938",
-    "url": "https://www.vlr.gg/team/15938/digity-esport",
-    "name": "Digity Esport",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "France"
+    "id": "13492",
+    "url": "https://www.vlr.gg/team/13492/ydz-black",
+    "name": "YDZ Black",
+    "img": "https://owcdn.net/img/66f3ea58c63e4.png",
+    "country": "United States"
   },
   {
     "id": "12604",
@@ -9471,11 +9471,18 @@
     "country": "Europe"
   },
   {
-    "id": "16140",
-    "url": "https://www.vlr.gg/team/16140/",
-    "name": "잇뽕따닥",
+    "id": "15938",
+    "url": "https://www.vlr.gg/team/15938/digity-esport",
+    "name": "Digity Esport",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "South Korea"
+    "country": "France"
+  },
+  {
+    "id": "16038",
+    "url": "https://www.vlr.gg/team/16038/arcobaleno-iris",
+    "name": "ArcoBaleNO IRIS",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Japan"
   },
   {
     "id": "15719",
@@ -9485,32 +9492,11 @@
     "country": "South Korea"
   },
   {
-    "id": "6370",
-    "url": "https://www.vlr.gg/team/6370/instalocked",
-    "name": "instalocked",
-    "img": "https://owcdn.net/img/6174574641214.png",
-    "country": "Europe"
-  },
-  {
-    "id": "17463",
-    "url": "https://www.vlr.gg/team/17463/royal-reapers-gc",
-    "name": "Royal Reapers GC",
+    "id": "16140",
+    "url": "https://www.vlr.gg/team/16140/",
+    "name": "잇뽕따닥",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "15901",
-    "url": "https://www.vlr.gg/team/15901/chicken-gang",
-    "name": "Chicken Gang",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "14343",
-    "url": "https://www.vlr.gg/team/14343/conestoga-condors-white",
-    "name": "Conestoga Condors White",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Canada"
+    "country": "South Korea"
   },
   {
     "id": "16393",
@@ -9520,6 +9506,34 @@
     "country": "United States"
   },
   {
+    "id": "15901",
+    "url": "https://www.vlr.gg/team/15901/chicken-gang",
+    "name": "Chicken Gang",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "6370",
+    "url": "https://www.vlr.gg/team/6370/instalocked",
+    "name": "instalocked",
+    "img": "https://owcdn.net/img/6174574641214.png",
+    "country": "Europe"
+  },
+  {
+    "id": "14343",
+    "url": "https://www.vlr.gg/team/14343/conestoga-condors-white",
+    "name": "Conestoga Condors White",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Canada"
+  },
+  {
+    "id": "17463",
+    "url": "https://www.vlr.gg/team/17463/royal-reapers-gc",
+    "name": "Royal Reapers GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
     "id": "13632",
     "url": "https://www.vlr.gg/team/13632/egirl-central",
     "name": "Egirl Central",
@@ -9527,11 +9541,18 @@
     "country": "International"
   },
   {
-    "id": "17851",
-    "url": "https://www.vlr.gg/team/17851/nocturnal-tide-gc",
-    "name": "Nocturnal Tide GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "id": "17574",
+    "url": "https://www.vlr.gg/team/17574/mix",
+    "name": "MIX",
+    "img": "https://owcdn.net/img/67c6b40b4a835.png",
     "country": "International"
+  },
+  {
+    "id": "17497",
+    "url": "https://www.vlr.gg/team/17497/soularis",
+    "name": "Soularis",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Chile"
   },
   {
     "id": "15739",
@@ -9541,9 +9562,9 @@
     "country": "United States"
   },
   {
-    "id": "14351",
-    "url": "https://www.vlr.gg/team/14351/qt-pis",
-    "name": "QT Pi's",
+    "id": "17851",
+    "url": "https://www.vlr.gg/team/17851/nocturnal-tide-gc",
+    "name": "Nocturnal Tide GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
@@ -9562,53 +9583,11 @@
     "country": "Poland"
   },
   {
-    "id": "17497",
-    "url": "https://www.vlr.gg/team/17497/soularis",
-    "name": "Soularis",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Chile"
-  },
-  {
-    "id": "17470",
-    "url": "https://www.vlr.gg/team/17470/team-phoenix-female",
-    "name": "Team Phoenix Female",
+    "id": "14351",
+    "url": "https://www.vlr.gg/team/14351/qt-pis",
+    "name": "QT Pi's",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
-  },
-  {
-    "id": "16706",
-    "url": "https://www.vlr.gg/team/16706/nightshade-wh",
-    "name": "Nightshade WH",
-    "img": "https://owcdn.net/img/6743ad294400b.png",
-    "country": "United States"
-  },
-  {
-    "id": "16717",
-    "url": "https://www.vlr.gg/team/16717/skyl-aurora-gc",
-    "name": "SKYL Aurora GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "17451",
-    "url": "https://www.vlr.gg/team/17451/nade-venus-gaming",
-    "name": "Nade Venus Gaming",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "14341",
-    "url": "https://www.vlr.gg/team/14341/billybilly-gaming",
-    "name": "BillyBilly Gaming",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "15636",
-    "url": "https://www.vlr.gg/team/15636/elation-misfits",
-    "name": "Elation Misfits",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
   },
   {
     "id": "14730",
@@ -9618,11 +9597,67 @@
     "country": "United States"
   },
   {
-    "id": "16090",
-    "url": "https://www.vlr.gg/team/16090/legion-nyx",
-    "name": "Legion Nyx",
+    "id": "14341",
+    "url": "https://www.vlr.gg/team/14341/billybilly-gaming",
+    "name": "BillyBilly Gaming",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Mexico"
+    "country": "International"
+  },
+  {
+    "id": "17451",
+    "url": "https://www.vlr.gg/team/17451/nade-venus-gaming",
+    "name": "Nade Venus Gaming",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "17470",
+    "url": "https://www.vlr.gg/team/17470/team-phoenix-female",
+    "name": "Team Phoenix Female",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "16717",
+    "url": "https://www.vlr.gg/team/16717/skyl-aurora-gc",
+    "name": "SKYL Aurora GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "16706",
+    "url": "https://www.vlr.gg/team/16706/nightshade-wh",
+    "name": "Nightshade WH",
+    "img": "https://owcdn.net/img/6743ad294400b.png",
+    "country": "United States"
+  },
+  {
+    "id": "15636",
+    "url": "https://www.vlr.gg/team/15636/elation-misfits",
+    "name": "Elation Misfits",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "9898",
+    "url": "https://www.vlr.gg/team/9898/99-problems",
+    "name": "99 Problems",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Turkey"
+  },
+  {
+    "id": "13738",
+    "url": "https://www.vlr.gg/team/13738/labyrinth-aura",
+    "name": "Labyrinth Aura",
+    "img": "https://owcdn.net/img/679ea95807131.png",
+    "country": "International"
+  },
+  {
+    "id": "14912",
+    "url": "https://www.vlr.gg/team/14912/tremble",
+    "name": "TREMBLE",
+    "img": "https://owcdn.net/img/66821bb9d2902.png",
+    "country": "Russia"
   },
   {
     "id": "13630",
@@ -9639,11 +9674,11 @@
     "country": "United States"
   },
   {
-    "id": "14912",
-    "url": "https://www.vlr.gg/team/14912/tremble",
-    "name": "TREMBLE",
-    "img": "https://owcdn.net/img/66821bb9d2902.png",
-    "country": "Russia"
+    "id": "16719",
+    "url": "https://www.vlr.gg/team/16719/v1rality",
+    "name": "V1RALITY",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
   },
   {
     "id": "13629",
@@ -9653,13 +9688,6 @@
     "country": "International"
   },
   {
-    "id": "16718",
-    "url": "https://www.vlr.gg/team/16718/tos-starlight",
-    "name": "TOS Starlight",
-    "img": "https://owcdn.net/img/6748c13c655e5.png",
-    "country": "Canada"
-  },
-  {
     "id": "14882",
     "url": "https://www.vlr.gg/team/14882/gulugulu",
     "name": "GULUGULU",
@@ -9667,25 +9695,11 @@
     "country": "Europe"
   },
   {
-    "id": "13738",
-    "url": "https://www.vlr.gg/team/13738/labyrinth-aura",
-    "name": "Labyrinth Aura",
-    "img": "https://owcdn.net/img/679ea95807131.png",
-    "country": "International"
-  },
-  {
-    "id": "16719",
-    "url": "https://www.vlr.gg/team/16719/v1rality",
-    "name": "V1RALITY",
+    "id": "16090",
+    "url": "https://www.vlr.gg/team/16090/legion-nyx",
+    "name": "Legion Nyx",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "9898",
-    "url": "https://www.vlr.gg/team/9898/99-problems",
-    "name": "99 Problems",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Turkey"
+    "country": "Mexico"
   },
   {
     "id": "17499",
@@ -9695,11 +9709,11 @@
     "country": "Uruguay"
   },
   {
-    "id": "14733",
-    "url": "https://www.vlr.gg/team/14733/big-bros-gaming",
-    "name": "Big Bros Gaming",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
+    "id": "16718",
+    "url": "https://www.vlr.gg/team/16718/tos-starlight",
+    "name": "TOS Starlight",
+    "img": "https://owcdn.net/img/6748c13c655e5.png",
+    "country": "Canada"
   },
   {
     "id": "13639",
@@ -9716,53 +9730,11 @@
     "country": "International"
   },
   {
-    "id": "15446",
-    "url": "https://www.vlr.gg/team/15446/vo-blossoms",
-    "name": "VO Blossoms",
+    "id": "14733",
+    "url": "https://www.vlr.gg/team/14733/big-bros-gaming",
+    "name": "Big Bros Gaming",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
-  },
-  {
-    "id": "16286",
-    "url": "https://www.vlr.gg/team/16286/scooby-snackers",
-    "name": "Scooby Snackers",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "14715",
-    "url": "https://www.vlr.gg/team/14715/tenax-gc",
-    "name": "Tenax GC",
-    "img": "https://owcdn.net/img/67c205676f0aa.png",
-    "country": "United States"
-  },
-  {
-    "id": "15613",
-    "url": "https://www.vlr.gg/team/15613/jamcat",
-    "name": "Jamcat",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Australia"
-  },
-  {
-    "id": "15133",
-    "url": "https://www.vlr.gg/team/15133/bon-bon-bum",
-    "name": "Bon Bon Bum",
-    "img": "https://owcdn.net/img/66572b1da4d79.png",
-    "country": "Mexico"
-  },
-  {
-    "id": "17562",
-    "url": "https://www.vlr.gg/team/17562/be-bold-queens",
-    "name": "BE BOLD QUEENS",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
-  },
-  {
-    "id": "13621",
-    "url": "https://www.vlr.gg/team/13621/overachievers",
-    "name": "OverAchievers",
-    "img": "https://owcdn.net/img/651655acc2ee4.png",
-    "country": "International"
   },
   {
     "id": "17705",
@@ -9772,18 +9744,53 @@
     "country": "International"
   },
   {
-    "id": "13570",
-    "url": "https://www.vlr.gg/team/13570/xenesis-e-sports-gc",
-    "name": "Xenesis e-sports GC",
+    "id": "15613",
+    "url": "https://www.vlr.gg/team/15613/jamcat",
+    "name": "Jamcat",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Japan"
+    "country": "Australia"
   },
   {
-    "id": "16137",
-    "url": "https://www.vlr.gg/team/16137/sga-incheon",
-    "name": "SGA Incheon",
-    "img": "https://owcdn.net/img/66a353e2b023c.png",
-    "country": "South Korea"
+    "id": "15446",
+    "url": "https://www.vlr.gg/team/15446/vo-blossoms",
+    "name": "VO Blossoms",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "17562",
+    "url": "https://www.vlr.gg/team/17562/be-bold-queens",
+    "name": "BE BOLD QUEENS",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Brazil"
+  },
+  {
+    "id": "14715",
+    "url": "https://www.vlr.gg/team/14715/tenax-gc",
+    "name": "Tenax GC",
+    "img": "https://owcdn.net/img/67c205676f0aa.png",
+    "country": "United States"
+  },
+  {
+    "id": "15133",
+    "url": "https://www.vlr.gg/team/15133/bon-bon-bum",
+    "name": "Bon Bon Bum",
+    "img": "https://owcdn.net/img/66572b1da4d79.png",
+    "country": "Mexico"
+  },
+  {
+    "id": "13621",
+    "url": "https://www.vlr.gg/team/13621/overachievers",
+    "name": "OverAchievers",
+    "img": "https://owcdn.net/img/651655acc2ee4.png",
+    "country": "International"
+  },
+  {
+    "id": "16286",
+    "url": "https://www.vlr.gg/team/16286/scooby-snackers",
+    "name": "Scooby Snackers",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
   },
   {
     "id": "16152",
@@ -9791,6 +9798,13 @@
     "name": "Prestige XOXO",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
+  },
+  {
+    "id": "13570",
+    "url": "https://www.vlr.gg/team/13570/xenesis-e-sports-gc",
+    "name": "Xenesis e-sports GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Japan"
   },
   {
     "id": "15947",
@@ -9807,11 +9821,18 @@
     "country": "United States"
   },
   {
-    "id": "17560",
-    "url": "https://www.vlr.gg/team/17560/higashi-nine-gaming",
-    "name": "Higashi nine gaming",
+    "id": "16137",
+    "url": "https://www.vlr.gg/team/16137/sga-incheon",
+    "name": "SGA Incheon",
+    "img": "https://owcdn.net/img/66a353e2b023c.png",
+    "country": "South Korea"
+  },
+  {
+    "id": "16640",
+    "url": "https://www.vlr.gg/team/16640/orkadia-gc",
+    "name": "ORKADIA GC",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
+    "country": "International"
   },
   {
     "id": "15039",
@@ -9821,18 +9842,18 @@
     "country": "United States"
   },
   {
+    "id": "17560",
+    "url": "https://www.vlr.gg/team/17560/higashi-nine-gaming",
+    "name": "Higashi nine gaming",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Brazil"
+  },
+  {
     "id": "13740",
     "url": "https://www.vlr.gg/team/13740/reverse-7",
     "name": "Reverse 7",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
-  },
-  {
-    "id": "16640",
-    "url": "https://www.vlr.gg/team/16640/orkadia-gc",
-    "name": "ORKADIA GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
   },
   {
     "id": "14723",
@@ -9849,16 +9870,16 @@
     "country": "Spain"
   },
   {
-    "id": "17414",
-    "url": "https://www.vlr.gg/team/17414/affinity-auras",
-    "name": "Affinity Auras",
+    "id": "17827",
+    "url": "https://www.vlr.gg/team/17827/dropshotmuch-sphinx",
+    "name": "DROPSHOTMUCH SPHINX",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
   {
-    "id": "17827",
-    "url": "https://www.vlr.gg/team/17827/dropshotmuch-sphinx",
-    "name": "DROPSHOTMUCH SPHINX",
+    "id": "17414",
+    "url": "https://www.vlr.gg/team/17414/affinity-auras",
+    "name": "Affinity Auras",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
@@ -10122,13 +10143,6 @@
     "country": "Russia"
   },
   {
-    "id": "15838",
-    "url": "https://www.vlr.gg/team/15838/vila-das-flores",
-    "name": "Vila das Flores",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
-  },
-  {
     "id": "17817",
     "url": "https://www.vlr.gg/team/17817/5km-nebula",
     "name": "5KM NEBULA",
@@ -10136,18 +10150,18 @@
     "country": "International"
   },
   {
-    "id": "15869",
-    "url": "https://www.vlr.gg/team/15869/paprica-picante",
-    "name": "paprica picante",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Brazil"
-  },
-  {
     "id": "12922",
     "url": "https://www.vlr.gg/team/12922/nani-avior",
     "name": "Nani Avior",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Germany"
+  },
+  {
+    "id": "15869",
+    "url": "https://www.vlr.gg/team/15869/paprica-picante",
+    "name": "paprica picante",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Brazil"
   },
   {
     "id": "16710",
@@ -10171,18 +10185,18 @@
     "country": "United States"
   },
   {
+    "id": "17420",
+    "url": "https://www.vlr.gg/team/17420/ceuta-guardians",
+    "name": "Ceuta Guardians",
+    "img": "https://owcdn.net/img/67abdfcecf819.png",
+    "country": "International"
+  },
+  {
     "id": "17410",
     "url": "https://www.vlr.gg/team/17410/entropy-coven",
     "name": "Entropy Coven",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
-  },
-  {
-    "id": "15363",
-    "url": "https://www.vlr.gg/team/15363/sinchro-tozen",
-    "name": "Sinchro Tozen",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Indonesia"
   },
   {
     "id": "18079",
@@ -10192,11 +10206,11 @@
     "country": "Italy"
   },
   {
-    "id": "17420",
-    "url": "https://www.vlr.gg/team/17420/ceuta-guardians",
-    "name": "Ceuta Guardians",
-    "img": "https://owcdn.net/img/67abdfcecf819.png",
-    "country": "International"
+    "id": "15363",
+    "url": "https://www.vlr.gg/team/15363/sinchro-tozen",
+    "name": "Sinchro Tozen",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Indonesia"
   },
   {
     "id": "14084",
@@ -10213,13 +10227,6 @@
     "country": "International"
   },
   {
-    "id": "17460",
-    "url": "https://www.vlr.gg/team/17460/red-royals-gc",
-    "name": "Red Royals GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
     "id": "17826",
     "url": "https://www.vlr.gg/team/17826/dominari",
     "name": "DOMINARI",
@@ -10227,11 +10234,39 @@
     "country": "International"
   },
   {
+    "id": "17460",
+    "url": "https://www.vlr.gg/team/17460/red-royals-gc",
+    "name": "Red Royals GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "15838",
+    "url": "https://www.vlr.gg/team/15838/vila-das-flores",
+    "name": "Vila das Flores",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Brazil"
+  },
+  {
     "id": "16859",
     "url": "https://www.vlr.gg/team/16859/inc-bloom",
     "name": "InC Bloom",
     "img": "https://owcdn.net/img/6767e4531e393.png",
     "country": "United States"
+  },
+  {
+    "id": "17475",
+    "url": "https://www.vlr.gg/team/17475/ultraviolet",
+    "name": "UltraViolet",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "7178",
+    "url": "https://www.vlr.gg/team/7178/adepts",
+    "name": "ADEPTS",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "Europe"
   },
   {
     "id": "15240",
@@ -10248,25 +10283,11 @@
     "country": "Turkey"
   },
   {
-    "id": "7178",
-    "url": "https://www.vlr.gg/team/7178/adepts",
-    "name": "ADEPTS",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "Europe"
-  },
-  {
-    "id": "17475",
-    "url": "https://www.vlr.gg/team/17475/ultraviolet",
-    "name": "UltraViolet",
+    "id": "17425",
+    "url": "https://www.vlr.gg/team/17425/divine",
+    "name": "DIVINE",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
-  },
-  {
-    "id": "16479",
-    "url": "https://www.vlr.gg/team/16479/yaoguang",
-    "name": "YaoGuang",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "China"
   },
   {
     "id": "17556",
@@ -10276,16 +10297,23 @@
     "country": "Brazil"
   },
   {
-    "id": "17425",
-    "url": "https://www.vlr.gg/team/17425/divine",
-    "name": "DIVINE",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
     "id": "16476",
     "url": "https://www.vlr.gg/team/16476/qinyu-gaming",
     "name": "Qinyu Gaming",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "China"
+  },
+  {
+    "id": "17484",
+    "url": "https://www.vlr.gg/team/17484/terps-gc-premier",
+    "name": "Terps GC Premier",
+    "img": "https://owcdn.net/img/636c1d93247a5.png",
+    "country": "United States"
+  },
+  {
+    "id": "16479",
+    "url": "https://www.vlr.gg/team/16479/yaoguang",
+    "name": "YaoGuang",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "China"
   },
@@ -10297,10 +10325,52 @@
     "country": "International"
   },
   {
-    "id": "17484",
-    "url": "https://www.vlr.gg/team/17484/terps-gc-premier",
-    "name": "Terps GC Premier",
-    "img": "https://owcdn.net/img/636c1d93247a5.png",
+    "id": "17819",
+    "url": "https://www.vlr.gg/team/17819/9-lives",
+    "name": "9 Lives",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "14232",
+    "url": "https://www.vlr.gg/team/14232/shoot-like-girls",
+    "name": "Shoot Like Girls",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "14736",
+    "url": "https://www.vlr.gg/team/14736/cinnabuns",
+    "name": "Cinnabuns",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "United States"
+  },
+  {
+    "id": "11809",
+    "url": "https://www.vlr.gg/team/11809/azzy-white",
+    "name": "Azzy White",
+    "img": "https://owcdn.net/img/6610f7f5bfb56.png",
+    "country": "Mexico"
+  },
+  {
+    "id": "17424",
+    "url": "https://www.vlr.gg/team/17424/demacians",
+    "name": "DeMaCiAnS",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
+    "country": "International"
+  },
+  {
+    "id": "15931",
+    "url": "https://www.vlr.gg/team/15931/xabara-white",
+    "name": "XABARA White",
+    "img": "https://owcdn.net/img/668b9fb91e7e6.png",
+    "country": "Malaysia"
+  },
+  {
+    "id": "15573",
+    "url": "https://www.vlr.gg/team/15573/luminescent-gc",
+    "name": "Luminescent GC",
+    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "United States"
   },
   {
@@ -10311,13 +10381,6 @@
     "country": "Singapore"
   },
   {
-    "id": "15573",
-    "url": "https://www.vlr.gg/team/15573/luminescent-gc",
-    "name": "Luminescent GC",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
     "id": "16139",
     "url": "https://www.vlr.gg/team/16139/deception",
     "name": "Deception",
@@ -10325,44 +10388,9 @@
     "country": "South Korea"
   },
   {
-    "id": "14232",
-    "url": "https://www.vlr.gg/team/14232/shoot-like-girls",
-    "name": "Shoot Like Girls",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "17819",
-    "url": "https://www.vlr.gg/team/17819/9-lives",
-    "name": "9 Lives",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
-  },
-  {
-    "id": "11809",
-    "url": "https://www.vlr.gg/team/11809/azzy-white",
-    "name": "Azzy White",
-    "img": "https://owcdn.net/img/6610f7f5bfb56.png",
-    "country": "Mexico"
-  },
-  {
-    "id": "14736",
-    "url": "https://www.vlr.gg/team/14736/cinnabuns",
-    "name": "Cinnabuns",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "United States"
-  },
-  {
-    "id": "15931",
-    "url": "https://www.vlr.gg/team/15931/xabara-white",
-    "name": "XABARA White",
-    "img": "https://owcdn.net/img/668b9fb91e7e6.png",
-    "country": "Malaysia"
-  },
-  {
-    "id": "17424",
-    "url": "https://www.vlr.gg/team/17424/demacians",
-    "name": "DeMaCiAnS",
+    "id": "13540",
+    "url": "https://www.vlr.gg/team/13540/teambash-kallisto",
+    "name": "TeamBasH Kallisto",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "International"
   },
@@ -10372,13 +10400,6 @@
     "name": "Egresadas",
     "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
     "country": "Chile"
-  },
-  {
-    "id": "13540",
-    "url": "https://www.vlr.gg/team/13540/teambash-kallisto",
-    "name": "TeamBasH Kallisto",
-    "img": "https://www.vlr.gg/img/vlr/tmp/vlr.png",
-    "country": "International"
   },
   {
     "id": "17428",

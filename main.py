@@ -28,7 +28,7 @@ def get_upcoming_match(team1, team2):
     return None
 
 def get_match_history(team_id):
-    url = f"https://5000-krushna06-statsvlrapi-gwwjqnmwcoo.ws-us118.gitpod.io/api/v1/match-history?team={team_id}"
+    url = f"https://5000-krushna06-statsvlrapi-gwwjqnmwcoo.ws-us118.gitpod.io/api/v1/match-history/{team_id}"
     response = requests.get(url)
 
     if response.status_code != 200:
