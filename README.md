@@ -27,12 +27,7 @@ The predictor makes its decision based on the following:
 
 ## Limitations
 While the current predictor provides a basic analysis, it has several limitations:
-- **Ignores Recent Performance**: It treats all past matches equally, regardless of how recent they are.
-- **No Strength of Opponent Consideration**: It does not account for whether a team won against strong or weak opponents.
-- **No Head-to-Head Analysis**: It does not check if one team historically performs well against the other.
-- **No Map Data**: It does not consider if a team has a better win rate on certain maps.
-- **No Roster Changes Consideration**: It assumes past performance is still relevant despite potential roster changes.
-
+- Yet to be found.
 ## Future Improvements
 To improve accuracy, we plan to implement the following features:
 - .~~**Recent Form Weighting**: Give more importance to recent matches over older ones..~~
